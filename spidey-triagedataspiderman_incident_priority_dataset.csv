@@ -1,0 +1,1601 @@
+incident_id,villain,incident_type,location,weather,time_of_day,civilians_at_risk,property_damage_level,web_trap_strength,spider_sense_alert,backup_status,villain_escape_risk,response_delay_minutes,response_priority
+SP-1560,Green Goblin,Robbery,Stark Tower,Storm,Afternoon,20,8,9,High,Available,5,10,Medium
+SP-0939,Mysterio,Hostage Rescue,Manhattan,Clear,Night,17,4,9,Low,Delayed,1,15,Medium
+SP-0535,Kingpin,Portal Disturbance,Harlem,Clear,Evening,12,10,4,Low,Available,10,5,Medium
+SP-0322,Doctor Octopus,Vehicle Chase,Stark Tower,Storm,Morning,16,7,7,Moderate,Available,3,5,Medium
+SP-1551,Kingpin,Vehicle Chase,Times Square,Clear,Night,22,8,10,High,Unavailable,6,16,Medium
+SP-0561,Sandman,Public Attack,Stark Tower,Clear,Afternoon,17,5,4,Moderate,Delayed,2,14,Medium
+SP-1353,Sandman,Reactor Sabotage,Oscorp Labs,Clear,Afternoon,17,2,8,Moderate,Available,8,12,Medium
+SP-0933,Venom,Lab Break-in,Times Square,Clear,Morning,18,4,10,Moderate,Delayed,9,18,Medium
+SP-1264,Kingpin,Robbery,Harlem,Rain,Afternoon,19,2,6,High,Available,7,8,Low
+SP-0931,Venom,Robbery,Manhattan,Clear,Evening,19,9,6,High,Available,3,5,Medium
+SP-0861,The Lizard,Robbery,Manhattan,Rain,Night,20,5,3,High,Unavailable,9,13,Medium
+SP-1182,The Lizard,Reactor Sabotage,Times Square,Clear,Morning,25,7,4,High,Available,4,4,High
+SP-1197,The Lizard,Portal Disturbance,Harlem,Clear,Afternoon,12,7,7,Moderate,Available,8,7,Medium
+SP-1303,Prowler,Portal Disturbance,Times Square,Rain,Night,20,10,9,Low,Delayed,7,12,Medium
+SP-1082,Prowler,Reactor Sabotage,Queens,Storm,Morning,11,5,5,Low,Delayed,4,2,Medium
+SP-1390,Green Goblin,Hostage Rescue,Stark Tower,Storm,Evening,19,1,4,Low,Available,8,11,Medium
+SP-0742,Sandman,Hostage Rescue,Brooklyn,Fog,Afternoon,23,9,9,Moderate,Available,8,12,Medium
+SP-0294,Green Goblin,Vehicle Chase,Oscorp Labs,Rain,Evening,17,6,5,Moderate,Available,7,9,Medium
+SP-1263,Venom,Robbery,Brooklyn,Clear,Evening,13,10,5,Low,Available,9,5,Medium
+SP-0712,The Lizard,Hostage Rescue,Times Square,Clear,Night,18,10,7,Moderate,Delayed,1,12,High
+SP-0733,Kingpin,Public Attack,Brooklyn,Fog,Night,13,9,2,Low,Available,3,11,Medium
+SP-0287,The Lizard,Public Attack,Brooklyn,Storm,Afternoon,22,5,2,Moderate,Unavailable,3,17,Medium
+SP-1326,Sandman,Public Attack,Queens,Rain,Morning,12,3,3,High,Delayed,2,7,Medium
+SP-1213,Prowler,Lab Break-in,Queens,Clear,Morning,22,4,2,High,Available,9,7,Medium
+SP-0261,Prowler,Hostage Rescue,Queens,Clear,Night,19,10,9,Low,Unavailable,7,13,Medium
+SP-0323,Kingpin,Reactor Sabotage,Times Square,Clear,Evening,16,6,1,Moderate,Unavailable,7,17,High
+SP-0841,Venom,Public Attack,Manhattan,Clear,Night,23,9,2,Moderate,Delayed,10,12,High
+SP-0268,Prowler,Robbery,Manhattan,Fog,Night,18,9,4,Moderate,Unavailable,4,12,Medium
+SP-0086,Green Goblin,Reactor Sabotage,Brooklyn,Fog,Night,13,10,2,High,Delayed,10,13,High
+SP-1381,Prowler,Public Attack,Brooklyn,Clear,Afternoon,23,6,5,High,Delayed,5,10,Medium
+SP-0803,Sandman,Robbery,Brooklyn,Rain,Afternoon,17,3,7,Low,Delayed,9,11,Low
+SP-1106,Prowler,Lab Break-in,Manhattan,Clear,Afternoon,16,9,2,Moderate,Unavailable,5,20,Medium
+SP-0416,Sandman,Portal Disturbance,Brooklyn,Rain,Afternoon,20,6,6,Moderate,Delayed,8,12,Medium
+SP-0386,Prowler,Public Attack,Harlem,Clear,Evening,15,2,7,Moderate,Delayed,1,13,Low
+SP-1440,Kingpin,Public Attack,Oscorp Labs,Storm,Morning,17,7,4,Moderate,Available,4,7,Medium
+SP-0276,Venom,Portal Disturbance,Oscorp Labs,Clear,Afternoon,17,1,4,Low,Unavailable,2,15,Medium
+SP-0686,Green Goblin,Lab Break-in,Oscorp Labs,Rain,Afternoon,14,2,4,Low,Available,5,7,Medium
+SP-0391,The Lizard,Portal Disturbance,Harlem,Clear,Morning,13,5,2,Low,Delayed,9,11,Medium
+SP-1004,Doctor Octopus,Public Attack,Harlem,Storm,Night,21,10,4,High,Available,4,8,High
+SP-1003,Venom,Hostage Rescue,Oscorp Labs,Rain,Night,24,4,8,High,Available,6,8,High
+SP-0945,Green Goblin,Hostage Rescue,Brooklyn,Clear,Morning,23,2,6,Moderate,Delayed,2,19,Medium
+SP-0559,Venom,Vehicle Chase,Brooklyn,Fog,Afternoon,16,6,10,Moderate,Delayed,1,12,Low
+SP-1036,Doctor Octopus,Reactor Sabotage,Manhattan,Clear,Evening,16,2,7,Low,Available,4,7,Medium
+SP-1595,Prowler,Lab Break-in,Manhattan,Storm,Afternoon,21,8,6,Low,Available,3,6,Low
+SP-0802,Kingpin,Portal Disturbance,Harlem,Storm,Night,19,2,9,High,Available,5,7,Medium
+SP-0232,Sandman,Vehicle Chase,Harlem,Clear,Morning,24,7,7,Moderate,Available,9,10,Medium
+SP-1465,The Lizard,Public Attack,Harlem,Clear,Morning,15,6,9,High,Available,5,5,Medium
+SP-0493,Green Goblin,Public Attack,Harlem,Storm,Morning,16,5,7,High,Available,1,11,Medium
+SP-0429,Mysterio,Portal Disturbance,Queens,Storm,Morning,17,6,4,High,Delayed,2,13,Medium
+SP-0067,Prowler,Reactor Sabotage,Harlem,Rain,Afternoon,13,9,8,Moderate,Unavailable,9,13,Medium
+SP-1320,Prowler,Lab Break-in,Brooklyn,Clear,Afternoon,26,5,3,Low,Delayed,6,10,Medium
+SP-0018,Prowler,Vehicle Chase,Times Square,Rain,Morning,24,6,2,Low,Delayed,7,12,Medium
+SP-1220,Mysterio,Lab Break-in,Manhattan,Storm,Night,14,2,6,Low,Available,9,11,Medium
+SP-0786,Kingpin,Portal Disturbance,Manhattan,Clear,Afternoon,15,9,3,Low,Delayed,3,15,Medium
+SP-0446,The Lizard,Hostage Rescue,Oscorp Labs,Clear,Morning,12,6,1,Low,Available,9,5,High
+SP-0495,Sandman,Robbery,Queens,Rain,Night,19,3,8,Low,Available,5,5,Low
+SP-1436,Kingpin,Lab Break-in,Brooklyn,Rain,Morning,20,5,1,Moderate,Available,8,15,Medium
+SP-1547,Kingpin,Portal Disturbance,Queens,Clear,Afternoon,25,2,5,Low,Available,3,8,Low
+SP-0269,Doctor Octopus,Public Attack,Times Square,Clear,Night,22,2,6,Low,Available,2,11,Medium
+SP-1496,Doctor Octopus,Vehicle Chase,Harlem,Clear,Evening,14,2,1,Low,Available,10,7,Medium
+SP-0958,Venom,Public Attack,Manhattan,Clear,Evening,18,9,8,Low,Available,6,9,Medium
+SP-0715,Sandman,Reactor Sabotage,Brooklyn,Rain,Night,18,6,7,Low,Available,10,12,Medium
+SP-0836,Venom,Lab Break-in,Stark Tower,Clear,Morning,21,2,4,Moderate,Delayed,8,13,High
+SP-0654,Venom,Reactor Sabotage,Queens,Rain,Morning,14,4,7,Low,Available,2,5,Medium
+SP-0997,Doctor Octopus,Portal Disturbance,Queens,Clear,Afternoon,21,8,7,Moderate,Delayed,2,6,Medium
+SP-0471,Prowler,Robbery,Manhattan,Clear,Evening,16,6,1,High,Available,4,7,Low
+SP-0665,Doctor Octopus,Public Attack,Stark Tower,Rain,Evening,22,4,4,Moderate,Delayed,7,10,High
+SP-0973,Doctor Octopus,Hostage Rescue,Brooklyn,Storm,Afternoon,13,1,4,Moderate,Delayed,3,12,Medium
+SP-1135,Green Goblin,Lab Break-in,Queens,Clear,Afternoon,17,6,3,Low,Available,7,9,Medium
+SP-1344,Kingpin,Hostage Rescue,Queens,Clear,Evening,24,4,4,Low,Unavailable,9,17,Medium
+SP-1046,The Lizard,Lab Break-in,Brooklyn,Rain,Morning,17,10,8,High,Available,5,10,Medium
+SP-1474,Sandman,Vehicle Chase,Harlem,Clear,Morning,18,1,3,Low,Unavailable,9,15,Medium
+SP-0275,The Lizard,Lab Break-in,Queens,Fog,Morning,27,6,5,Moderate,Available,3,4,Medium
+SP-0370,Doctor Octopus,Public Attack,Harlem,Clear,Night,20,7,5,Low,Unavailable,3,22,Medium
+SP-0385,Venom,Vehicle Chase,Brooklyn,Rain,Night,32,5,1,Low,Delayed,5,13,Medium
+SP-1418,Green Goblin,Hostage Rescue,Harlem,Clear,Morning,24,9,7,Low,Unavailable,8,16,Medium
+SP-1521,Venom,Portal Disturbance,Times Square,Clear,Morning,23,9,2,Moderate,Delayed,7,17,High
+SP-1334,Kingpin,Reactor Sabotage,Oscorp Labs,Clear,Afternoon,17,7,4,Low,Delayed,10,10,High
+SP-0757,The Lizard,Reactor Sabotage,Oscorp Labs,Clear,Morning,17,5,3,Low,Available,2,8,Medium
+SP-1370,Doctor Octopus,Hostage Rescue,Times Square,Storm,Afternoon,22,5,8,High,Unavailable,2,15,High
+SP-1348,Sandman,Portal Disturbance,Queens,Storm,Night,12,1,8,High,Delayed,4,10,Medium
+SP-0156,Sandman,Robbery,Times Square,Clear,Night,20,1,7,High,Available,6,6,Low
+SP-1238,Prowler,Portal Disturbance,Times Square,Storm,Evening,19,6,7,Moderate,Unavailable,10,18,Medium
+SP-1108,Sandman,Portal Disturbance,Stark Tower,Clear,Evening,5,5,1,Moderate,Available,5,6,Medium
+SP-1117,Mysterio,Hostage Rescue,Stark Tower,Rain,Afternoon,23,6,8,High,Available,5,7,Medium
+SP-1367,Prowler,Public Attack,Brooklyn,Clear,Afternoon,16,10,5,High,Available,9,10,Medium
+SP-0653,Prowler,Hostage Rescue,Stark Tower,Clear,Afternoon,25,1,6,Low,Delayed,6,10,Low
+SP-0406,Mysterio,Hostage Rescue,Manhattan,Clear,Night,17,3,1,High,Delayed,2,12,Medium
+SP-0585,Mysterio,Public Attack,Queens,Clear,Evening,16,4,8,High,Delayed,1,14,Medium
+SP-0673,Sandman,Hostage Rescue,Brooklyn,Clear,Morning,13,3,9,Moderate,Available,3,8,Low
+SP-1096,Kingpin,Reactor Sabotage,Times Square,Rain,Morning,21,7,4,High,Available,6,6,Medium
+SP-1262,The Lizard,Hostage Rescue,Times Square,Clear,Night,15,10,3,Moderate,Available,9,9,High
+SP-0035,Prowler,Robbery,Oscorp Labs,Rain,Evening,19,9,2,High,Available,5,7,Medium
+SP-0335,Sandman,Portal Disturbance,Oscorp Labs,Clear,Afternoon,14,4,9,Low,Unavailable,2,18,Medium
+SP-0301,Venom,Lab Break-in,Brooklyn,Clear,Evening,23,4,8,Low,Delayed,5,13,Medium
+SP-0542,Sandman,Hostage Rescue,Brooklyn,Storm,Morning,12,2,5,High,Delayed,4,12,Medium
+SP-0048,Venom,Lab Break-in,Queens,Rain,Morning,20,4,4,High,Delayed,6,15,Medium
+SP-0533,Mysterio,Lab Break-in,Brooklyn,Clear,Morning,11,3,6,Moderate,Delayed,4,14,Medium
+SP-0382,Mysterio,Hostage Rescue,Manhattan,Clear,Morning,10,1,8,High,Available,7,9,Medium
+SP-0823,Doctor Octopus,Vehicle Chase,Manhattan,Rain,Evening,11,4,3,Low,Unavailable,8,21,Medium
+SP-0084,The Lizard,Hostage Rescue,Oscorp Labs,Rain,Evening,12,5,7,High,Available,10,9,High
+SP-0273,Venom,Robbery,Queens,Rain,Evening,20,5,5,Moderate,Available,6,7,Low
+SP-0627,Mysterio,Portal Disturbance,Times Square,Clear,Night,17,6,4,Low,Available,5,7,Medium
+SP-1243,Kingpin,Portal Disturbance,Harlem,Clear,Night,15,3,9,Low,Unavailable,7,15,Medium
+SP-0211,Doctor Octopus,Robbery,Brooklyn,Clear,Night,22,6,5,High,Available,7,12,Medium
+SP-0249,Kingpin,Vehicle Chase,Harlem,Clear,Night,16,1,1,Moderate,Delayed,10,14,Medium
+SP-0080,Doctor Octopus,Public Attack,Harlem,Storm,Night,20,3,9,Low,Delayed,5,10,Medium
+SP-1412,Doctor Octopus,Robbery,Manhattan,Clear,Night,16,5,5,High,Unavailable,5,13,Medium
+SP-0219,Venom,Public Attack,Stark Tower,Clear,Afternoon,18,5,3,Low,Delayed,9,11,High
+SP-0099,Doctor Octopus,Hostage Rescue,Harlem,Rain,Afternoon,15,1,1,Low,Unavailable,3,17,Medium
+SP-0298,Kingpin,Portal Disturbance,Oscorp Labs,Clear,Afternoon,15,8,7,Moderate,Delayed,2,14,Medium
+SP-1537,Venom,Lab Break-in,Brooklyn,Clear,Evening,30,3,5,High,Delayed,7,12,Medium
+SP-1467,Green Goblin,Robbery,Manhattan,Rain,Morning,14,3,7,High,Delayed,3,13,Medium
+SP-0862,Doctor Octopus,Vehicle Chase,Harlem,Fog,Morning,20,1,5,High,Delayed,8,5,Medium
+SP-0212,Kingpin,Vehicle Chase,Stark Tower,Fog,Night,22,4,2,Low,Delayed,2,13,Medium
+SP-0484,Sandman,Public Attack,Queens,Clear,Morning,20,3,2,Low,Available,8,7,Medium
+SP-0329,Prowler,Public Attack,Stark Tower,Rain,Morning,21,9,9,High,Available,2,6,Medium
+SP-0771,Green Goblin,Lab Break-in,Brooklyn,Clear,Afternoon,26,5,5,Low,Available,5,4,Medium
+SP-1345,The Lizard,Portal Disturbance,Manhattan,Fog,Night,23,8,4,High,Delayed,6,8,Medium
+SP-1083,Venom,Portal Disturbance,Harlem,Clear,Morning,18,2,9,Moderate,Available,3,13,Medium
+SP-0649,The Lizard,Robbery,Oscorp Labs,Clear,Afternoon,15,2,5,High,Available,4,8,Low
+SP-0522,Mysterio,Reactor Sabotage,Stark Tower,Fog,Morning,19,3,4,High,Available,2,10,Medium
+SP-0012,Mysterio,Lab Break-in,Times Square,Clear,Night,12,5,3,Moderate,Delayed,8,19,Medium
+SP-0427,Venom,Robbery,Harlem,Clear,Morning,19,8,3,Low,Available,6,5,Medium
+SP-0503,The Lizard,Reactor Sabotage,Brooklyn,Rain,Night,19,8,3,Low,Unavailable,10,13,High
+SP-1010,Kingpin,Hostage Rescue,Stark Tower,Clear,Morning,19,9,3,Low,Available,10,1,Medium
+SP-0650,Green Goblin,Lab Break-in,Queens,Rain,Night,24,6,6,High,Available,3,4,Medium
+SP-0475,The Lizard,Robbery,Stark Tower,Clear,Morning,18,9,8,Moderate,Available,3,7,Low
+SP-0407,Mysterio,Hostage Rescue,Times Square,Clear,Afternoon,15,1,6,Low,Available,5,9,Medium
+SP-0523,Mysterio,Portal Disturbance,Times Square,Clear,Evening,21,7,8,Moderate,Delayed,8,14,Medium
+SP-0250,Sandman,Public Attack,Times Square,Rain,Morning,16,6,9,High,Delayed,5,12,Medium
+SP-0606,Prowler,Portal Disturbance,Times Square,Storm,Morning,19,6,6,Moderate,Available,9,9,Medium
+SP-0367,Venom,Lab Break-in,Queens,Clear,Afternoon,22,7,3,Low,Available,7,10,Medium
+SP-0320,Kingpin,Reactor Sabotage,Times Square,Clear,Night,15,2,4,High,Unavailable,10,16,Medium
+SP-0388,The Lizard,Vehicle Chase,Stark Tower,Fog,Night,16,6,8,High,Delayed,5,13,Medium
+SP-1032,Venom,Reactor Sabotage,Manhattan,Clear,Evening,18,4,3,Low,Available,5,10,Medium
+SP-0509,Green Goblin,Reactor Sabotage,Queens,Clear,Morning,18,7,5,High,Available,2,13,Medium
+SP-0424,Doctor Octopus,Reactor Sabotage,Harlem,Storm,Night,25,10,10,High,Delayed,7,11,High
+SP-1252,Venom,Vehicle Chase,Queens,Storm,Evening,15,1,5,Low,Delayed,2,13,Medium
+SP-1266,Green Goblin,Robbery,Oscorp Labs,Clear,Evening,17,8,6,Moderate,Available,2,8,Medium
+SP-0691,Venom,Public Attack,Brooklyn,Rain,Night,12,4,2,High,Available,2,7,Medium
+SP-0070,Green Goblin,Vehicle Chase,Harlem,Clear,Morning,22,4,1,High,Available,5,8,Medium
+SP-1166,Prowler,Reactor Sabotage,Oscorp Labs,Clear,Morning,24,3,4,Moderate,Available,10,10,Medium
+SP-0579,The Lizard,Vehicle Chase,Queens,Rain,Night,20,7,1,High,Available,10,8,Medium
+SP-0631,Mysterio,Vehicle Chase,Brooklyn,Clear,Night,14,7,1,High,Available,10,11,Medium
+SP-0282,Doctor Octopus,Portal Disturbance,Times Square,Clear,Morning,16,3,4,Low,Available,2,5,Medium
+SP-0574,Mysterio,Hostage Rescue,Oscorp Labs,Storm,Night,18,8,2,Low,Available,4,3,Medium
+SP-0698,Prowler,Vehicle Chase,Queens,Clear,Night,26,1,6,Moderate,Available,6,7,Low
+SP-0400,Venom,Vehicle Chase,Stark Tower,Clear,Evening,19,5,3,Low,Unavailable,1,14,Medium
+SP-1542,Prowler,Hostage Rescue,Times Square,Clear,Morning,16,3,2,High,Available,7,9,Medium
+SP-0193,Green Goblin,Portal Disturbance,Times Square,Clear,Morning,23,3,9,High,Available,7,6,Medium
+SP-1312,Sandman,Reactor Sabotage,Manhattan,Rain,Morning,16,8,1,Low,Unavailable,3,17,High
+SP-0244,Doctor Octopus,Lab Break-in,Times Square,Clear,Afternoon,19,3,2,Moderate,Delayed,5,11,Medium
+SP-1541,Mysterio,Reactor Sabotage,Times Square,Rain,Night,25,2,5,High,Delayed,10,12,High
+SP-0998,Doctor Octopus,Portal Disturbance,Oscorp Labs,Storm,Night,18,5,6,High,Delayed,1,7,Medium
+SP-0017,The Lizard,Robbery,Harlem,Fog,Morning,24,5,4,High,Available,5,8,Medium
+SP-0728,Prowler,Public Attack,Times Square,Rain,Evening,15,1,8,Low,Available,2,5,Low
+SP-0702,Venom,Lab Break-in,Harlem,Clear,Evening,16,1,4,Low,Delayed,8,13,Medium
+SP-1550,Sandman,Reactor Sabotage,Queens,Clear,Night,13,4,7,High,Unavailable,4,13,Medium
+SP-0126,The Lizard,Robbery,Times Square,Fog,Afternoon,16,1,5,Low,Available,4,6,Low
+SP-1339,Venom,Portal Disturbance,Harlem,Fog,Night,15,1,2,Low,Available,2,6,Medium
+SP-0795,Doctor Octopus,Vehicle Chase,Brooklyn,Storm,Morning,24,1,5,High,Available,4,11,Medium
+SP-1244,Sandman,Portal Disturbance,Oscorp Labs,Rain,Morning,20,7,10,High,Available,10,6,High
+SP-0344,The Lizard,Vehicle Chase,Queens,Storm,Morning,19,2,2,Moderate,Available,4,3,Medium
+SP-1284,Doctor Octopus,Portal Disturbance,Brooklyn,Clear,Evening,13,6,5,Low,Delayed,10,12,Medium
+SP-1470,Prowler,Public Attack,Brooklyn,Clear,Morning,21,8,9,Moderate,Unavailable,5,15,Medium
+SP-0571,Sandman,Hostage Rescue,Queens,Rain,Afternoon,19,4,4,Low,Available,1,5,Medium
+SP-0058,Sandman,Portal Disturbance,Times Square,Storm,Night,17,2,4,Low,Available,5,12,Medium
+SP-0910,Kingpin,Robbery,Manhattan,Clear,Morning,17,9,6,Moderate,Available,3,4,Low
+SP-1411,Kingpin,Vehicle Chase,Stark Tower,Storm,Night,8,7,3,Moderate,Available,7,16,Medium
+SP-1458,Kingpin,Reactor Sabotage,Stark Tower,Fog,Morning,23,8,9,Low,Unavailable,10,13,Medium
+SP-0343,Mysterio,Vehicle Chase,Brooklyn,Rain,Evening,17,4,6,High,Delayed,4,15,Medium
+SP-1217,Sandman,Hostage Rescue,Manhattan,Storm,Morning,18,4,4,Low,Available,2,1,Low
+SP-1112,Kingpin,Public Attack,Manhattan,Rain,Morning,23,3,4,High,Delayed,7,14,Medium
+SP-0697,Prowler,Lab Break-in,Brooklyn,Storm,Evening,17,6,8,Low,Available,1,5,Low
+SP-0718,Kingpin,Vehicle Chase,Stark Tower,Fog,Evening,16,3,1,Moderate,Available,4,11,Medium
+SP-1295,Green Goblin,Portal Disturbance,Brooklyn,Fog,Morning,21,4,4,High,Available,2,12,Medium
+SP-1194,Sandman,Lab Break-in,Harlem,Storm,Afternoon,11,2,10,Low,Available,2,8,Low
+SP-1386,Mysterio,Lab Break-in,Manhattan,Storm,Afternoon,16,2,8,High,Unavailable,7,20,Medium
+SP-0451,Mysterio,Hostage Rescue,Manhattan,Rain,Morning,14,4,7,Low,Available,1,8,Low
+SP-0004,Venom,Reactor Sabotage,Oscorp Labs,Clear,Evening,12,10,1,Moderate,Available,4,9,High
+SP-0497,Doctor Octopus,Portal Disturbance,Manhattan,Clear,Evening,15,6,5,Low,Available,6,4,Medium
+SP-0394,Kingpin,Reactor Sabotage,Oscorp Labs,Clear,Morning,19,7,9,Low,Available,1,5,Medium
+SP-1493,Sandman,Reactor Sabotage,Stark Tower,Rain,Night,15,10,10,Moderate,Delayed,6,12,High
+SP-1142,Sandman,Public Attack,Harlem,Rain,Afternoon,28,9,10,Moderate,Delayed,6,16,Medium
+SP-0961,Venom,Lab Break-in,Stark Tower,Rain,Afternoon,14,7,7,Low,Available,5,6,Medium
+SP-0085,Prowler,Hostage Rescue,Times Square,Fog,Afternoon,21,9,5,Moderate,Available,8,6,Medium
+SP-1205,Venom,Robbery,Times Square,Storm,Evening,25,4,4,High,Available,8,5,Medium
+SP-1582,Venom,Vehicle Chase,Times Square,Storm,Evening,19,2,10,Moderate,Available,3,4,Medium
+SP-0326,Doctor Octopus,Lab Break-in,Brooklyn,Clear,Evening,15,6,4,Low,Available,10,7,Medium
+SP-0374,Kingpin,Portal Disturbance,Manhattan,Clear,Afternoon,11,8,2,Low,Available,8,10,Medium
+SP-0869,Doctor Octopus,Portal Disturbance,Harlem,Rain,Night,15,5,1,Moderate,Available,10,4,Medium
+SP-0884,Sandman,Portal Disturbance,Stark Tower,Clear,Night,17,2,5,Low,Available,2,9,Medium
+SP-1207,Prowler,Public Attack,Oscorp Labs,Clear,Evening,22,3,1,High,Delayed,8,14,Medium
+SP-1513,Mysterio,Public Attack,Brooklyn,Storm,Evening,11,10,7,Moderate,Available,7,5,Medium
+SP-0990,Doctor Octopus,Robbery,Manhattan,Clear,Night,20,4,2,Moderate,Available,7,6,Medium
+SP-1049,Prowler,Public Attack,Harlem,Rain,Night,23,4,7,High,Available,8,2,Medium
+SP-0104,Prowler,Vehicle Chase,Brooklyn,Clear,Evening,18,9,10,High,Available,9,8,Medium
+SP-0154,Kingpin,Robbery,Brooklyn,Clear,Evening,26,6,10,Low,Delayed,5,16,Low
+SP-0414,Kingpin,Lab Break-in,Oscorp Labs,Clear,Morning,12,8,2,Moderate,Available,7,7,Medium
+SP-0508,The Lizard,Public Attack,Times Square,Rain,Night,19,5,4,High,Unavailable,10,13,High
+SP-1031,Doctor Octopus,Portal Disturbance,Brooklyn,Clear,Evening,18,6,4,Low,Delayed,4,11,Medium
+SP-0532,Kingpin,Reactor Sabotage,Harlem,Fog,Night,21,8,1,Low,Available,10,8,Medium
+SP-0864,Mysterio,Vehicle Chase,Queens,Rain,Morning,19,2,1,Moderate,Available,2,6,Low
+SP-0629,Green Goblin,Portal Disturbance,Manhattan,Storm,Evening,21,9,4,Moderate,Available,3,13,High
+SP-0504,Venom,Lab Break-in,Stark Tower,Clear,Night,20,5,10,Low,Unavailable,4,16,Medium
+SP-1481,Mysterio,Public Attack,Queens,Storm,Evening,18,8,7,Low,Delayed,5,12,Medium
+SP-1586,Venom,Portal Disturbance,Stark Tower,Storm,Morning,19,7,7,Moderate,Unavailable,3,16,High
+SP-1482,Mysterio,Reactor Sabotage,Brooklyn,Clear,Evening,17,5,9,Moderate,Delayed,4,10,Medium
+SP-0102,Prowler,Lab Break-in,Oscorp Labs,Fog,Afternoon,13,6,6,Low,Delayed,7,9,Medium
+SP-1552,Mysterio,Hostage Rescue,Times Square,Clear,Afternoon,21,5,10,High,Delayed,2,18,Medium
+SP-1110,Kingpin,Hostage Rescue,Manhattan,Rain,Night,21,5,8,High,Delayed,4,11,Medium
+SP-0832,Green Goblin,Portal Disturbance,Oscorp Labs,Rain,Morning,12,7,5,Moderate,Available,10,10,High
+SP-1020,Mysterio,Hostage Rescue,Manhattan,Clear,Evening,15,4,1,Moderate,Delayed,1,9,Medium
+SP-0373,The Lizard,Portal Disturbance,Manhattan,Clear,Afternoon,13,8,3,High,Available,9,11,Medium
+SP-1100,Kingpin,Reactor Sabotage,Times Square,Rain,Night,12,4,2,Moderate,Available,6,11,Medium
+SP-1064,The Lizard,Lab Break-in,Stark Tower,Fog,Morning,21,7,6,Moderate,Unavailable,3,15,Medium
+SP-0778,Doctor Octopus,Public Attack,Times Square,Rain,Afternoon,16,3,10,Moderate,Available,2,8,Low
+SP-0982,Prowler,Portal Disturbance,Times Square,Clear,Morning,14,1,1,Moderate,Unavailable,5,13,Medium
+SP-0457,Prowler,Reactor Sabotage,Brooklyn,Storm,Night,15,9,2,High,Available,3,6,Medium
+SP-0511,Kingpin,Portal Disturbance,Manhattan,Clear,Afternoon,13,9,10,High,Available,2,11,Medium
+SP-0279,Green Goblin,Hostage Rescue,Stark Tower,Clear,Night,13,3,3,High,Available,9,9,High
+SP-0194,Green Goblin,Hostage Rescue,Times Square,Fog,Morning,25,5,10,High,Delayed,1,14,Medium
+SP-1488,Doctor Octopus,Portal Disturbance,Stark Tower,Storm,Evening,11,5,10,Moderate,Available,1,1,Medium
+SP-1131,Prowler,Hostage Rescue,Brooklyn,Clear,Night,20,8,4,High,Unavailable,7,17,High
+SP-0181,Mysterio,Reactor Sabotage,Oscorp Labs,Clear,Night,13,9,3,High,Available,7,8,High
+SP-0334,Mysterio,Public Attack,Brooklyn,Storm,Evening,26,10,7,Moderate,Available,3,5,Medium
+SP-0637,Green Goblin,Reactor Sabotage,Oscorp Labs,Clear,Evening,11,7,4,Moderate,Delayed,1,10,High
+SP-1298,Mysterio,Vehicle Chase,Brooklyn,Storm,Evening,13,6,6,High,Available,1,12,Low
+SP-1504,Sandman,Portal Disturbance,Queens,Storm,Night,21,4,5,High,Unavailable,6,10,Medium
+SP-1183,The Lizard,Public Attack,Queens,Clear,Evening,15,7,9,Low,Available,10,8,Low
+SP-0197,Kingpin,Robbery,Stark Tower,Clear,Evening,23,4,3,Low,Available,9,4,Low
+SP-1433,Venom,Vehicle Chase,Manhattan,Rain,Night,20,7,8,Moderate,Available,3,7,Medium
+SP-1498,The Lizard,Hostage Rescue,Stark Tower,Storm,Afternoon,24,5,6,Low,Available,1,6,Medium
+SP-0109,The Lizard,Vehicle Chase,Stark Tower,Storm,Evening,25,5,4,Low,Available,6,8,Medium
+SP-0330,Green Goblin,Hostage Rescue,Harlem,Rain,Evening,17,4,4,Low,Delayed,1,15,Medium
+SP-1349,Mysterio,Hostage Rescue,Harlem,Clear,Morning,10,3,3,Low,Available,9,9,Medium
+SP-1134,Venom,Reactor Sabotage,Harlem,Clear,Night,14,8,2,High,Available,3,9,Medium
+SP-1179,Kingpin,Lab Break-in,Queens,Rain,Evening,13,4,3,High,Unavailable,1,16,Medium
+SP-0598,Venom,Robbery,Queens,Storm,Evening,18,1,8,High,Available,9,7,Low
+SP-0053,The Lizard,Hostage Rescue,Brooklyn,Clear,Night,14,2,5,High,Available,4,8,Medium
+SP-0994,Kingpin,Portal Disturbance,Manhattan,Fog,Afternoon,23,5,9,Moderate,Available,10,12,Medium
+SP-0470,Mysterio,Portal Disturbance,Stark Tower,Clear,Evening,13,7,8,Moderate,Available,2,7,Medium
+SP-0750,Venom,Public Attack,Stark Tower,Rain,Afternoon,19,7,9,Low,Delayed,6,10,Medium
+SP-1308,Venom,Robbery,Stark Tower,Clear,Afternoon,10,1,1,Moderate,Available,1,7,Low
+SP-1052,Venom,Hostage Rescue,Stark Tower,Rain,Afternoon,17,1,8,High,Available,4,13,Medium
+SP-0635,The Lizard,Vehicle Chase,Queens,Rain,Morning,17,7,5,Moderate,Available,2,10,Medium
+SP-0815,Venom,Public Attack,Harlem,Clear,Night,18,4,7,Moderate,Delayed,2,7,Medium
+SP-1071,Sandman,Lab Break-in,Manhattan,Fog,Afternoon,25,7,5,Moderate,Available,6,6,Medium
+SP-0544,Green Goblin,Portal Disturbance,Oscorp Labs,Rain,Night,20,5,9,Low,Unavailable,10,18,High
+SP-0853,The Lizard,Vehicle Chase,Queens,Rain,Afternoon,19,2,8,High,Unavailable,2,20,Medium
+SP-0477,Mysterio,Lab Break-in,Oscorp Labs,Rain,Night,15,5,9,High,Available,1,5,Medium
+SP-0295,Prowler,Robbery,Queens,Clear,Afternoon,17,3,9,Low,Delayed,4,12,Low
+SP-0224,Mysterio,Robbery,Queens,Clear,Night,16,9,9,Moderate,Delayed,3,12,Low
+SP-0545,Prowler,Robbery,Queens,Fog,Evening,23,7,1,Low,Delayed,9,15,Medium
+SP-0421,Kingpin,Hostage Rescue,Queens,Rain,Night,18,1,10,Moderate,Available,9,3,Medium
+SP-1040,Doctor Octopus,Hostage Rescue,Brooklyn,Clear,Evening,17,3,2,High,Available,9,5,Medium
+SP-1235,Venom,Hostage Rescue,Oscorp Labs,Clear,Morning,16,3,1,Low,Delayed,4,16,High
+SP-0616,Kingpin,Public Attack,Oscorp Labs,Rain,Afternoon,21,9,7,Moderate,Unavailable,10,13,High
+SP-1151,Venom,Lab Break-in,Manhattan,Storm,Evening,12,1,3,Moderate,Delayed,6,7,Medium
+SP-0625,Mysterio,Public Attack,Manhattan,Rain,Morning,11,7,3,Moderate,Delayed,9,13,Medium
+SP-0684,Green Goblin,Robbery,Manhattan,Rain,Morning,16,9,1,Low,Delayed,1,13,Medium
+SP-0092,Prowler,Robbery,Stark Tower,Clear,Evening,23,3,4,Low,Available,7,9,Low
+SP-1407,Venom,Lab Break-in,Queens,Fog,Afternoon,15,4,3,Low,Available,7,12,Medium
+SP-1489,Prowler,Reactor Sabotage,Times Square,Storm,Evening,24,10,8,Low,Unavailable,10,13,High
+SP-1248,Green Goblin,Robbery,Brooklyn,Clear,Morning,13,9,10,Low,Delayed,8,13,Low
+SP-1021,Venom,Vehicle Chase,Stark Tower,Clear,Afternoon,23,3,9,High,Available,5,6,Medium
+SP-0791,Doctor Octopus,Hostage Rescue,Queens,Storm,Night,9,9,8,Low,Delayed,3,15,Medium
+SP-0519,The Lizard,Robbery,Stark Tower,Clear,Evening,22,8,10,High,Available,3,4,Low
+SP-1566,Sandman,Public Attack,Brooklyn,Clear,Morning,10,6,1,Moderate,Delayed,7,13,Medium
+SP-1154,Mysterio,Public Attack,Manhattan,Clear,Morning,14,6,5,Moderate,Delayed,7,13,Medium
+SP-0351,Mysterio,Vehicle Chase,Times Square,Fog,Evening,25,8,6,Low,Available,8,9,Medium
+SP-0530,Doctor Octopus,Vehicle Chase,Manhattan,Rain,Afternoon,24,10,7,High,Available,8,6,Medium
+SP-1554,Green Goblin,Vehicle Chase,Queens,Storm,Afternoon,14,9,3,High,Available,1,9,Medium
+SP-0473,Green Goblin,Public Attack,Oscorp Labs,Clear,Evening,12,7,4,High,Delayed,5,12,High
+SP-0671,Green Goblin,Robbery,Harlem,Clear,Night,23,7,2,High,Delayed,2,7,Medium
+SP-0537,Sandman,Public Attack,Times Square,Storm,Afternoon,20,5,6,Low,Available,5,8,Medium
+SP-0695,Green Goblin,Vehicle Chase,Harlem,Rain,Afternoon,23,2,9,Low,Available,10,12,Medium
+SP-1398,Doctor Octopus,Public Attack,Brooklyn,Rain,Afternoon,16,5,9,High,Available,3,4,Medium
+SP-1453,Green Goblin,Public Attack,Manhattan,Clear,Evening,19,9,10,High,Available,10,10,Medium
+SP-0682,The Lizard,Vehicle Chase,Stark Tower,Storm,Night,21,5,10,High,Delayed,4,13,Medium
+SP-0947,Sandman,Lab Break-in,Manhattan,Clear,Evening,23,10,6,Low,Unavailable,9,15,Medium
+SP-0669,Venom,Portal Disturbance,Stark Tower,Fog,Afternoon,32,6,4,Low,Available,5,14,Medium
+SP-1502,Sandman,Robbery,Stark Tower,Clear,Night,12,1,10,Low,Available,6,14,Low
+SP-0582,Sandman,Reactor Sabotage,Oscorp Labs,Clear,Evening,19,7,1,Moderate,Delayed,3,12,High
+SP-0278,Mysterio,Portal Disturbance,Times Square,Storm,Evening,18,8,9,Moderate,Unavailable,1,13,Medium
+SP-1368,Prowler,Portal Disturbance,Oscorp Labs,Clear,Afternoon,10,10,10,Low,Delayed,4,8,Medium
+SP-0151,Doctor Octopus,Lab Break-in,Times Square,Clear,Night,18,2,3,Low,Unavailable,8,11,Medium
+SP-0050,Green Goblin,Public Attack,Brooklyn,Clear,Night,10,2,7,Low,Unavailable,10,18,Medium
+SP-1057,Mysterio,Hostage Rescue,Queens,Clear,Afternoon,10,8,2,Moderate,Available,8,3,Medium
+SP-0376,The Lizard,Portal Disturbance,Times Square,Clear,Night,19,4,8,Low,Available,6,4,Medium
+SP-0313,Doctor Octopus,Reactor Sabotage,Brooklyn,Clear,Afternoon,18,5,2,High,Delayed,2,15,High
+SP-0845,Mysterio,Public Attack,Times Square,Storm,Afternoon,16,5,3,Low,Delayed,9,7,Medium
+SP-0538,Venom,Vehicle Chase,Stark Tower,Clear,Night,18,5,2,High,Available,9,11,High
+SP-0458,Sandman,Lab Break-in,Queens,Clear,Morning,12,10,8,High,Available,10,5,Medium
+SP-0318,Sandman,Lab Break-in,Harlem,Rain,Night,17,10,4,Moderate,Unavailable,3,20,Medium
+SP-0957,The Lizard,Robbery,Times Square,Rain,Evening,16,2,7,Moderate,Unavailable,4,21,Medium
+SP-0041,Mysterio,Lab Break-in,Stark Tower,Rain,Evening,17,5,9,Moderate,Delayed,3,6,Medium
+SP-0859,Doctor Octopus,Vehicle Chase,Brooklyn,Rain,Afternoon,13,1,8,Moderate,Available,5,3,Low
+SP-1400,Kingpin,Portal Disturbance,Manhattan,Clear,Morning,23,5,5,High,Unavailable,3,20,Medium
+SP-0281,Doctor Octopus,Hostage Rescue,Oscorp Labs,Fog,Evening,20,3,6,Low,Delayed,6,17,Medium
+SP-0797,Prowler,Portal Disturbance,Queens,Clear,Evening,22,3,2,Moderate,Available,7,5,Medium
+SP-0209,The Lizard,Public Attack,Harlem,Clear,Afternoon,24,1,6,High,Available,10,7,Medium
+SP-0849,Venom,Public Attack,Manhattan,Rain,Night,12,6,5,High,Delayed,4,17,High
+SP-1101,Mysterio,Vehicle Chase,Queens,Fog,Morning,24,3,4,Moderate,Unavailable,4,14,Medium
+SP-0265,Sandman,Lab Break-in,Times Square,Rain,Evening,15,2,7,Low,Delayed,2,13,Low
+SP-0578,Green Goblin,Reactor Sabotage,Queens,Clear,Night,20,1,10,Low,Delayed,1,12,Medium
+SP-0811,Venom,Portal Disturbance,Oscorp Labs,Rain,Afternoon,23,8,6,Low,Unavailable,8,22,High
+SP-0839,Prowler,Vehicle Chase,Queens,Clear,Morning,14,1,1,Moderate,Delayed,8,10,Low
+SP-1391,Prowler,Reactor Sabotage,Manhattan,Storm,Night,17,5,10,Low,Available,10,8,Medium
+SP-1219,Doctor Octopus,Robbery,Manhattan,Clear,Morning,20,6,6,High,Delayed,5,14,Medium
+SP-1027,Green Goblin,Vehicle Chase,Oscorp Labs,Fog,Afternoon,19,2,10,Moderate,Unavailable,4,16,Medium
+SP-0365,Venom,Portal Disturbance,Queens,Rain,Evening,23,7,10,Low,Delayed,6,16,Medium
+SP-0872,Kingpin,Portal Disturbance,Stark Tower,Fog,Evening,13,4,4,Low,Delayed,6,9,Medium
+SP-1291,Green Goblin,Public Attack,Queens,Clear,Afternoon,20,4,5,Low,Delayed,5,9,Medium
+SP-0291,Prowler,Vehicle Chase,Brooklyn,Clear,Afternoon,14,1,1,Low,Delayed,10,15,Low
+SP-1516,Doctor Octopus,Portal Disturbance,Manhattan,Fog,Morning,19,4,8,Moderate,Delayed,2,17,Medium
+SP-0037,Kingpin,Robbery,Oscorp Labs,Storm,Night,13,3,6,High,Available,3,10,Medium
+SP-0262,Green Goblin,Vehicle Chase,Brooklyn,Clear,Night,22,1,2,Low,Delayed,1,6,Medium
+SP-0555,Green Goblin,Robbery,Oscorp Labs,Clear,Night,21,1,5,High,Unavailable,8,22,Medium
+SP-1478,The Lizard,Hostage Rescue,Harlem,Fog,Afternoon,19,6,6,High,Available,9,11,Medium
+SP-0430,The Lizard,Lab Break-in,Oscorp Labs,Clear,Evening,16,5,7,Moderate,Unavailable,8,15,Medium
+SP-1575,Prowler,Lab Break-in,Harlem,Clear,Afternoon,12,7,3,Low,Delayed,6,11,Medium
+SP-1210,Doctor Octopus,Robbery,Queens,Rain,Evening,21,5,5,High,Available,2,6,Low
+SP-1192,Kingpin,Portal Disturbance,Brooklyn,Storm,Night,25,7,3,High,Delayed,8,7,High
+SP-0258,Venom,Portal Disturbance,Times Square,Clear,Morning,21,2,1,High,Delayed,5,9,High
+SP-0055,Prowler,Vehicle Chase,Harlem,Clear,Night,22,9,9,Moderate,Delayed,2,14,Low
+SP-1119,The Lizard,Hostage Rescue,Times Square,Clear,Morning,15,2,8,High,Delayed,8,12,Medium
+SP-0476,Venom,Lab Break-in,Manhattan,Rain,Afternoon,24,9,4,High,Available,7,3,High
+SP-1204,Mysterio,Vehicle Chase,Times Square,Rain,Afternoon,20,10,2,High,Delayed,3,7,Medium
+SP-1268,Prowler,Reactor Sabotage,Manhattan,Clear,Evening,21,5,3,High,Available,3,9,Medium
+SP-0060,Doctor Octopus,Public Attack,Brooklyn,Clear,Afternoon,15,9,5,Low,Available,1,11,Medium
+SP-1073,Prowler,Reactor Sabotage,Stark Tower,Storm,Afternoon,14,1,4,Moderate,Available,7,2,Medium
+SP-0339,Venom,Lab Break-in,Queens,Fog,Night,17,3,7,Moderate,Available,10,7,Medium
+SP-0398,Venom,Portal Disturbance,Stark Tower,Clear,Evening,14,5,2,High,Available,7,7,High
+SP-0996,Sandman,Vehicle Chase,Times Square,Clear,Evening,20,6,2,High,Available,7,6,Medium
+SP-1376,Doctor Octopus,Vehicle Chase,Oscorp Labs,Clear,Night,29,6,3,High,Delayed,3,9,High
+SP-1544,Doctor Octopus,Reactor Sabotage,Stark Tower,Clear,Morning,14,1,4,High,Delayed,8,8,High
+SP-0779,Mysterio,Public Attack,Times Square,Clear,Evening,19,3,4,Low,Available,3,13,Medium
+SP-0024,Mysterio,Portal Disturbance,Times Square,Clear,Night,13,6,5,Low,Available,9,10,Medium
+SP-1529,Kingpin,Hostage Rescue,Queens,Clear,Afternoon,12,2,2,Low,Unavailable,10,23,Medium
+SP-0925,Venom,Portal Disturbance,Brooklyn,Clear,Night,20,3,2,Low,Delayed,9,12,Medium
+SP-0732,Kingpin,Hostage Rescue,Oscorp Labs,Rain,Morning,23,7,7,Low,Delayed,10,7,Medium
+SP-0792,Green Goblin,Vehicle Chase,Brooklyn,Clear,Evening,20,1,2,Moderate,Available,5,7,Medium
+SP-0614,The Lizard,Hostage Rescue,Stark Tower,Clear,Afternoon,22,2,3,Low,Delayed,1,13,Medium
+SP-0588,The Lizard,Public Attack,Queens,Rain,Afternoon,22,8,5,High,Available,3,5,Medium
+SP-0565,Green Goblin,Lab Break-in,Times Square,Clear,Morning,18,4,3,High,Unavailable,9,16,High
+SP-0148,Mysterio,Lab Break-in,Stark Tower,Clear,Evening,15,2,6,Moderate,Available,9,8,Medium
+SP-0229,Mysterio,Robbery,Brooklyn,Rain,Night,21,8,4,High,Available,3,11,Low
+SP-1401,The Lizard,Reactor Sabotage,Harlem,Clear,Evening,19,9,5,Moderate,Delayed,8,9,Medium
+SP-1148,Green Goblin,Lab Break-in,Harlem,Clear,Afternoon,11,6,8,Moderate,Delayed,6,9,Medium
+SP-1072,Prowler,Lab Break-in,Brooklyn,Storm,Afternoon,15,7,8,Low,Available,1,3,Low
+SP-1157,Prowler,Lab Break-in,Manhattan,Clear,Evening,21,9,5,Moderate,Available,7,7,Medium
+SP-0603,Mysterio,Lab Break-in,Harlem,Clear,Night,24,5,6,Moderate,Available,8,9,Medium
+SP-0842,Mysterio,Lab Break-in,Queens,Fog,Morning,16,4,4,Low,Available,8,6,Low
+SP-1089,The Lizard,Robbery,Brooklyn,Storm,Afternoon,17,3,10,Low,Available,10,9,Low
+SP-0808,Doctor Octopus,Reactor Sabotage,Harlem,Rain,Morning,20,10,4,High,Available,10,10,High
+SP-1338,The Lizard,Reactor Sabotage,Manhattan,Clear,Night,23,8,7,Low,Unavailable,3,14,High
+SP-0173,The Lizard,Portal Disturbance,Harlem,Clear,Morning,11,8,5,High,Available,5,8,Medium
+SP-0190,The Lizard,Lab Break-in,Times Square,Rain,Night,17,7,5,Moderate,Available,6,9,Medium
+SP-0324,Sandman,Lab Break-in,Stark Tower,Rain,Afternoon,24,3,2,Moderate,Available,4,7,Medium
+SP-1007,Sandman,Reactor Sabotage,Queens,Clear,Evening,22,6,9,Low,Available,8,8,Medium
+SP-0019,Green Goblin,Public Attack,Harlem,Clear,Night,14,8,1,Low,Delayed,3,12,Medium
+SP-0461,Prowler,Vehicle Chase,Brooklyn,Rain,Evening,22,3,1,Moderate,Available,5,10,Low
+SP-1533,Prowler,Vehicle Chase,Stark Tower,Clear,Afternoon,11,1,3,Moderate,Available,8,6,Medium
+SP-0613,Kingpin,Public Attack,Manhattan,Clear,Afternoon,13,3,1,Low,Available,5,9,Medium
+SP-0987,Venom,Vehicle Chase,Queens,Clear,Afternoon,18,6,8,High,Available,9,5,Medium
+SP-1014,Green Goblin,Hostage Rescue,Brooklyn,Clear,Evening,15,1,1,High,Available,9,5,Medium
+SP-1245,The Lizard,Reactor Sabotage,Brooklyn,Storm,Morning,23,8,3,Moderate,Delayed,10,13,High
+SP-0133,Doctor Octopus,Public Attack,Stark Tower,Clear,Evening,14,1,9,Moderate,Available,9,8,Medium
+SP-1180,Sandman,Reactor Sabotage,Queens,Clear,Night,27,10,2,High,Available,7,12,High
+SP-0283,Kingpin,Hostage Rescue,Brooklyn,Rain,Morning,17,1,8,High,Available,6,8,Low
+SP-1363,Kingpin,Public Attack,Oscorp Labs,Clear,Morning,13,4,1,Moderate,Unavailable,5,21,High
+SP-1185,Venom,Lab Break-in,Queens,Rain,Morning,23,10,5,High,Unavailable,8,13,High
+SP-0204,Kingpin,Public Attack,Queens,Clear,Morning,24,1,4,Moderate,Delayed,7,10,Medium
+SP-0110,Mysterio,Lab Break-in,Harlem,Rain,Night,19,8,10,Low,Delayed,2,15,Medium
+SP-1578,Venom,Reactor Sabotage,Stark Tower,Fog,Morning,26,8,2,High,Available,8,8,High
+SP-1150,Venom,Vehicle Chase,Manhattan,Rain,Evening,19,3,6,Moderate,Delayed,3,10,Medium
+SP-0259,Kingpin,Vehicle Chase,Oscorp Labs,Rain,Afternoon,13,1,5,High,Unavailable,1,15,Medium
+SP-0467,Kingpin,Public Attack,Times Square,Rain,Afternoon,17,2,1,Moderate,Available,7,1,Medium
+SP-0678,Sandman,Vehicle Chase,Times Square,Fog,Afternoon,23,6,1,Low,Available,5,9,Medium
+SP-1141,Green Goblin,Vehicle Chase,Queens,Storm,Night,19,6,8,Low,Available,7,9,Medium
+SP-0217,Mysterio,Portal Disturbance,Brooklyn,Rain,Night,18,10,7,High,Available,2,8,Medium
+SP-0361,Green Goblin,Portal Disturbance,Queens,Clear,Night,19,6,10,Moderate,Delayed,5,15,Medium
+SP-1261,Doctor Octopus,Lab Break-in,Queens,Clear,Night,14,8,4,Moderate,Delayed,1,15,Medium
+SP-1318,Prowler,Portal Disturbance,Manhattan,Fog,Morning,17,8,1,Moderate,Unavailable,6,16,Medium
+SP-1545,Green Goblin,Reactor Sabotage,Brooklyn,Fog,Evening,16,3,6,Low,Delayed,7,8,Medium
+SP-0494,Prowler,Robbery,Oscorp Labs,Storm,Afternoon,15,3,9,Low,Available,5,6,Low
+SP-0202,Sandman,Vehicle Chase,Harlem,Fog,Evening,13,3,8,High,Unavailable,1,21,Low
+SP-1532,Mysterio,Reactor Sabotage,Times Square,Storm,Night,22,9,5,Low,Available,2,11,Medium
+SP-0784,Doctor Octopus,Vehicle Chase,Brooklyn,Storm,Evening,17,8,4,Moderate,Delayed,7,9,Medium
+SP-0868,Mysterio,Public Attack,Brooklyn,Clear,Morning,19,6,10,Low,Available,7,8,Medium
+SP-1171,The Lizard,Reactor Sabotage,Times Square,Fog,Afternoon,20,1,9,High,Available,3,6,Medium
+SP-0790,Doctor Octopus,Lab Break-in,Brooklyn,Rain,Afternoon,17,4,2,Low,Available,8,6,Medium
+SP-0890,Prowler,Vehicle Chase,Harlem,Rain,Night,19,6,9,High,Available,10,5,Medium
+SP-0071,Green Goblin,Vehicle Chase,Oscorp Labs,Clear,Night,18,6,5,Moderate,Available,8,5,Medium
+SP-1203,Kingpin,Lab Break-in,Harlem,Fog,Night,21,10,5,Moderate,Available,7,7,Medium
+SP-0741,Mysterio,Vehicle Chase,Stark Tower,Clear,Night,21,8,4,Moderate,Available,6,9,Medium
+SP-0525,Mysterio,Lab Break-in,Stark Tower,Clear,Evening,18,10,9,Low,Available,2,6,Medium
+SP-0254,Prowler,Reactor Sabotage,Harlem,Clear,Morning,13,9,6,Low,Available,8,4,Medium
+SP-1329,The Lizard,Lab Break-in,Harlem,Rain,Afternoon,12,10,2,High,Available,9,4,Medium
+SP-0304,Prowler,Hostage Rescue,Times Square,Fog,Evening,22,5,6,Moderate,Unavailable,9,13,Medium
+SP-0946,The Lizard,Reactor Sabotage,Oscorp Labs,Clear,Afternoon,16,9,8,Moderate,Delayed,6,11,High
+SP-1193,Sandman,Lab Break-in,Harlem,Rain,Afternoon,20,7,3,Low,Available,10,10,Medium
+SP-1396,Prowler,Portal Disturbance,Oscorp Labs,Clear,Night,24,8,9,Low,Unavailable,1,14,Medium
+SP-0893,Kingpin,Lab Break-in,Manhattan,Fog,Afternoon,9,6,8,High,Unavailable,1,11,Medium
+SP-1173,Venom,Hostage Rescue,Times Square,Clear,Night,24,7,5,Moderate,Available,6,9,High
+SP-1234,Venom,Reactor Sabotage,Brooklyn,Storm,Night,23,10,1,High,Delayed,7,12,High
+SP-0360,Doctor Octopus,Portal Disturbance,Stark Tower,Storm,Night,17,5,3,Low,Available,9,4,High
+SP-0707,Sandman,Portal Disturbance,Oscorp Labs,Fog,Evening,25,9,8,Low,Available,1,11,Medium
+SP-1059,Mysterio,Vehicle Chase,Harlem,Rain,Night,8,8,3,Low,Available,6,8,Medium
+SP-1388,The Lizard,Robbery,Queens,Clear,Afternoon,21,6,6,Moderate,Delayed,10,11,Low
+SP-0980,Sandman,Public Attack,Oscorp Labs,Clear,Night,21,3,9,High,Available,5,7,Medium
+SP-0094,Doctor Octopus,Reactor Sabotage,Times Square,Rain,Night,18,10,10,High,Delayed,9,13,High
+SP-0510,The Lizard,Portal Disturbance,Queens,Storm,Afternoon,21,8,7,Low,Delayed,4,10,Medium
+SP-1239,Kingpin,Robbery,Stark Tower,Clear,Evening,23,6,8,High,Available,6,5,Low
+SP-1169,The Lizard,Lab Break-in,Queens,Clear,Night,13,3,7,Moderate,Available,8,5,Medium
+SP-1540,Mysterio,Hostage Rescue,Queens,Rain,Night,15,2,2,Moderate,Delayed,5,8,Medium
+SP-0747,The Lizard,Lab Break-in,Times Square,Clear,Afternoon,20,7,4,High,Available,6,9,Medium
+SP-0782,Doctor Octopus,Reactor Sabotage,Manhattan,Clear,Afternoon,24,3,4,Low,Available,4,4,Medium
+SP-0378,The Lizard,Vehicle Chase,Brooklyn,Clear,Night,11,1,5,Moderate,Delayed,10,10,Medium
+SP-0720,Doctor Octopus,Portal Disturbance,Stark Tower,Clear,Morning,24,5,7,Low,Available,6,5,Medium
+SP-0419,Kingpin,Lab Break-in,Times Square,Rain,Morning,14,3,7,High,Available,5,4,Medium
+SP-0485,The Lizard,Portal Disturbance,Oscorp Labs,Rain,Night,15,8,9,Low,Delayed,6,11,Medium
+SP-0942,Prowler,Lab Break-in,Brooklyn,Rain,Evening,19,8,7,Low,Available,5,3,Low
+SP-0753,Prowler,Public Attack,Times Square,Clear,Evening,12,4,3,Moderate,Available,2,7,Medium
+SP-1475,Sandman,Vehicle Chase,Brooklyn,Rain,Evening,16,4,8,High,Available,3,9,Medium
+SP-1354,Mysterio,Hostage Rescue,Times Square,Storm,Night,19,7,8,High,Available,4,11,Medium
+SP-0170,Green Goblin,Public Attack,Manhattan,Clear,Night,18,8,4,Moderate,Available,9,5,High
+SP-0140,Mysterio,Public Attack,Oscorp Labs,Clear,Morning,15,2,3,High,Available,8,9,Medium
+SP-0638,Mysterio,Hostage Rescue,Queens,Clear,Morning,26,5,7,Moderate,Delayed,1,9,Medium
+SP-0948,Doctor Octopus,Vehicle Chase,Times Square,Clear,Evening,13,3,10,High,Available,6,9,Medium
+SP-1162,Doctor Octopus,Hostage Rescue,Oscorp Labs,Clear,Afternoon,20,4,5,High,Available,4,11,High
+SP-0749,Kingpin,Reactor Sabotage,Stark Tower,Fog,Night,24,2,3,Low,Delayed,8,13,Medium
+SP-1507,Green Goblin,Hostage Rescue,Harlem,Clear,Night,22,8,6,High,Delayed,2,10,High
+SP-0474,Prowler,Vehicle Chase,Manhattan,Fog,Afternoon,20,1,4,High,Delayed,1,12,Low
+SP-1375,Doctor Octopus,Portal Disturbance,Times Square,Clear,Morning,21,3,2,Low,Delayed,9,13,High
+SP-0305,Kingpin,Lab Break-in,Manhattan,Rain,Night,9,10,8,Low,Available,3,7,Medium
+SP-0127,Kingpin,Robbery,Harlem,Rain,Morning,16,2,3,Low,Unavailable,1,15,Low
+SP-0444,Kingpin,Reactor Sabotage,Stark Tower,Clear,Evening,31,6,5,Moderate,Delayed,7,10,High
+SP-0296,Sandman,Hostage Rescue,Manhattan,Rain,Morning,18,4,7,Moderate,Available,7,13,Medium
+SP-1143,Prowler,Lab Break-in,Brooklyn,Rain,Night,26,10,7,Moderate,Available,7,5,Medium
+SP-1576,Sandman,Hostage Rescue,Queens,Clear,Evening,25,6,6,High,Unavailable,3,16,Medium
+SP-0703,Doctor Octopus,Lab Break-in,Harlem,Fog,Night,19,5,3,High,Available,3,8,Medium
+SP-1028,Sandman,Robbery,Times Square,Rain,Morning,16,2,7,High,Available,2,5,Low
+SP-0428,Doctor Octopus,Reactor Sabotage,Stark Tower,Rain,Night,16,5,5,High,Available,2,11,Medium
+SP-0775,Kingpin,Vehicle Chase,Oscorp Labs,Clear,Morning,20,7,3,Low,Unavailable,3,18,Medium
+SP-0076,Green Goblin,Public Attack,Queens,Storm,Night,15,4,4,High,Available,1,3,Medium
+SP-1420,Green Goblin,Lab Break-in,Times Square,Rain,Evening,19,2,10,Low,Unavailable,5,17,Medium
+SP-0621,Prowler,Public Attack,Harlem,Storm,Night,20,5,10,High,Available,3,9,Low
+SP-1283,Mysterio,Public Attack,Stark Tower,Rain,Evening,17,6,4,Low,Available,9,7,Medium
+SP-1543,Mysterio,Portal Disturbance,Stark Tower,Clear,Evening,25,5,3,Moderate,Delayed,10,8,High
+SP-0822,Venom,Robbery,Harlem,Clear,Afternoon,17,6,5,High,Delayed,3,15,Medium
+SP-1523,Green Goblin,Reactor Sabotage,Harlem,Storm,Afternoon,23,3,3,High,Delayed,10,16,High
+SP-1511,Sandman,Robbery,Times Square,Clear,Afternoon,15,3,3,Moderate,Delayed,7,8,Medium
+SP-0793,Doctor Octopus,Robbery,Times Square,Rain,Morning,21,3,5,High,Delayed,1,13,Medium
+SP-0615,Venom,Vehicle Chase,Harlem,Storm,Morning,9,9,3,Low,Delayed,8,9,Medium
+SP-1280,Prowler,Robbery,Manhattan,Clear,Afternoon,17,1,1,Low,Unavailable,9,17,Low
+SP-1002,Prowler,Portal Disturbance,Brooklyn,Clear,Afternoon,17,4,3,High,Available,3,5,Medium
+SP-0022,Mysterio,Public Attack,Queens,Clear,Afternoon,17,6,5,Low,Available,4,8,Medium
+SP-0547,Prowler,Robbery,Oscorp Labs,Storm,Morning,31,8,5,Low,Unavailable,7,19,Medium
+SP-1293,Sandman,Hostage Rescue,Stark Tower,Rain,Night,18,10,9,Moderate,Unavailable,7,12,High
+SP-0164,Sandman,Robbery,Times Square,Rain,Night,20,10,10,Moderate,Available,8,2,Medium
+SP-0954,Prowler,Portal Disturbance,Oscorp Labs,Clear,Afternoon,20,5,4,High,Available,9,8,Medium
+SP-0210,Green Goblin,Hostage Rescue,Harlem,Clear,Morning,17,1,10,High,Available,9,5,Medium
+SP-0028,Venom,Robbery,Stark Tower,Storm,Evening,13,4,9,Moderate,Delayed,5,9,Low
+SP-0075,Mysterio,Lab Break-in,Manhattan,Clear,Evening,16,3,1,Moderate,Available,2,9,Medium
+SP-0124,Mysterio,Lab Break-in,Queens,Clear,Night,19,1,6,Low,Available,10,7,Medium
+SP-0010,Sandman,Hostage Rescue,Brooklyn,Storm,Morning,16,6,8,Low,Delayed,3,11,Medium
+SP-1109,Sandman,Public Attack,Brooklyn,Fog,Afternoon,21,3,6,Low,Available,9,5,Medium
+SP-0513,Venom,Vehicle Chase,Times Square,Clear,Morning,19,4,4,Moderate,Available,5,9,Medium
+SP-0906,Kingpin,Hostage Rescue,Queens,Clear,Morning,13,10,10,Moderate,Delayed,7,8,Medium
+SP-0023,Prowler,Public Attack,Times Square,Storm,Morning,15,4,7,Moderate,Delayed,4,15,Medium
+SP-0155,Prowler,Portal Disturbance,Harlem,Fog,Afternoon,19,2,2,Moderate,Unavailable,4,15,Medium
+SP-0245,Doctor Octopus,Portal Disturbance,Harlem,Clear,Morning,17,5,10,High,Available,10,12,Medium
+SP-1324,Green Goblin,Robbery,Oscorp Labs,Fog,Night,20,1,7,Moderate,Available,5,11,Medium
+SP-0735,Venom,Public Attack,Times Square,Clear,Morning,19,2,9,High,Available,7,5,Medium
+SP-1373,Sandman,Lab Break-in,Queens,Rain,Night,16,2,7,Low,Available,6,11,Low
+SP-1269,Doctor Octopus,Vehicle Chase,Harlem,Fog,Evening,22,9,8,Low,Delayed,3,11,Low
+SP-0240,Kingpin,Portal Disturbance,Stark Tower,Clear,Afternoon,21,9,8,Low,Available,8,6,Medium
+SP-1253,Sandman,Portal Disturbance,Manhattan,Rain,Morning,12,10,5,Low,Delayed,4,9,Medium
+SP-0875,The Lizard,Public Attack,Brooklyn,Rain,Afternoon,12,9,4,High,Unavailable,2,17,Medium
+SP-1279,Prowler,Hostage Rescue,Times Square,Clear,Night,20,6,2,High,Available,5,10,High
+SP-0727,Green Goblin,Portal Disturbance,Brooklyn,Rain,Morning,26,3,3,Low,Available,4,10,Medium
+SP-1403,Kingpin,Lab Break-in,Oscorp Labs,Fog,Evening,23,2,6,Moderate,Unavailable,5,13,Medium
+SP-1530,Venom,Hostage Rescue,Harlem,Clear,Morning,23,5,5,Low,Unavailable,5,16,Medium
+SP-0039,Sandman,Portal Disturbance,Times Square,Clear,Morning,29,1,6,Low,Available,10,2,Medium
+SP-1218,The Lizard,Portal Disturbance,Brooklyn,Storm,Evening,12,6,9,Low,Available,10,6,Medium
+SP-1341,Prowler,Lab Break-in,Queens,Clear,Morning,23,9,4,High,Available,2,9,Medium
+SP-1570,Doctor Octopus,Portal Disturbance,Queens,Clear,Morning,19,10,5,High,Available,3,8,Medium
+SP-1592,Venom,Portal Disturbance,Queens,Clear,Morning,31,9,4,Moderate,Unavailable,4,11,High
+SP-1337,Mysterio,Portal Disturbance,Brooklyn,Rain,Night,15,7,6,High,Unavailable,7,13,High
+SP-0089,Green Goblin,Vehicle Chase,Manhattan,Clear,Afternoon,12,3,4,Low,Unavailable,3,11,Medium
+SP-0876,Prowler,Reactor Sabotage,Stark Tower,Fog,Afternoon,24,9,1,Moderate,Available,6,11,Medium
+SP-0341,Green Goblin,Lab Break-in,Manhattan,Rain,Afternoon,21,7,5,Low,Available,5,7,Medium
+SP-1254,Doctor Octopus,Portal Disturbance,Brooklyn,Fog,Afternoon,17,1,6,High,Available,2,5,Medium
+SP-0879,Doctor Octopus,Hostage Rescue,Manhattan,Fog,Morning,15,9,10,Low,Delayed,10,12,Medium
+SP-0300,Sandman,Public Attack,Manhattan,Fog,Evening,18,2,7,Low,Available,7,12,Medium
+SP-1506,Venom,Public Attack,Brooklyn,Fog,Evening,23,1,2,Moderate,Delayed,10,13,Medium
+SP-1340,Doctor Octopus,Robbery,Harlem,Clear,Morning,24,10,3,Low,Available,1,3,Low
+SP-0356,Doctor Octopus,Reactor Sabotage,Times Square,Rain,Night,19,6,3,High,Available,4,7,High
+SP-0189,Doctor Octopus,Reactor Sabotage,Manhattan,Fog,Night,22,6,7,High,Unavailable,6,11,High
+SP-0353,Mysterio,Lab Break-in,Stark Tower,Fog,Evening,14,6,5,High,Available,2,5,Medium
+SP-0536,Sandman,Reactor Sabotage,Stark Tower,Fog,Afternoon,14,4,7,High,Available,4,11,Medium
+SP-0271,Venom,Portal Disturbance,Oscorp Labs,Clear,Morning,8,9,2,Moderate,Delayed,1,8,High
+SP-0526,Kingpin,Vehicle Chase,Times Square,Storm,Afternoon,20,4,3,Moderate,Available,7,5,Medium
+SP-0604,Green Goblin,Vehicle Chase,Harlem,Clear,Morning,15,8,1,Low,Available,1,12,Medium
+SP-0177,Mysterio,Reactor Sabotage,Times Square,Fog,Night,26,8,7,High,Unavailable,4,18,High
+SP-0777,The Lizard,Reactor Sabotage,Manhattan,Fog,Evening,19,6,7,Low,Available,7,2,Medium
+SP-0243,Green Goblin,Lab Break-in,Oscorp Labs,Clear,Afternoon,24,2,3,Moderate,Delayed,4,16,Medium
+SP-0149,Kingpin,Hostage Rescue,Times Square,Rain,Evening,18,3,4,High,Delayed,8,12,Medium
+SP-0314,Doctor Octopus,Reactor Sabotage,Harlem,Fog,Evening,19,9,7,Moderate,Available,9,8,Medium
+SP-1084,Green Goblin,Vehicle Chase,Harlem,Clear,Evening,18,2,3,Low,Available,2,4,Low
+SP-1422,Green Goblin,Portal Disturbance,Times Square,Fog,Afternoon,20,9,4,Moderate,Available,1,8,Medium
+SP-0311,Sandman,Hostage Rescue,Queens,Rain,Afternoon,25,7,6,Moderate,Unavailable,2,14,Medium
+SP-1137,Green Goblin,Public Attack,Stark Tower,Rain,Morning,13,1,10,High,Unavailable,5,12,Medium
+SP-1159,Venom,Vehicle Chase,Harlem,Rain,Evening,14,2,3,High,Available,1,8,Medium
+SP-0985,Mysterio,Vehicle Chase,Times Square,Rain,Afternoon,15,3,6,Low,Available,8,6,Medium
+SP-0844,Kingpin,Hostage Rescue,Queens,Fog,Morning,15,7,1,Moderate,Available,6,5,Medium
+SP-0031,Venom,Robbery,Stark Tower,Clear,Night,14,5,4,High,Delayed,6,8,Medium
+SP-1525,Kingpin,Lab Break-in,Queens,Clear,Evening,21,8,1,Moderate,Available,7,11,Medium
+SP-0499,Sandman,Public Attack,Stark Tower,Fog,Morning,16,1,7,Moderate,Delayed,7,13,Medium
+SP-1094,Kingpin,Hostage Rescue,Brooklyn,Clear,Evening,15,9,5,Low,Available,10,7,Medium
+SP-1392,Prowler,Public Attack,Harlem,Clear,Afternoon,17,6,4,Moderate,Available,4,5,Medium
+SP-0129,Kingpin,Portal Disturbance,Queens,Rain,Afternoon,14,1,8,Low,Available,2,13,Low
+SP-1241,Venom,Reactor Sabotage,Queens,Rain,Morning,19,4,6,Moderate,Available,3,9,Medium
+SP-1009,Mysterio,Hostage Rescue,Times Square,Clear,Night,18,5,6,Low,Delayed,9,11,Medium
+SP-0584,Sandman,Public Attack,Harlem,Fog,Morning,25,4,6,Moderate,Available,3,11,Medium
+SP-1587,Green Goblin,Public Attack,Brooklyn,Clear,Evening,23,8,8,Moderate,Available,8,11,Medium
+SP-1359,Mysterio,Vehicle Chase,Harlem,Rain,Evening,18,8,6,High,Delayed,9,12,Medium
+SP-0699,Venom,Vehicle Chase,Brooklyn,Rain,Morning,21,3,7,Moderate,Delayed,9,9,Medium
+SP-1093,Kingpin,Public Attack,Times Square,Rain,Night,23,6,4,Moderate,Unavailable,3,19,High
+SP-1514,Venom,Vehicle Chase,Queens,Clear,Afternoon,18,4,4,Low,Available,10,11,Medium
+SP-1153,Green Goblin,Robbery,Brooklyn,Clear,Evening,19,6,4,Low,Available,2,7,Low
+SP-0577,The Lizard,Portal Disturbance,Stark Tower,Clear,Morning,17,9,4,Moderate,Delayed,6,12,High
+SP-0527,Prowler,Public Attack,Harlem,Clear,Morning,20,8,6,Low,Available,10,11,Medium
+SP-0297,Venom,Robbery,Manhattan,Storm,Night,14,5,6,Moderate,Available,5,6,Medium
+SP-1229,Sandman,Portal Disturbance,Harlem,Fog,Afternoon,14,1,1,High,Unavailable,4,16,Medium
+SP-1452,The Lizard,Lab Break-in,Times Square,Fog,Morning,16,9,5,Moderate,Delayed,1,15,Medium
+SP-0944,Mysterio,Hostage Rescue,Queens,Fog,Night,23,2,10,Low,Delayed,10,14,Medium
+SP-1509,Prowler,Portal Disturbance,Oscorp Labs,Storm,Night,11,2,1,Low,Delayed,6,15,Medium
+SP-0006,Sandman,Robbery,Manhattan,Clear,Night,19,7,2,Moderate,Delayed,1,12,Medium
+SP-1531,The Lizard,Public Attack,Oscorp Labs,Storm,Night,18,9,2,Low,Delayed,3,10,High
+SP-0896,Doctor Octopus,Portal Disturbance,Brooklyn,Clear,Morning,18,1,1,Low,Available,6,7,Medium
+SP-1240,Doctor Octopus,Lab Break-in,Stark Tower,Fog,Evening,18,7,2,Moderate,Available,3,7,Medium
+SP-1208,Kingpin,Robbery,Brooklyn,Clear,Evening,17,10,3,High,Unavailable,8,14,Medium
+SP-0433,Doctor Octopus,Lab Break-in,Stark Tower,Clear,Morning,24,3,8,Low,Delayed,3,12,Medium
+SP-0449,Sandman,Vehicle Chase,Oscorp Labs,Clear,Afternoon,16,9,3,Low,Available,6,15,Medium
+SP-0348,Green Goblin,Lab Break-in,Harlem,Storm,Night,18,10,5,Low,Unavailable,9,11,High
+SP-1439,Sandman,Lab Break-in,Brooklyn,Storm,Morning,19,9,4,Low,Available,2,6,Medium
+SP-1231,The Lizard,Lab Break-in,Brooklyn,Clear,Night,20,2,6,High,Available,3,7,Medium
+SP-1371,Mysterio,Robbery,Stark Tower,Clear,Afternoon,25,3,1,Moderate,Available,1,7,Medium
+SP-0432,Prowler,Public Attack,Harlem,Clear,Evening,11,4,9,High,Available,3,6,Low
+SP-1115,Mysterio,Portal Disturbance,Harlem,Rain,Night,13,9,7,Low,Delayed,9,13,Medium
+SP-1120,Venom,Portal Disturbance,Brooklyn,Fog,Evening,18,4,9,High,Available,5,8,Medium
+SP-1321,Kingpin,Hostage Rescue,Manhattan,Clear,Morning,17,7,2,High,Delayed,10,10,High
+SP-1352,Mysterio,Robbery,Oscorp Labs,Clear,Night,17,7,8,High,Available,6,10,Medium
+SP-0059,Kingpin,Vehicle Chase,Times Square,Clear,Morning,18,2,6,Low,Delayed,6,8,Low
+SP-1247,Kingpin,Public Attack,Stark Tower,Clear,Evening,13,5,2,High,Available,6,4,Medium
+SP-0169,Mysterio,Public Attack,Manhattan,Clear,Afternoon,13,8,5,Low,Unavailable,9,14,Medium
+SP-0993,Green Goblin,Lab Break-in,Brooklyn,Clear,Afternoon,12,6,4,High,Delayed,2,14,Medium
+SP-0583,Venom,Lab Break-in,Stark Tower,Clear,Morning,24,9,2,High,Delayed,2,10,Medium
+SP-0799,The Lizard,Hostage Rescue,Queens,Storm,Morning,13,8,5,Moderate,Available,7,11,Medium
+SP-1517,Green Goblin,Lab Break-in,Times Square,Storm,Afternoon,20,1,10,Moderate,Available,6,13,Medium
+SP-1588,Mysterio,Portal Disturbance,Brooklyn,Clear,Evening,11,5,4,Moderate,Delayed,6,11,Medium
+SP-0751,Kingpin,Hostage Rescue,Oscorp Labs,Clear,Afternoon,21,7,1,High,Available,6,7,High
+SP-0029,Mysterio,Reactor Sabotage,Harlem,Clear,Evening,20,8,10,High,Available,4,4,Medium
+SP-1276,Sandman,Vehicle Chase,Harlem,Storm,Afternoon,12,7,3,Low,Delayed,8,14,Medium
+SP-0672,Doctor Octopus,Public Attack,Times Square,Clear,Evening,20,9,5,Low,Available,6,5,Medium
+SP-1005,Prowler,Robbery,Times Square,Clear,Afternoon,15,8,4,Low,Delayed,5,12,Low
+SP-1126,Sandman,Public Attack,Oscorp Labs,Clear,Afternoon,15,4,7,Low,Delayed,7,12,Medium
+SP-0377,Mysterio,Portal Disturbance,Stark Tower,Fog,Afternoon,19,8,6,Low,Available,3,5,Medium
+SP-0196,Prowler,Portal Disturbance,Queens,Clear,Night,18,8,2,Low,Available,7,1,Medium
+SP-0327,Venom,Portal Disturbance,Manhattan,Clear,Night,10,7,7,High,Available,1,8,Medium
+SP-0056,Sandman,Robbery,Brooklyn,Clear,Afternoon,16,4,6,High,Delayed,4,11,Low
+SP-0168,Green Goblin,Lab Break-in,Times Square,Fog,Night,14,2,5,Moderate,Delayed,10,13,Medium
+SP-0136,Prowler,Hostage Rescue,Queens,Clear,Evening,12,8,8,Moderate,Delayed,4,12,Medium
+SP-1272,Mysterio,Public Attack,Oscorp Labs,Clear,Evening,16,1,8,Moderate,Unavailable,2,17,Medium
+SP-0611,Kingpin,Robbery,Stark Tower,Clear,Night,21,3,9,Moderate,Available,8,10,Low
+SP-0103,The Lizard,Portal Disturbance,Stark Tower,Rain,Morning,17,5,10,Low,Available,3,6,Medium
+SP-0767,The Lizard,Lab Break-in,Brooklyn,Rain,Night,12,5,10,High,Available,4,4,Medium
+SP-1316,The Lizard,Reactor Sabotage,Harlem,Clear,Evening,15,4,6,High,Available,3,10,Medium
+SP-0610,Venom,Reactor Sabotage,Times Square,Clear,Morning,20,9,1,Moderate,Delayed,6,13,High
+SP-0253,The Lizard,Public Attack,Harlem,Clear,Afternoon,18,3,10,Moderate,Available,2,8,Low
+SP-1520,Mysterio,Robbery,Stark Tower,Clear,Morning,14,6,2,High,Available,6,5,Low
+SP-0123,Kingpin,Hostage Rescue,Times Square,Rain,Evening,27,10,2,Moderate,Delayed,3,17,High
+SP-0266,Mysterio,Portal Disturbance,Times Square,Clear,Evening,20,10,1,High,Delayed,10,10,High
+SP-1553,The Lizard,Portal Disturbance,Oscorp Labs,Clear,Evening,16,7,3,Low,Available,8,14,High
+SP-0402,Green Goblin,Public Attack,Queens,Clear,Night,10,4,7,Moderate,Available,5,8,Medium
+SP-0040,Doctor Octopus,Vehicle Chase,Times Square,Rain,Afternoon,29,8,5,Low,Unavailable,5,17,Medium
+SP-0051,Kingpin,Vehicle Chase,Oscorp Labs,Clear,Afternoon,20,9,9,Moderate,Unavailable,6,14,Medium
+SP-0587,Green Goblin,Robbery,Harlem,Clear,Night,15,9,7,Low,Delayed,6,10,Medium
+SP-0096,Sandman,Hostage Rescue,Oscorp Labs,Clear,Afternoon,17,6,3,High,Available,4,10,High
+SP-0938,The Lizard,Hostage Rescue,Oscorp Labs,Clear,Night,13,7,4,High,Available,4,17,Medium
+SP-0696,Mysterio,Public Attack,Harlem,Rain,Afternoon,14,10,2,Moderate,Delayed,10,10,High
+SP-0763,Doctor Octopus,Hostage Rescue,Brooklyn,Clear,Morning,15,2,9,High,Available,2,5,Medium
+SP-0935,Sandman,Lab Break-in,Brooklyn,Rain,Night,31,10,6,Moderate,Available,2,7,Medium
+SP-1037,Venom,Public Attack,Harlem,Storm,Morning,12,9,6,High,Available,9,8,Medium
+SP-1209,Prowler,Portal Disturbance,Stark Tower,Clear,Afternoon,21,7,7,Low,Delayed,2,8,Medium
+SP-1075,Doctor Octopus,Lab Break-in,Queens,Clear,Afternoon,22,1,9,Low,Available,1,7,Low
+SP-1428,Kingpin,Public Attack,Stark Tower,Clear,Afternoon,19,6,4,High,Available,7,6,Medium
+SP-0759,The Lizard,Robbery,Brooklyn,Clear,Night,20,4,10,Moderate,Available,3,3,Low
+SP-0332,Venom,Portal Disturbance,Oscorp Labs,Storm,Morning,15,2,7,Moderate,Unavailable,2,13,Medium
+SP-0518,The Lizard,Hostage Rescue,Oscorp Labs,Clear,Afternoon,18,4,4,Low,Delayed,3,13,Medium
+SP-1232,Venom,Hostage Rescue,Stark Tower,Storm,Morning,17,10,10,High,Available,7,12,High
+SP-0517,The Lizard,Vehicle Chase,Manhattan,Clear,Night,13,1,9,High,Available,1,2,Low
+SP-1468,Sandman,Reactor Sabotage,Stark Tower,Clear,Afternoon,9,2,1,Moderate,Delayed,10,8,High
+SP-1034,The Lizard,Robbery,Manhattan,Clear,Afternoon,16,5,7,Low,Delayed,1,13,Low
+SP-0774,Sandman,Public Attack,Harlem,Clear,Morning,17,9,1,Low,Available,5,4,Medium
+SP-1432,Doctor Octopus,Portal Disturbance,Times Square,Clear,Night,18,2,5,Moderate,Available,2,6,Medium
+SP-0437,The Lizard,Hostage Rescue,Brooklyn,Rain,Evening,18,5,5,Moderate,Delayed,7,10,Medium
+SP-1519,Sandman,Hostage Rescue,Queens,Rain,Night,14,7,1,High,Delayed,10,7,Medium
+SP-0969,Prowler,Vehicle Chase,Brooklyn,Clear,Evening,18,2,5,Low,Unavailable,7,12,Medium
+SP-0548,Prowler,Vehicle Chase,Queens,Clear,Afternoon,18,8,9,Low,Delayed,4,10,Low
+SP-1087,Sandman,Lab Break-in,Manhattan,Rain,Morning,15,2,7,Moderate,Available,1,7,Low
+SP-1361,Sandman,Vehicle Chase,Times Square,Rain,Afternoon,18,7,6,Low,Unavailable,3,15,Medium
+SP-0591,The Lizard,Public Attack,Oscorp Labs,Clear,Evening,24,5,6,Moderate,Available,10,9,Medium
+SP-0302,Sandman,Hostage Rescue,Brooklyn,Clear,Night,29,3,9,Moderate,Available,8,9,Medium
+SP-0482,Green Goblin,Public Attack,Harlem,Storm,Night,24,3,10,Moderate,Available,10,2,Medium
+SP-1290,Mysterio,Portal Disturbance,Brooklyn,Fog,Evening,11,4,4,Moderate,Available,6,14,Medium
+SP-1591,Green Goblin,Lab Break-in,Manhattan,Clear,Evening,17,2,3,Moderate,Delayed,6,13,Medium
+SP-0633,Doctor Octopus,Reactor Sabotage,Manhattan,Clear,Evening,22,10,5,High,Available,4,12,High
+SP-0516,Mysterio,Robbery,Stark Tower,Clear,Night,14,2,1,Moderate,Unavailable,3,17,Medium
+SP-1415,Mysterio,Robbery,Queens,Clear,Evening,24,1,10,High,Unavailable,2,21,Low
+SP-1306,Sandman,Public Attack,Manhattan,Fog,Evening,17,4,5,Moderate,Available,10,8,Medium
+SP-1051,Doctor Octopus,Hostage Rescue,Stark Tower,Rain,Night,18,7,4,Low,Available,3,10,High
+SP-1033,Doctor Octopus,Portal Disturbance,Stark Tower,Clear,Morning,21,3,4,High,Available,2,13,Medium
+SP-1435,Sandman,Hostage Rescue,Times Square,Clear,Afternoon,17,8,3,High,Available,10,10,High
+SP-0878,The Lizard,Lab Break-in,Oscorp Labs,Storm,Morning,19,8,3,Low,Available,9,6,High
+SP-0479,Prowler,Vehicle Chase,Stark Tower,Clear,Morning,21,5,1,Moderate,Available,8,13,Medium
+SP-0206,The Lizard,Hostage Rescue,Stark Tower,Fog,Evening,15,7,10,High,Available,9,11,High
+SP-1044,Venom,Vehicle Chase,Harlem,Fog,Morning,14,5,7,High,Available,9,11,Medium
+SP-0435,Venom,Portal Disturbance,Stark Tower,Fog,Night,24,10,3,High,Unavailable,8,13,High
+SP-0889,Venom,Public Attack,Stark Tower,Rain,Night,13,8,3,High,Available,1,4,High
+SP-1299,Green Goblin,Public Attack,Stark Tower,Clear,Evening,17,3,4,Moderate,Available,3,8,Medium
+SP-0203,Green Goblin,Robbery,Times Square,Fog,Night,15,4,8,Moderate,Delayed,4,8,Medium
+SP-0976,Prowler,Reactor Sabotage,Oscorp Labs,Clear,Evening,13,5,5,Low,Delayed,1,17,Medium
+SP-0902,The Lizard,Lab Break-in,Brooklyn,Storm,Morning,22,9,3,Low,Available,8,9,Medium
+SP-1429,Green Goblin,Lab Break-in,Brooklyn,Clear,Afternoon,27,9,1,High,Available,1,8,Medium
+SP-1042,Sandman,Robbery,Stark Tower,Clear,Night,15,4,4,High,Available,9,8,Medium
+SP-0392,Doctor Octopus,Reactor Sabotage,Times Square,Rain,Afternoon,27,10,6,Moderate,Available,10,6,High
+SP-0459,Doctor Octopus,Portal Disturbance,Times Square,Clear,Evening,16,9,2,Moderate,Delayed,1,11,Medium
+SP-0664,Sandman,Hostage Rescue,Brooklyn,Clear,Night,22,9,8,High,Delayed,8,18,Medium
+SP-0756,Sandman,Lab Break-in,Brooklyn,Rain,Morning,16,6,7,Low,Available,9,9,Medium
+SP-0069,Kingpin,Lab Break-in,Times Square,Clear,Afternoon,17,5,3,High,Unavailable,5,18,Medium
+SP-1187,Doctor Octopus,Vehicle Chase,Oscorp Labs,Clear,Afternoon,26,9,10,High,Available,10,11,Medium
+SP-1206,Venom,Public Attack,Times Square,Clear,Morning,17,4,4,Low,Available,6,6,Medium
+SP-0983,Green Goblin,Hostage Rescue,Times Square,Fog,Morning,21,3,1,Low,Unavailable,3,18,High
+SP-0286,Sandman,Reactor Sabotage,Times Square,Clear,Morning,16,5,7,Low,Available,5,11,Medium
+SP-1155,Prowler,Portal Disturbance,Manhattan,Clear,Night,17,2,2,Low,Unavailable,2,16,Medium
+SP-0593,Prowler,Portal Disturbance,Times Square,Clear,Morning,13,9,10,Low,Available,8,5,Medium
+SP-0690,Mysterio,Public Attack,Stark Tower,Clear,Night,18,7,7,Moderate,Available,2,10,Medium
+SP-1355,Mysterio,Public Attack,Brooklyn,Clear,Evening,15,7,4,High,Available,6,8,Medium
+SP-1413,Kingpin,Reactor Sabotage,Harlem,Clear,Night,26,2,5,Moderate,Available,7,12,Medium
+SP-0336,Green Goblin,Public Attack,Queens,Clear,Afternoon,17,3,3,Low,Delayed,8,18,Medium
+SP-1065,Doctor Octopus,Robbery,Harlem,Rain,Evening,20,1,10,Low,Unavailable,10,16,Low
+SP-0066,Kingpin,Robbery,Queens,Fog,Morning,12,2,3,Low,Delayed,9,15,Low
+SP-1288,Venom,Public Attack,Manhattan,Storm,Afternoon,17,3,2,Low,Unavailable,8,15,High
+SP-1393,Doctor Octopus,Hostage Rescue,Brooklyn,Clear,Afternoon,11,10,3,Low,Delayed,4,13,High
+SP-1568,The Lizard,Robbery,Stark Tower,Clear,Night,11,4,2,High,Available,6,8,Medium
+SP-0620,Prowler,Reactor Sabotage,Harlem,Clear,Afternoon,23,10,6,High,Delayed,2,16,Medium
+SP-0412,Venom,Reactor Sabotage,Harlem,Fog,Night,26,9,7,Low,Delayed,3,10,Medium
+SP-1305,Prowler,Portal Disturbance,Queens,Rain,Morning,17,6,7,High,Unavailable,10,19,Medium
+SP-0235,Sandman,Hostage Rescue,Stark Tower,Clear,Morning,21,9,7,Moderate,Available,2,8,Medium
+SP-0989,Venom,Lab Break-in,Oscorp Labs,Clear,Night,22,8,7,Low,Available,1,7,Medium
+SP-0267,Doctor Octopus,Lab Break-in,Brooklyn,Rain,Evening,23,2,2,Moderate,Available,1,9,Medium
+SP-1512,Green Goblin,Reactor Sabotage,Times Square,Rain,Evening,14,7,10,High,Available,9,8,High
+SP-1495,The Lizard,Portal Disturbance,Times Square,Fog,Night,18,7,6,High,Unavailable,1,14,High
+SP-0081,Sandman,Reactor Sabotage,Stark Tower,Clear,Evening,22,9,7,Low,Available,3,5,Medium
+SP-0813,Prowler,Hostage Rescue,Manhattan,Fog,Night,20,3,6,Low,Available,8,8,Medium
+SP-1174,Sandman,Reactor Sabotage,Harlem,Clear,Evening,15,1,4,Low,Available,2,4,Medium
+SP-0550,Kingpin,Public Attack,Stark Tower,Rain,Night,22,10,10,High,Available,4,11,Medium
+SP-1088,Green Goblin,Lab Break-in,Times Square,Rain,Morning,12,5,1,High,Available,9,1,Medium
+SP-0383,Sandman,Hostage Rescue,Times Square,Clear,Afternoon,12,10,2,High,Delayed,2,14,Medium
+SP-1486,Mysterio,Reactor Sabotage,Times Square,Fog,Afternoon,21,5,1,Moderate,Available,9,9,Medium
+SP-0097,The Lizard,Lab Break-in,Brooklyn,Rain,Evening,16,6,8,Low,Available,5,3,Low
+SP-0176,Doctor Octopus,Vehicle Chase,Brooklyn,Fog,Afternoon,22,6,4,High,Unavailable,10,16,Medium
+SP-0806,Prowler,Portal Disturbance,Queens,Rain,Night,14,1,2,Moderate,Unavailable,8,17,Medium
+SP-1030,Mysterio,Reactor Sabotage,Stark Tower,Storm,Afternoon,17,9,7,Moderate,Available,7,7,High
+SP-1492,Prowler,Vehicle Chase,Manhattan,Clear,Evening,19,6,6,Low,Available,5,4,Low
+SP-1336,Kingpin,Reactor Sabotage,Queens,Rain,Night,23,2,9,High,Available,5,7,Medium
+SP-1402,Kingpin,Lab Break-in,Queens,Clear,Night,20,5,3,Moderate,Delayed,7,9,Medium
+SP-1300,The Lizard,Vehicle Chase,Stark Tower,Rain,Morning,15,3,4,High,Delayed,2,12,Medium
+SP-0364,Green Goblin,Lab Break-in,Times Square,Fog,Night,19,6,2,High,Available,2,3,High
+SP-0180,Kingpin,Vehicle Chase,Oscorp Labs,Clear,Evening,13,4,6,Low,Available,5,12,Low
+SP-1445,Prowler,Robbery,Manhattan,Clear,Afternoon,20,5,10,Moderate,Available,1,9,Low
+SP-1317,Kingpin,Hostage Rescue,Brooklyn,Clear,Afternoon,17,3,9,Moderate,Available,4,11,Low
+SP-1186,Venom,Reactor Sabotage,Stark Tower,Clear,Afternoon,19,5,5,Moderate,Available,2,3,Medium
+SP-0340,Kingpin,Portal Disturbance,Manhattan,Clear,Morning,14,4,3,High,Available,5,11,Medium
+SP-0195,Kingpin,Lab Break-in,Harlem,Clear,Morning,13,4,7,High,Available,3,4,Low
+SP-0411,Mysterio,Public Attack,Oscorp Labs,Storm,Morning,16,9,3,High,Delayed,6,15,High
+SP-0255,Kingpin,Lab Break-in,Queens,Clear,Night,22,4,3,High,Available,3,11,Medium
+SP-0576,Green Goblin,Portal Disturbance,Manhattan,Rain,Morning,20,6,9,High,Unavailable,1,16,Medium
+SP-0639,Mysterio,Hostage Rescue,Stark Tower,Rain,Afternoon,19,5,6,Low,Available,9,12,Medium
+SP-1257,Prowler,Portal Disturbance,Harlem,Storm,Morning,19,9,4,High,Available,7,5,Medium
+SP-0208,The Lizard,Lab Break-in,Stark Tower,Clear,Evening,15,7,5,Moderate,Available,2,11,Medium
+SP-0020,Venom,Lab Break-in,Times Square,Rain,Night,10,6,3,Moderate,Unavailable,1,14,High
+SP-0462,Green Goblin,Lab Break-in,Oscorp Labs,Rain,Night,24,6,1,Low,Delayed,10,11,High
+SP-1538,Kingpin,Vehicle Chase,Brooklyn,Clear,Night,15,1,5,Low,Available,9,10,Low
+SP-1462,Doctor Octopus,Public Attack,Stark Tower,Clear,Evening,19,4,2,Moderate,Available,5,7,Medium
+SP-1331,Green Goblin,Reactor Sabotage,Harlem,Clear,Evening,21,6,8,Low,Delayed,7,13,Medium
+SP-1025,Kingpin,Robbery,Brooklyn,Rain,Afternoon,18,3,2,Low,Unavailable,2,11,Low
+SP-0418,Doctor Octopus,Public Attack,Times Square,Storm,Evening,21,8,2,Low,Unavailable,7,14,High
+SP-1242,Green Goblin,Portal Disturbance,Harlem,Rain,Afternoon,13,4,6,High,Unavailable,2,16,Medium
+SP-0198,Mysterio,Reactor Sabotage,Times Square,Clear,Afternoon,13,5,10,Moderate,Delayed,3,10,Medium
+SP-0238,Doctor Octopus,Public Attack,Queens,Rain,Afternoon,16,2,3,Low,Unavailable,6,15,Medium
+SP-0285,Green Goblin,Public Attack,Oscorp Labs,Storm,Evening,22,6,7,Moderate,Available,8,12,High
+SP-1327,The Lizard,Robbery,Harlem,Clear,Afternoon,17,1,7,Moderate,Delayed,9,17,Low
+SP-0157,Prowler,Vehicle Chase,Brooklyn,Fog,Night,21,10,6,Low,Available,3,4,Low
+SP-1129,Green Goblin,Lab Break-in,Harlem,Clear,Night,13,10,6,High,Unavailable,10,13,High
+SP-1563,Green Goblin,Lab Break-in,Brooklyn,Clear,Afternoon,26,10,6,Moderate,Unavailable,7,17,High
+SP-0694,The Lizard,Reactor Sabotage,Stark Tower,Clear,Morning,20,8,5,High,Delayed,3,11,High
+SP-1260,Kingpin,Robbery,Times Square,Fog,Afternoon,21,6,2,Low,Available,1,5,Low
+SP-0390,The Lizard,Robbery,Brooklyn,Clear,Evening,14,6,7,Low,Available,8,8,Medium
+SP-0015,Doctor Octopus,Vehicle Chase,Oscorp Labs,Fog,Night,20,10,1,Low,Delayed,1,11,Medium
+SP-1469,Venom,Robbery,Manhattan,Clear,Morning,19,2,3,Moderate,Available,7,8,Medium
+SP-0706,Sandman,Reactor Sabotage,Times Square,Rain,Evening,13,5,9,Moderate,Available,6,3,Medium
+SP-0395,The Lizard,Portal Disturbance,Brooklyn,Storm,Afternoon,18,1,1,Low,Delayed,5,10,Medium
+SP-0359,The Lizard,Reactor Sabotage,Times Square,Rain,Afternoon,12,6,7,Moderate,Delayed,6,15,High
+SP-0835,Venom,Hostage Rescue,Oscorp Labs,Storm,Night,24,4,8,High,Unavailable,1,11,High
+SP-1451,Doctor Octopus,Public Attack,Queens,Storm,Night,16,2,6,Moderate,Delayed,3,7,Medium
+SP-0558,Sandman,Robbery,Stark Tower,Fog,Afternoon,19,8,5,High,Available,10,10,Medium
+SP-0760,Prowler,Robbery,Manhattan,Clear,Morning,18,9,5,Low,Available,7,7,Low
+SP-0723,Mysterio,Lab Break-in,Brooklyn,Clear,Night,16,9,9,Moderate,Available,3,7,Medium
+SP-0562,Green Goblin,Public Attack,Stark Tower,Clear,Evening,16,5,2,Moderate,Available,3,6,Medium
+SP-1561,Kingpin,Hostage Rescue,Oscorp Labs,Rain,Afternoon,15,2,9,Moderate,Delayed,6,13,Medium
+SP-0597,Prowler,Hostage Rescue,Harlem,Rain,Night,16,6,8,Low,Available,6,6,Low
+SP-0175,Sandman,Public Attack,Queens,Rain,Evening,15,8,8,Low,Delayed,5,13,Medium
+SP-0677,The Lizard,Reactor Sabotage,Times Square,Clear,Night,18,5,9,Moderate,Unavailable,9,16,High
+SP-0072,Prowler,Robbery,Stark Tower,Rain,Morning,21,9,4,Moderate,Available,2,9,Medium
+SP-0491,Sandman,Reactor Sabotage,Stark Tower,Rain,Evening,30,2,6,High,Available,10,4,Medium
+SP-0817,Mysterio,Portal Disturbance,Brooklyn,Rain,Night,10,9,8,Low,Delayed,2,13,Medium
+SP-0675,Green Goblin,Portal Disturbance,Harlem,Rain,Evening,13,6,3,High,Available,2,4,Medium
+SP-0138,Venom,Lab Break-in,Stark Tower,Clear,Afternoon,18,4,7,Moderate,Available,1,2,Medium
+SP-1441,Prowler,Reactor Sabotage,Stark Tower,Rain,Afternoon,13,1,5,High,Available,4,5,Medium
+SP-0062,Doctor Octopus,Reactor Sabotage,Harlem,Fog,Afternoon,7,1,4,High,Delayed,8,15,Medium
+SP-0357,Doctor Octopus,Hostage Rescue,Manhattan,Clear,Evening,23,7,6,Moderate,Delayed,4,23,Medium
+SP-0986,Prowler,Hostage Rescue,Brooklyn,Clear,Evening,19,4,9,Moderate,Available,3,8,Low
+SP-0095,Kingpin,Hostage Rescue,Brooklyn,Clear,Night,16,10,7,Low,Available,2,9,Medium
+SP-0970,Doctor Octopus,Lab Break-in,Brooklyn,Fog,Afternoon,15,4,4,Moderate,Available,1,9,Medium
+SP-1585,Doctor Octopus,Public Attack,Manhattan,Clear,Afternoon,15,7,5,High,Delayed,2,14,Medium
+SP-0960,The Lizard,Portal Disturbance,Brooklyn,Clear,Morning,16,10,1,High,Available,5,8,High
+SP-1557,Green Goblin,Hostage Rescue,Stark Tower,Rain,Afternoon,32,4,5,Low,Available,2,8,Medium
+SP-0580,Prowler,Portal Disturbance,Times Square,Clear,Evening,19,5,9,Low,Unavailable,4,20,Medium
+SP-0663,Kingpin,Portal Disturbance,Times Square,Clear,Night,11,4,7,Low,Available,10,11,Medium
+SP-1351,Doctor Octopus,Lab Break-in,Harlem,Clear,Afternoon,20,1,7,Moderate,Unavailable,9,21,Medium
+SP-0270,The Lizard,Hostage Rescue,Brooklyn,Clear,Night,26,1,7,High,Delayed,4,12,Medium
+SP-0645,Kingpin,Hostage Rescue,Stark Tower,Clear,Morning,14,4,6,Low,Available,2,10,Medium
+SP-0307,Mysterio,Lab Break-in,Manhattan,Clear,Afternoon,9,9,1,Moderate,Available,6,13,Medium
+SP-1039,Sandman,Reactor Sabotage,Stark Tower,Clear,Morning,17,3,10,Low,Unavailable,3,24,Medium
+SP-1147,Mysterio,Reactor Sabotage,Oscorp Labs,Clear,Night,12,2,6,High,Available,2,6,Medium
+SP-0161,Sandman,Hostage Rescue,Stark Tower,Clear,Afternoon,19,7,3,Moderate,Delayed,3,12,Medium
+SP-0773,Prowler,Vehicle Chase,Oscorp Labs,Fog,Night,15,3,5,High,Available,9,7,Medium
+SP-0594,Kingpin,Reactor Sabotage,Stark Tower,Storm,Night,29,6,4,Moderate,Delayed,1,13,High
+SP-1152,Venom,Portal Disturbance,Harlem,Clear,Morning,16,7,7,High,Available,7,5,Medium
+SP-0825,Sandman,Reactor Sabotage,Manhattan,Clear,Evening,11,7,3,Moderate,Delayed,10,13,High
+SP-1146,Green Goblin,Reactor Sabotage,Times Square,Clear,Night,18,6,2,Moderate,Unavailable,8,12,High
+SP-1122,Venom,Robbery,Harlem,Storm,Morning,11,6,8,Low,Available,9,14,Medium
+SP-1472,Sandman,Lab Break-in,Brooklyn,Storm,Morning,22,9,7,Moderate,Available,3,12,Medium
+SP-0417,Mysterio,Vehicle Chase,Manhattan,Clear,Evening,21,5,7,High,Available,8,9,Medium
+SP-1479,Kingpin,Lab Break-in,Stark Tower,Fog,Afternoon,11,4,2,Moderate,Unavailable,9,17,Medium
+SP-0568,Doctor Octopus,Hostage Rescue,Harlem,Fog,Night,16,6,4,Low,Available,4,3,Medium
+SP-0683,Prowler,Robbery,Manhattan,Clear,Afternoon,14,10,9,High,Delayed,4,12,Low
+SP-0807,Mysterio,Reactor Sabotage,Harlem,Storm,Morning,21,1,4,Moderate,Available,10,4,Medium
+SP-1019,Prowler,Portal Disturbance,Queens,Clear,Night,17,5,6,Moderate,Available,10,8,Medium
+SP-0919,Sandman,Portal Disturbance,Harlem,Fog,Afternoon,18,6,10,Low,Delayed,2,9,Medium
+SP-0668,Venom,Vehicle Chase,Times Square,Clear,Afternoon,16,7,4,Moderate,Delayed,4,16,Medium
+SP-0887,The Lizard,Public Attack,Brooklyn,Clear,Night,20,2,8,High,Delayed,9,15,Medium
+SP-1556,Prowler,Reactor Sabotage,Times Square,Rain,Afternoon,16,2,3,Moderate,Delayed,7,8,Medium
+SP-0895,Sandman,Vehicle Chase,Oscorp Labs,Rain,Night,22,2,3,Low,Available,5,6,Medium
+SP-0819,Doctor Octopus,Portal Disturbance,Harlem,Clear,Evening,19,4,2,Low,Delayed,10,10,Medium
+SP-0971,The Lizard,Public Attack,Manhattan,Rain,Evening,27,4,10,High,Delayed,5,5,Medium
+SP-1583,Mysterio,Public Attack,Oscorp Labs,Clear,Evening,21,8,6,Moderate,Delayed,3,18,Medium
+SP-1286,Venom,Robbery,Queens,Clear,Morning,13,9,3,Low,Available,1,14,Low
+SP-1395,Mysterio,Lab Break-in,Harlem,Rain,Morning,20,9,2,Moderate,Unavailable,3,17,Medium
+SP-0234,Sandman,Portal Disturbance,Brooklyn,Fog,Evening,16,6,5,Low,Delayed,5,13,Medium
+SP-1255,Kingpin,Lab Break-in,Harlem,Fog,Evening,21,4,4,Moderate,Delayed,10,12,Medium
+SP-0241,Doctor Octopus,Portal Disturbance,Harlem,Clear,Night,22,7,4,High,Unavailable,5,21,High
+SP-0167,Mysterio,Reactor Sabotage,Oscorp Labs,Clear,Morning,14,7,1,Low,Available,9,11,High
+SP-0812,Venom,Robbery,Brooklyn,Storm,Night,20,9,1,Moderate,Delayed,10,15,Medium
+SP-0736,Mysterio,Vehicle Chase,Manhattan,Rain,Evening,20,8,2,High,Delayed,3,10,Medium
+SP-0608,Kingpin,Lab Break-in,Stark Tower,Rain,Afternoon,21,1,3,High,Unavailable,8,18,Medium
+SP-0025,The Lizard,Public Attack,Stark Tower,Clear,Afternoon,18,1,1,Moderate,Available,1,6,Medium
+SP-0150,Green Goblin,Portal Disturbance,Harlem,Fog,Morning,20,6,6,Moderate,Unavailable,8,20,High
+SP-0926,Green Goblin,Portal Disturbance,Brooklyn,Rain,Afternoon,18,9,1,Low,Available,4,5,Medium
+SP-0481,Doctor Octopus,Portal Disturbance,Queens,Clear,Morning,14,7,8,Moderate,Available,4,8,Medium
+SP-0349,Kingpin,Reactor Sabotage,Oscorp Labs,Rain,Morning,13,2,6,High,Available,4,6,Medium
+SP-0225,Doctor Octopus,Reactor Sabotage,Manhattan,Clear,Afternoon,21,9,6,Low,Available,8,6,Medium
+SP-0214,Mysterio,Reactor Sabotage,Brooklyn,Clear,Afternoon,14,8,8,High,Available,5,8,Medium
+SP-0858,Green Goblin,Lab Break-in,Stark Tower,Clear,Night,16,9,2,Low,Available,1,6,Medium
+SP-0506,Green Goblin,Vehicle Chase,Manhattan,Storm,Night,21,7,1,High,Available,5,9,High
+SP-1076,Mysterio,Reactor Sabotage,Harlem,Fog,Afternoon,18,7,10,Low,Available,6,3,Medium
+SP-0972,Doctor Octopus,Reactor Sabotage,Manhattan,Fog,Evening,17,5,3,Low,Available,2,7,Medium
+SP-1270,Mysterio,Public Attack,Queens,Storm,Night,20,3,1,Moderate,Available,3,8,Medium
+SP-0483,The Lizard,Hostage Rescue,Oscorp Labs,Clear,Evening,15,3,2,Low,Available,4,6,Medium
+SP-0117,Sandman,Lab Break-in,Queens,Fog,Evening,19,6,7,Moderate,Available,5,9,Medium
+SP-0738,Green Goblin,Portal Disturbance,Stark Tower,Rain,Morning,21,5,9,Low,Unavailable,10,12,High
+SP-0865,Prowler,Vehicle Chase,Manhattan,Clear,Evening,15,6,3,Low,Available,2,11,Low
+SP-0368,Kingpin,Reactor Sabotage,Queens,Rain,Night,15,1,8,Low,Unavailable,1,20,Medium
+SP-1471,The Lizard,Reactor Sabotage,Brooklyn,Clear,Night,24,6,7,Moderate,Available,6,5,Medium
+SP-1380,Prowler,Hostage Rescue,Manhattan,Clear,Night,20,1,5,Low,Available,3,9,Low
+SP-1487,Sandman,Vehicle Chase,Times Square,Rain,Afternoon,20,9,3,Moderate,Delayed,6,5,Medium
+SP-0679,The Lizard,Public Attack,Queens,Clear,Morning,24,6,8,Moderate,Available,7,7,Medium
+SP-1091,The Lizard,Robbery,Stark Tower,Clear,Night,17,7,7,Low,Unavailable,6,15,Medium
+SP-0748,Green Goblin,Reactor Sabotage,Stark Tower,Clear,Night,22,2,4,Moderate,Available,5,1,High
+SP-0964,Sandman,Robbery,Manhattan,Rain,Afternoon,15,5,3,High,Unavailable,9,18,Medium
+SP-0227,Venom,Robbery,Times Square,Clear,Evening,19,6,9,Low,Available,2,6,Low
+SP-0292,Green Goblin,Public Attack,Brooklyn,Fog,Afternoon,23,3,6,Low,Unavailable,5,19,Medium
+SP-1251,The Lizard,Portal Disturbance,Queens,Clear,Afternoon,17,8,7,High,Available,2,4,Medium
+SP-1510,Sandman,Lab Break-in,Stark Tower,Clear,Afternoon,13,6,9,Moderate,Delayed,1,15,Medium
+SP-0100,Kingpin,Robbery,Stark Tower,Clear,Morning,10,6,2,High,Available,3,2,Medium
+SP-1505,Green Goblin,Robbery,Brooklyn,Clear,Night,22,10,2,Low,Available,8,8,Medium
+SP-0746,Mysterio,Reactor Sabotage,Times Square,Rain,Night,17,5,1,Low,Available,6,8,Medium
+SP-1054,Kingpin,Portal Disturbance,Brooklyn,Clear,Evening,19,4,6,Low,Available,6,7,Medium
+SP-1328,Kingpin,Public Attack,Harlem,Rain,Morning,17,2,6,High,Available,1,5,Low
+SP-1405,Mysterio,Hostage Rescue,Times Square,Fog,Evening,16,8,1,Moderate,Unavailable,8,17,High
+SP-0880,Prowler,Lab Break-in,Oscorp Labs,Storm,Evening,28,4,5,High,Available,1,12,Medium
+SP-1447,Prowler,Reactor Sabotage,Stark Tower,Rain,Night,19,10,9,Moderate,Available,4,8,Medium
+SP-0325,The Lizard,Portal Disturbance,Brooklyn,Clear,Night,28,4,8,Low,Delayed,1,8,Medium
+SP-0093,Green Goblin,Portal Disturbance,Manhattan,Clear,Evening,16,7,8,Moderate,Available,10,6,Medium
+SP-0693,Venom,Portal Disturbance,Times Square,Clear,Night,26,2,2,Moderate,Delayed,10,14,High
+SP-0496,Venom,Portal Disturbance,Oscorp Labs,Rain,Morning,22,10,4,High,Delayed,2,11,High
+SP-1296,Prowler,Public Attack,Times Square,Rain,Afternoon,23,6,8,Moderate,Unavailable,6,14,Medium
+SP-1038,Sandman,Public Attack,Oscorp Labs,Fog,Afternoon,9,5,2,Moderate,Unavailable,10,17,High
+SP-0660,Venom,Portal Disturbance,Harlem,Clear,Evening,26,1,1,Low,Delayed,7,10,Medium
+SP-0685,Green Goblin,Lab Break-in,Times Square,Clear,Morning,16,8,2,Moderate,Delayed,2,11,Medium
+SP-0061,The Lizard,Robbery,Harlem,Rain,Night,17,10,9,High,Delayed,2,14,Medium
+SP-0073,The Lizard,Reactor Sabotage,Manhattan,Fog,Night,15,6,10,High,Available,9,6,Medium
+SP-0700,Mysterio,Reactor Sabotage,Oscorp Labs,Clear,Night,16,6,4,High,Available,6,9,High
+SP-1289,Sandman,Public Attack,Brooklyn,Storm,Morning,22,10,9,Moderate,Delayed,9,11,Medium
+SP-0165,Doctor Octopus,Robbery,Oscorp Labs,Rain,Afternoon,21,6,6,Moderate,Delayed,1,11,Medium
+SP-1584,The Lizard,Reactor Sabotage,Queens,Clear,Afternoon,19,5,3,Low,Unavailable,10,19,Medium
+SP-0064,Sandman,Hostage Rescue,Times Square,Storm,Morning,22,4,8,Low,Delayed,7,6,Medium
+SP-0263,Venom,Portal Disturbance,Times Square,Rain,Evening,26,4,4,Moderate,Delayed,9,10,High
+SP-1237,Sandman,Hostage Rescue,Oscorp Labs,Clear,Evening,20,8,6,Low,Unavailable,2,13,High
+SP-0337,Doctor Octopus,Lab Break-in,Times Square,Storm,Night,18,2,10,High,Available,4,12,Medium
+SP-0978,Kingpin,Vehicle Chase,Harlem,Rain,Evening,20,10,6,Low,Available,3,8,Low
+SP-1287,Sandman,Hostage Rescue,Harlem,Storm,Afternoon,13,6,7,Low,Available,10,5,Medium
+SP-0257,Sandman,Lab Break-in,Stark Tower,Clear,Morning,23,2,6,Moderate,Delayed,3,7,Medium
+SP-0134,The Lizard,Hostage Rescue,Manhattan,Clear,Night,20,9,1,Low,Delayed,9,8,High
+SP-1565,Sandman,Vehicle Chase,Harlem,Storm,Night,13,7,7,Low,Unavailable,9,16,Medium
+SP-1357,Sandman,Hostage Rescue,Stark Tower,Storm,Afternoon,21,2,2,Low,Available,10,9,Medium
+SP-1430,Doctor Octopus,Portal Disturbance,Queens,Clear,Morning,14,6,4,Low,Available,5,6,Medium
+SP-0595,Doctor Octopus,Reactor Sabotage,Queens,Clear,Evening,17,2,7,High,Available,5,13,Medium
+SP-0567,Mysterio,Robbery,Stark Tower,Rain,Evening,14,7,6,Moderate,Delayed,1,9,Low
+SP-0977,Doctor Octopus,Lab Break-in,Stark Tower,Storm,Night,21,8,4,Moderate,Available,3,7,Medium
+SP-1105,The Lizard,Vehicle Chase,Oscorp Labs,Clear,Evening,22,5,5,High,Delayed,8,8,High
+SP-0647,Mysterio,Reactor Sabotage,Stark Tower,Rain,Evening,14,1,1,Low,Unavailable,5,17,High
+SP-0223,Green Goblin,Vehicle Chase,Manhattan,Rain,Evening,11,2,1,High,Available,1,7,Medium
+SP-0316,Mysterio,Lab Break-in,Brooklyn,Clear,Morning,12,2,8,High,Delayed,10,13,Medium
+SP-0027,Sandman,Hostage Rescue,Times Square,Clear,Evening,16,2,8,Low,Unavailable,6,15,Medium
+SP-0930,Green Goblin,Public Attack,Harlem,Rain,Afternoon,11,10,8,Low,Delayed,6,17,Medium
+SP-1548,Kingpin,Public Attack,Oscorp Labs,Rain,Afternoon,24,3,8,Moderate,Available,8,8,Medium
+SP-0618,Sandman,Reactor Sabotage,Manhattan,Rain,Morning,22,3,9,Low,Available,2,9,Medium
+SP-0888,Venom,Vehicle Chase,Manhattan,Clear,Evening,13,2,1,Low,Unavailable,7,19,Medium
+SP-0901,Mysterio,Public Attack,Harlem,Clear,Night,19,1,8,High,Unavailable,4,16,Medium
+SP-1056,Kingpin,Hostage Rescue,Times Square,Storm,Night,16,2,8,High,Available,5,10,Medium
+SP-0722,Kingpin,Portal Disturbance,Queens,Fog,Evening,17,2,1,High,Available,4,12,Medium
+SP-1425,Sandman,Reactor Sabotage,Brooklyn,Rain,Night,13,4,3,Low,Available,8,6,Medium
+SP-1102,Sandman,Reactor Sabotage,Harlem,Clear,Morning,22,7,9,Moderate,Delayed,1,11,Medium
+SP-0943,The Lizard,Reactor Sabotage,Harlem,Storm,Afternoon,20,3,6,High,Delayed,4,17,Medium
+SP-0441,Doctor Octopus,Public Attack,Brooklyn,Storm,Night,19,7,6,Moderate,Available,1,11,Medium
+SP-1454,Doctor Octopus,Reactor Sabotage,Brooklyn,Storm,Morning,16,7,8,High,Unavailable,7,21,High
+SP-1000,Green Goblin,Reactor Sabotage,Times Square,Clear,Night,25,10,1,Low,Unavailable,3,16,High
+SP-0153,Venom,Lab Break-in,Times Square,Clear,Afternoon,14,8,2,Moderate,Available,7,7,High
+SP-0828,Prowler,Hostage Rescue,Stark Tower,Rain,Night,12,5,3,Moderate,Available,8,10,Medium
+SP-0144,Prowler,Reactor Sabotage,Times Square,Clear,Afternoon,17,10,7,High,Available,8,8,Medium
+SP-0781,Mysterio,Reactor Sabotage,Manhattan,Rain,Afternoon,15,3,2,Low,Delayed,7,14,Medium
+SP-0968,The Lizard,Portal Disturbance,Stark Tower,Clear,Morning,12,2,9,Moderate,Delayed,2,11,Medium
+SP-0709,Mysterio,Robbery,Harlem,Clear,Night,22,6,4,Low,Delayed,3,6,Low
+SP-1464,Venom,Hostage Rescue,Stark Tower,Clear,Morning,13,5,7,High,Available,7,3,Medium
+SP-1215,Doctor Octopus,Robbery,Brooklyn,Clear,Afternoon,14,4,4,High,Delayed,7,14,Low
+SP-0125,Green Goblin,Hostage Rescue,Manhattan,Rain,Afternoon,19,10,9,High,Available,4,7,Medium
+SP-0894,Mysterio,Hostage Rescue,Harlem,Clear,Afternoon,19,7,10,Low,Available,4,10,Medium
+SP-0940,Sandman,Portal Disturbance,Oscorp Labs,Rain,Morning,20,2,5,Moderate,Available,6,10,Medium
+SP-1442,The Lizard,Portal Disturbance,Times Square,Clear,Afternoon,15,7,3,Low,Unavailable,9,15,High
+SP-0445,Sandman,Vehicle Chase,Oscorp Labs,Storm,Afternoon,12,5,3,Low,Unavailable,4,21,Medium
+SP-0843,Kingpin,Portal Disturbance,Manhattan,Rain,Evening,17,7,6,Moderate,Delayed,1,10,Medium
+SP-0701,Mysterio,Reactor Sabotage,Oscorp Labs,Clear,Morning,13,1,4,Low,Available,2,2,Medium
+SP-0057,Green Goblin,Hostage Rescue,Harlem,Clear,Morning,22,5,5,Moderate,Unavailable,10,23,High
+SP-0403,Sandman,Portal Disturbance,Times Square,Storm,Evening,18,2,3,Moderate,Available,9,6,Medium
+SP-0818,Green Goblin,Vehicle Chase,Times Square,Clear,Night,13,8,3,High,Available,1,12,Medium
+SP-0640,Green Goblin,Reactor Sabotage,Harlem,Clear,Afternoon,10,7,9,Moderate,Available,4,7,Medium
+SP-1325,The Lizard,Robbery,Queens,Rain,Evening,17,9,10,Low,Unavailable,9,17,Low
+SP-0717,Green Goblin,Portal Disturbance,Stark Tower,Rain,Evening,16,2,9,High,Available,9,10,High
+SP-1271,Kingpin,Portal Disturbance,Oscorp Labs,Clear,Evening,8,5,2,High,Delayed,9,16,High
+SP-0434,Prowler,Public Attack,Queens,Clear,Night,23,8,5,Moderate,Available,2,9,Low
+SP-0107,Prowler,Portal Disturbance,Manhattan,Storm,Morning,17,4,5,Moderate,Delayed,2,14,Medium
+SP-1281,The Lizard,Vehicle Chase,Brooklyn,Clear,Evening,22,8,10,Low,Delayed,3,14,Low
+SP-1265,Mysterio,Public Attack,Harlem,Clear,Evening,18,2,9,Low,Delayed,3,8,Low
+SP-0905,The Lizard,Vehicle Chase,Harlem,Storm,Night,23,1,3,Moderate,Unavailable,6,15,Medium
+SP-0440,Doctor Octopus,Public Attack,Stark Tower,Rain,Evening,20,9,7,Moderate,Unavailable,6,19,High
+SP-1011,Kingpin,Portal Disturbance,Times Square,Fog,Morning,15,2,7,Low,Delayed,1,13,Low
+SP-1539,Mysterio,Robbery,Queens,Storm,Evening,14,2,2,Moderate,Unavailable,4,15,Low
+SP-0342,The Lizard,Public Attack,Brooklyn,Clear,Evening,21,7,10,Moderate,Available,8,12,Medium
+SP-0934,Green Goblin,Public Attack,Manhattan,Storm,Night,17,5,1,High,Delayed,5,14,High
+SP-0936,Green Goblin,Hostage Rescue,Brooklyn,Clear,Evening,22,3,2,Low,Available,4,12,Medium
+SP-1567,Kingpin,Hostage Rescue,Times Square,Storm,Morning,13,6,10,High,Available,10,10,Medium
+SP-1364,Mysterio,Robbery,Times Square,Storm,Morning,11,8,7,Low,Available,4,11,Low
+SP-0159,Mysterio,Portal Disturbance,Harlem,Clear,Evening,20,6,3,High,Unavailable,1,19,Medium
+SP-0192,Sandman,Robbery,Harlem,Clear,Afternoon,14,4,7,High,Delayed,10,8,Medium
+SP-1580,Mysterio,Reactor Sabotage,Harlem,Fog,Morning,18,1,3,High,Available,1,3,Medium
+SP-0886,Prowler,Vehicle Chase,Manhattan,Storm,Morning,15,9,2,Moderate,Unavailable,7,21,Medium
+SP-0646,Kingpin,Robbery,Stark Tower,Storm,Night,18,7,7,Moderate,Available,6,11,Medium
+SP-0468,Sandman,Public Attack,Queens,Rain,Morning,16,1,1,High,Available,9,13,Medium
+SP-0456,Kingpin,Lab Break-in,Harlem,Clear,Night,16,7,2,Low,Available,2,10,Medium
+SP-1480,Kingpin,Vehicle Chase,Times Square,Clear,Evening,13,9,4,Moderate,Delayed,6,10,Medium
+SP-0252,Doctor Octopus,Hostage Rescue,Oscorp Labs,Fog,Evening,8,7,6,Low,Delayed,1,9,Medium
+SP-0681,Doctor Octopus,Robbery,Brooklyn,Clear,Morning,20,9,6,High,Delayed,9,14,Medium
+SP-0003,Sandman,Vehicle Chase,Queens,Rain,Afternoon,15,7,9,Low,Delayed,5,15,Low
+SP-0319,Mysterio,Reactor Sabotage,Manhattan,Clear,Afternoon,21,2,7,Moderate,Available,6,5,Medium
+SP-0008,Green Goblin,Public Attack,Oscorp Labs,Storm,Afternoon,18,10,4,Low,Available,5,8,High
+SP-1323,Kingpin,Hostage Rescue,Oscorp Labs,Storm,Morning,16,4,6,Low,Available,8,1,Medium
+SP-0974,Mysterio,Hostage Rescue,Harlem,Rain,Evening,17,3,3,High,Delayed,6,6,Medium
+SP-0724,Kingpin,Public Attack,Oscorp Labs,Fog,Morning,24,10,4,High,Unavailable,8,19,High
+SP-0431,Kingpin,Portal Disturbance,Harlem,Fog,Evening,20,2,4,Low,Available,7,3,Low
+SP-0877,The Lizard,Vehicle Chase,Stark Tower,Clear,Afternoon,16,6,2,High,Delayed,4,10,Medium
+SP-0949,Doctor Octopus,Hostage Rescue,Stark Tower,Clear,Afternoon,26,5,3,Low,Available,2,7,Medium
+SP-1125,Mysterio,Vehicle Chase,Manhattan,Rain,Evening,16,7,5,Moderate,Available,4,15,Medium
+SP-0657,Mysterio,Reactor Sabotage,Stark Tower,Rain,Morning,20,7,2,Low,Available,8,3,High
+SP-0662,Sandman,Robbery,Stark Tower,Clear,Morning,16,9,8,Low,Delayed,1,9,Low
+SP-0239,Prowler,Reactor Sabotage,Queens,Storm,Night,14,4,10,Moderate,Delayed,9,10,Medium
+SP-1598,Sandman,Public Attack,Manhattan,Clear,Morning,21,10,7,Moderate,Delayed,8,8,Medium
+SP-1342,Kingpin,Lab Break-in,Stark Tower,Fog,Afternoon,22,9,2,Moderate,Available,1,8,Medium
+SP-0923,Kingpin,Vehicle Chase,Harlem,Rain,Evening,14,1,4,Low,Available,6,11,Low
+SP-1111,Doctor Octopus,Lab Break-in,Harlem,Clear,Night,12,3,7,Moderate,Available,3,9,Low
+SP-0131,Prowler,Reactor Sabotage,Oscorp Labs,Storm,Morning,17,9,5,Moderate,Delayed,5,10,High
+SP-1387,Doctor Octopus,Hostage Rescue,Manhattan,Clear,Morning,24,6,1,Moderate,Delayed,5,13,High
+SP-0043,Venom,Vehicle Chase,Oscorp Labs,Clear,Evening,17,2,9,Low,Available,1,2,Medium
+SP-1107,Green Goblin,Vehicle Chase,Stark Tower,Fog,Night,17,8,6,Moderate,Available,3,13,Medium
+SP-0755,Prowler,Portal Disturbance,Queens,Clear,Afternoon,19,2,2,High,Delayed,7,9,Medium
+SP-0396,Venom,Public Attack,Times Square,Clear,Evening,25,7,8,Low,Available,5,7,Medium
+SP-1092,Doctor Octopus,Lab Break-in,Manhattan,Rain,Afternoon,22,7,8,Low,Delayed,10,13,Medium
+SP-0708,Doctor Octopus,Portal Disturbance,Harlem,Clear,Afternoon,20,8,10,High,Available,3,5,Medium
+SP-0065,Green Goblin,Hostage Rescue,Manhattan,Clear,Evening,20,4,8,High,Available,9,7,Medium
+SP-1103,Green Goblin,Public Attack,Times Square,Clear,Night,15,1,8,Low,Unavailable,10,17,Medium
+SP-0992,Mysterio,Public Attack,Brooklyn,Storm,Afternoon,26,8,10,Moderate,Delayed,5,9,Medium
+SP-0448,Kingpin,Lab Break-in,Times Square,Clear,Morning,15,6,5,Moderate,Available,10,10,Medium
+SP-0333,The Lizard,Public Attack,Oscorp Labs,Clear,Afternoon,17,9,8,Low,Available,7,7,Medium
+SP-1099,Doctor Octopus,Robbery,Stark Tower,Rain,Night,16,3,6,Moderate,Available,3,6,Low
+SP-0860,The Lizard,Portal Disturbance,Stark Tower,Storm,Morning,17,8,9,Moderate,Delayed,3,14,High
+SP-0907,Green Goblin,Vehicle Chase,Brooklyn,Clear,Afternoon,18,2,10,Low,Available,6,6,Low
+SP-0830,Kingpin,Hostage Rescue,Manhattan,Clear,Night,13,7,4,Moderate,Unavailable,4,10,Medium
+SP-0186,Sandman,Lab Break-in,Manhattan,Fog,Evening,20,4,5,Low,Available,3,7,Low
+SP-1127,Doctor Octopus,Vehicle Chase,Times Square,Storm,Evening,18,1,6,Moderate,Available,10,7,Medium
+SP-1581,Sandman,Public Attack,Oscorp Labs,Clear,Evening,20,3,7,Moderate,Unavailable,1,19,Medium
+SP-1114,Green Goblin,Hostage Rescue,Harlem,Storm,Afternoon,19,7,5,High,Available,10,9,Medium
+SP-1304,Kingpin,Portal Disturbance,Oscorp Labs,Fog,Morning,21,4,3,High,Delayed,7,9,High
+SP-0607,Kingpin,Reactor Sabotage,Oscorp Labs,Clear,Evening,18,9,7,Low,Delayed,1,9,Medium
+SP-1385,The Lizard,Vehicle Chase,Stark Tower,Clear,Morning,25,9,1,Moderate,Available,1,9,Medium
+SP-0404,Sandman,Robbery,Manhattan,Clear,Afternoon,14,1,10,Low,Available,2,8,Low
+SP-0354,Sandman,Hostage Rescue,Brooklyn,Fog,Night,22,7,5,High,Unavailable,9,16,High
+SP-1133,Prowler,Vehicle Chase,Brooklyn,Rain,Afternoon,17,8,6,High,Available,5,5,Low
+SP-1164,Mysterio,Vehicle Chase,Oscorp Labs,Clear,Afternoon,18,10,3,High,Delayed,3,8,Medium
+SP-0754,Kingpin,Lab Break-in,Harlem,Rain,Afternoon,17,2,3,Moderate,Available,6,7,Medium
+SP-0885,Doctor Octopus,Hostage Rescue,Times Square,Clear,Evening,22,2,10,Low,Delayed,3,9,Medium
+SP-0979,Mysterio,Portal Disturbance,Stark Tower,Clear,Evening,20,6,7,High,Unavailable,9,12,High
+SP-0079,Doctor Octopus,Robbery,Harlem,Clear,Morning,14,5,4,Low,Available,5,7,Low
+SP-1311,Venom,Robbery,Harlem,Rain,Evening,23,2,7,High,Available,9,2,Low
+SP-0014,The Lizard,Public Attack,Queens,Clear,Night,28,6,4,Moderate,Unavailable,8,15,Medium
+SP-0780,Sandman,Robbery,Brooklyn,Clear,Afternoon,16,4,6,High,Available,5,9,Low
+SP-0783,Doctor Octopus,Vehicle Chase,Queens,Storm,Night,21,1,5,High,Delayed,3,19,Medium
+SP-1012,Prowler,Vehicle Chase,Stark Tower,Rain,Afternoon,23,10,3,High,Delayed,10,12,High
+SP-0423,Kingpin,Lab Break-in,Brooklyn,Clear,Night,14,5,9,High,Available,8,3,Medium
+SP-0743,Sandman,Portal Disturbance,Stark Tower,Rain,Morning,17,10,2,Moderate,Available,8,12,High
+SP-0372,Kingpin,Robbery,Brooklyn,Storm,Night,16,4,7,Moderate,Unavailable,1,16,Low
+SP-0016,Doctor Octopus,Robbery,Brooklyn,Rain,Night,13,1,9,High,Delayed,2,8,Low
+SP-0415,Doctor Octopus,Portal Disturbance,Times Square,Storm,Evening,20,10,1,High,Available,2,3,High
+SP-0528,The Lizard,Public Attack,Times Square,Rain,Afternoon,19,4,2,Moderate,Available,9,6,High
+SP-1191,Kingpin,Robbery,Stark Tower,Clear,Evening,21,6,8,Moderate,Available,3,9,Low
+SP-0098,Doctor Octopus,Reactor Sabotage,Times Square,Clear,Afternoon,12,9,9,Moderate,Available,5,6,Medium
+SP-0454,Green Goblin,Hostage Rescue,Manhattan,Clear,Night,20,8,5,High,Delayed,1,12,High
+SP-0810,Green Goblin,Public Attack,Stark Tower,Clear,Morning,17,9,2,Moderate,Unavailable,5,14,High
+SP-0049,Doctor Octopus,Public Attack,Times Square,Clear,Afternoon,17,1,5,High,Delayed,7,12,Medium
+SP-1501,Doctor Octopus,Vehicle Chase,Harlem,Fog,Morning,16,4,8,High,Available,1,5,Low
+SP-0744,Doctor Octopus,Portal Disturbance,Brooklyn,Rain,Morning,11,7,3,High,Available,2,15,Medium
+SP-1518,Prowler,Public Attack,Oscorp Labs,Clear,Morning,16,4,3,High,Delayed,3,12,Medium
+SP-1067,Sandman,Portal Disturbance,Queens,Storm,Afternoon,20,4,1,Moderate,Available,10,7,Medium
+SP-0222,Kingpin,Reactor Sabotage,Times Square,Fog,Morning,18,7,2,High,Available,6,5,Medium
+SP-0001,Prowler,Portal Disturbance,Queens,Rain,Night,24,5,7,High,Delayed,2,12,Medium
+SP-0554,Mysterio,Portal Disturbance,Harlem,Clear,Evening,19,10,9,Moderate,Unavailable,4,16,Medium
+SP-0899,The Lizard,Portal Disturbance,Queens,Clear,Night,20,4,2,Moderate,Delayed,10,16,High
+SP-0507,The Lizard,Robbery,Oscorp Labs,Storm,Afternoon,20,2,3,Low,Unavailable,8,15,Medium
+SP-1473,Mysterio,Reactor Sabotage,Times Square,Storm,Evening,19,3,7,Low,Available,10,6,Medium
+SP-0247,Doctor Octopus,Public Attack,Brooklyn,Storm,Night,14,10,6,High,Unavailable,7,16,High
+SP-1048,Sandman,Hostage Rescue,Oscorp Labs,Rain,Afternoon,19,10,8,High,Available,9,6,High
+SP-0713,Green Goblin,Vehicle Chase,Queens,Rain,Morning,16,3,10,High,Unavailable,9,19,Medium
+SP-1322,Mysterio,Portal Disturbance,Times Square,Clear,Morning,18,8,9,High,Delayed,3,11,Medium
+SP-1172,The Lizard,Public Attack,Oscorp Labs,Clear,Evening,14,4,5,Low,Available,9,10,Medium
+SP-1167,Sandman,Hostage Rescue,Queens,Clear,Afternoon,20,5,8,Moderate,Available,3,3,Low
+SP-0009,Kingpin,Robbery,Times Square,Rain,Evening,20,3,9,Low,Available,7,7,Low
+SP-0472,Kingpin,Public Attack,Harlem,Rain,Morning,16,8,10,Low,Available,5,7,Low
+SP-0586,Sandman,Lab Break-in,Queens,Clear,Evening,29,6,10,High,Available,2,6,Low
+SP-0952,Kingpin,Public Attack,Brooklyn,Rain,Morning,14,1,2,Low,Available,10,8,Medium
+SP-0453,The Lizard,Vehicle Chase,Brooklyn,Storm,Afternoon,27,6,8,High,Delayed,1,15,Medium
+SP-0838,Prowler,Lab Break-in,Times Square,Clear,Afternoon,17,3,3,Low,Unavailable,2,16,Medium
+SP-0007,Mysterio,Lab Break-in,Times Square,Fog,Morning,28,9,1,Low,Available,6,4,Medium
+SP-0634,Venom,Portal Disturbance,Queens,Storm,Night,17,4,7,Low,Unavailable,10,12,High
+SP-0119,Venom,Reactor Sabotage,Brooklyn,Clear,Evening,12,9,2,Low,Available,8,9,Medium
+SP-1026,Prowler,Vehicle Chase,Oscorp Labs,Rain,Evening,19,4,9,Moderate,Available,4,11,Low
+SP-1259,Venom,Robbery,Times Square,Rain,Morning,22,5,1,High,Available,6,11,Medium
+SP-1138,Doctor Octopus,Lab Break-in,Harlem,Clear,Afternoon,8,3,5,Low,Available,8,2,Low
+SP-1571,Mysterio,Portal Disturbance,Harlem,Rain,Evening,15,6,10,High,Delayed,9,9,Medium
+SP-1018,Doctor Octopus,Hostage Rescue,Queens,Rain,Evening,17,7,1,Moderate,Available,2,11,Medium
+SP-1535,Doctor Octopus,Lab Break-in,Brooklyn,Fog,Night,25,10,2,High,Delayed,5,10,Medium
+SP-1444,Mysterio,Portal Disturbance,Times Square,Storm,Evening,11,3,5,High,Unavailable,6,20,High
+SP-0174,Venom,Robbery,Queens,Rain,Night,14,9,7,Moderate,Available,6,8,Low
+SP-0420,Green Goblin,Lab Break-in,Times Square,Rain,Evening,22,3,5,Low,Available,3,10,Medium
+SP-0622,Mysterio,Public Attack,Queens,Clear,Evening,22,4,10,Moderate,Available,4,16,Medium
+SP-1313,Doctor Octopus,Public Attack,Manhattan,Clear,Evening,20,10,1,Low,Unavailable,5,16,High
+SP-0146,Sandman,Public Attack,Stark Tower,Storm,Afternoon,20,2,1,High,Delayed,7,9,High
+SP-0410,Prowler,Public Attack,Times Square,Clear,Afternoon,16,9,4,Low,Delayed,6,14,Medium
+SP-0350,Mysterio,Hostage Rescue,Queens,Rain,Evening,18,5,10,Moderate,Unavailable,2,11,Medium
+SP-0228,Green Goblin,Lab Break-in,Queens,Rain,Afternoon,17,7,1,Moderate,Available,9,7,Medium
+SP-0443,Venom,Reactor Sabotage,Times Square,Storm,Afternoon,11,6,9,Moderate,Delayed,3,10,Medium
+SP-1508,Mysterio,Reactor Sabotage,Manhattan,Clear,Afternoon,18,10,8,Moderate,Available,4,3,Medium
+SP-0909,Mysterio,Portal Disturbance,Oscorp Labs,Clear,Afternoon,22,1,7,Low,Delayed,4,8,Medium
+SP-1358,Mysterio,Lab Break-in,Times Square,Clear,Morning,23,10,8,Low,Available,3,1,Medium
+SP-0105,Doctor Octopus,Vehicle Chase,Stark Tower,Fog,Afternoon,19,9,8,High,Delayed,9,12,High
+SP-1201,Green Goblin,Robbery,Manhattan,Storm,Morning,20,3,10,Low,Available,1,5,Low
+SP-0623,Sandman,Reactor Sabotage,Queens,Clear,Afternoon,10,7,9,Low,Delayed,2,9,Medium
+SP-0688,Sandman,Public Attack,Times Square,Rain,Afternoon,16,10,6,Low,Available,3,12,Medium
+SP-1528,The Lizard,Portal Disturbance,Harlem,Clear,Night,18,4,4,Low,Unavailable,8,15,Medium
+SP-0520,Prowler,Reactor Sabotage,Brooklyn,Storm,Night,16,8,8,High,Delayed,5,13,Medium
+SP-0600,Mysterio,Reactor Sabotage,Oscorp Labs,Clear,Afternoon,17,8,8,High,Unavailable,9,19,High
+SP-1216,Venom,Reactor Sabotage,Harlem,Clear,Night,23,5,10,Low,Available,5,12,Medium
+SP-0063,Doctor Octopus,Robbery,Stark Tower,Clear,Night,13,7,9,High,Available,9,9,Medium
+SP-0044,Venom,Hostage Rescue,Stark Tower,Storm,Night,25,8,3,Moderate,Unavailable,10,17,High
+SP-0274,Doctor Octopus,Reactor Sabotage,Oscorp Labs,Clear,Evening,21,2,8,Moderate,Unavailable,5,18,Medium
+SP-0260,Mysterio,Robbery,Stark Tower,Clear,Afternoon,20,4,6,Low,Delayed,6,15,Medium
+SP-1069,Venom,Lab Break-in,Oscorp Labs,Storm,Afternoon,15,4,5,High,Available,7,5,Medium
+SP-0284,Kingpin,Reactor Sabotage,Manhattan,Rain,Afternoon,19,4,6,Low,Available,6,8,Medium
+SP-1023,Venom,Robbery,Manhattan,Rain,Afternoon,17,5,6,Moderate,Available,3,8,Low
+SP-1503,Doctor Octopus,Lab Break-in,Stark Tower,Clear,Afternoon,23,7,8,Moderate,Available,4,7,Medium
+SP-0789,Green Goblin,Reactor Sabotage,Manhattan,Rain,Evening,16,7,1,Moderate,Available,8,6,High
+SP-1599,The Lizard,Reactor Sabotage,Stark Tower,Storm,Evening,21,10,4,High,Available,1,12,High
+SP-0199,Green Goblin,Vehicle Chase,Queens,Clear,Night,16,4,3,Moderate,Available,7,11,Medium
+SP-1041,Green Goblin,Hostage Rescue,Manhattan,Storm,Evening,15,4,8,High,Available,3,9,Medium
+SP-1227,Green Goblin,Lab Break-in,Times Square,Clear,Afternoon,21,8,7,Moderate,Delayed,6,14,High
+SP-0162,Doctor Octopus,Public Attack,Queens,Storm,Morning,18,3,2,High,Delayed,8,12,Medium
+SP-0106,Green Goblin,Public Attack,Queens,Clear,Afternoon,14,6,6,High,Unavailable,9,12,Medium
+SP-0731,Green Goblin,Vehicle Chase,Queens,Clear,Night,15,4,10,Low,Available,2,10,Low
+SP-0826,Doctor Octopus,Public Attack,Harlem,Storm,Morning,15,6,1,Low,Delayed,5,13,Medium
+SP-0920,Kingpin,Robbery,Oscorp Labs,Fog,Morning,15,7,5,High,Available,10,10,Medium
+SP-1199,Venom,Robbery,Times Square,Fog,Afternoon,14,7,2,Low,Available,5,5,Medium
+SP-1421,Doctor Octopus,Lab Break-in,Harlem,Fog,Night,21,4,8,High,Available,1,9,Medium
+SP-0857,Green Goblin,Hostage Rescue,Harlem,Clear,Night,16,6,2,Low,Delayed,7,7,Medium
+SP-0486,Kingpin,Hostage Rescue,Manhattan,Rain,Afternoon,19,3,8,Low,Available,6,5,Medium
+SP-1476,The Lizard,Robbery,Stark Tower,Rain,Evening,19,8,10,Moderate,Delayed,3,17,Low
+SP-0331,Sandman,Hostage Rescue,Queens,Clear,Night,15,5,8,Low,Delayed,4,14,Medium
+SP-1589,Venom,Portal Disturbance,Harlem,Rain,Morning,13,3,1,High,Available,9,5,High
+SP-1526,The Lizard,Robbery,Brooklyn,Rain,Night,21,4,6,High,Unavailable,9,14,Medium
+SP-1383,Prowler,Robbery,Stark Tower,Rain,Night,22,9,6,High,Unavailable,5,17,Medium
+SP-0488,Mysterio,Reactor Sabotage,Manhattan,Fog,Evening,13,10,9,Moderate,Available,3,9,Medium
+SP-0666,Doctor Octopus,Reactor Sabotage,Stark Tower,Rain,Night,20,4,1,Moderate,Available,8,13,High
+SP-0220,The Lizard,Hostage Rescue,Stark Tower,Clear,Night,12,8,6,Moderate,Delayed,9,12,High
+SP-1156,Kingpin,Portal Disturbance,Times Square,Clear,Afternoon,12,6,5,High,Available,4,4,Medium
+SP-1330,Mysterio,Robbery,Stark Tower,Clear,Morning,14,2,2,Low,Unavailable,5,21,Medium
+SP-0306,Venom,Robbery,Times Square,Clear,Morning,22,3,1,High,Available,5,8,Medium
+SP-0317,The Lizard,Hostage Rescue,Manhattan,Rain,Evening,11,7,2,Moderate,Available,1,8,Medium
+SP-1426,Mysterio,Reactor Sabotage,Manhattan,Clear,Night,16,7,10,Moderate,Unavailable,3,14,Medium
+SP-1463,Doctor Octopus,Lab Break-in,Queens,Clear,Afternoon,20,8,2,Low,Unavailable,1,16,Medium
+SP-0369,Prowler,Lab Break-in,Oscorp Labs,Clear,Night,12,7,7,High,Available,6,9,Medium
+SP-0730,Prowler,Reactor Sabotage,Times Square,Clear,Evening,23,9,9,High,Available,7,8,Medium
+SP-0739,Venom,Robbery,Oscorp Labs,Fog,Night,14,2,8,Moderate,Delayed,10,15,Medium
+SP-1214,Venom,Vehicle Chase,Queens,Clear,Morning,11,2,7,Moderate,Delayed,7,11,Medium
+SP-0560,Prowler,Portal Disturbance,Brooklyn,Rain,Morning,19,2,3,High,Delayed,4,14,Medium
+SP-0764,Sandman,Public Attack,Queens,Fog,Morning,12,9,2,Moderate,Delayed,4,12,Medium
+SP-0178,Sandman,Robbery,Harlem,Clear,Night,15,5,3,Low,Delayed,8,5,Low
+SP-1460,Doctor Octopus,Vehicle Chase,Manhattan,Clear,Afternoon,20,4,3,Low,Available,4,4,Medium
+SP-0152,The Lizard,Portal Disturbance,Brooklyn,Fog,Morning,11,3,5,Low,Delayed,4,6,Medium
+SP-1001,Prowler,Robbery,Oscorp Labs,Rain,Afternoon,15,1,7,Moderate,Available,7,9,Low
+SP-0478,Doctor Octopus,Reactor Sabotage,Oscorp Labs,Storm,Night,11,1,2,High,Delayed,6,8,High
+SP-0191,The Lizard,Robbery,Brooklyn,Clear,Morning,19,6,10,Moderate,Unavailable,3,22,Low
+SP-0466,The Lizard,Vehicle Chase,Manhattan,Clear,Morning,17,7,6,High,Available,3,9,Medium
+SP-1427,Prowler,Robbery,Queens,Storm,Evening,16,1,7,Low,Unavailable,5,16,Low
+SP-0026,Kingpin,Public Attack,Queens,Rain,Night,23,3,10,High,Delayed,6,12,Medium
+SP-0729,The Lizard,Lab Break-in,Stark Tower,Fog,Afternoon,16,2,10,Moderate,Unavailable,2,22,Medium
+SP-0264,Mysterio,Lab Break-in,Oscorp Labs,Clear,Night,18,6,6,Low,Unavailable,7,17,Medium
+SP-0651,The Lizard,Vehicle Chase,Harlem,Clear,Night,13,7,10,Low,Available,5,7,Low
+SP-0068,Doctor Octopus,Vehicle Chase,Oscorp Labs,Rain,Evening,19,7,4,High,Delayed,7,10,Medium
+SP-1346,The Lizard,Robbery,Times Square,Storm,Morning,16,2,7,High,Available,4,6,Low
+SP-0366,Green Goblin,Reactor Sabotage,Times Square,Storm,Night,12,4,9,Low,Delayed,2,10,Medium
+SP-0612,Doctor Octopus,Lab Break-in,Harlem,Rain,Evening,22,1,9,Low,Unavailable,2,20,Medium
+SP-0501,Green Goblin,Robbery,Harlem,Clear,Night,18,5,10,High,Available,4,9,Low
+SP-1200,Sandman,Portal Disturbance,Stark Tower,Clear,Night,12,3,6,Low,Delayed,1,15,Medium
+SP-1356,Venom,Portal Disturbance,Harlem,Clear,Evening,18,1,6,High,Available,9,11,Medium
+SP-0617,The Lizard,Lab Break-in,Harlem,Clear,Afternoon,19,7,6,Low,Available,5,3,Low
+SP-0914,Prowler,Robbery,Times Square,Clear,Night,24,9,7,High,Unavailable,4,18,Medium
+SP-0469,Mysterio,Public Attack,Oscorp Labs,Clear,Afternoon,11,9,7,Moderate,Unavailable,6,20,Medium
+SP-1013,Sandman,Vehicle Chase,Stark Tower,Rain,Afternoon,15,6,6,High,Available,5,9,Medium
+SP-0719,Venom,Reactor Sabotage,Oscorp Labs,Rain,Afternoon,21,3,5,High,Unavailable,3,18,High
+SP-0362,Kingpin,Reactor Sabotage,Harlem,Clear,Morning,20,7,7,High,Available,4,4,Medium
+SP-0480,Prowler,Reactor Sabotage,Manhattan,Clear,Afternoon,18,1,1,Moderate,Available,7,7,Medium
+SP-0213,The Lizard,Robbery,Brooklyn,Clear,Night,36,1,6,Moderate,Available,10,6,Low
+SP-0248,Kingpin,Reactor Sabotage,Queens,Fog,Morning,21,7,4,High,Available,8,8,Medium
+SP-1455,Mysterio,Lab Break-in,Stark Tower,Rain,Evening,24,4,8,Moderate,Available,4,4,Medium
+SP-1297,Mysterio,Robbery,Times Square,Clear,Night,23,10,3,Moderate,Available,8,7,Medium
+SP-0425,Prowler,Portal Disturbance,Oscorp Labs,Clear,Night,22,5,1,Moderate,Available,1,7,Medium
+SP-1377,The Lizard,Public Attack,Queens,Clear,Night,14,8,4,Low,Available,2,11,Medium
+SP-0852,The Lizard,Public Attack,Queens,Rain,Morning,18,8,6,High,Available,9,10,Medium
+SP-1104,Mysterio,Portal Disturbance,Times Square,Clear,Afternoon,21,4,1,Moderate,Available,2,7,Medium
+SP-0426,Kingpin,Public Attack,Brooklyn,Clear,Afternoon,27,9,4,Low,Unavailable,1,19,Medium
+SP-0927,Mysterio,Public Attack,Times Square,Clear,Morning,19,5,3,Low,Delayed,4,10,Medium
+SP-0502,Venom,Hostage Rescue,Times Square,Fog,Morning,14,7,9,Low,Available,4,6,Medium
+SP-0569,Sandman,Vehicle Chase,Oscorp Labs,Fog,Evening,12,7,9,Low,Unavailable,4,15,Medium
+SP-0566,The Lizard,Public Attack,Harlem,Rain,Night,18,3,7,Moderate,Unavailable,3,13,Medium
+SP-0951,Kingpin,Hostage Rescue,Stark Tower,Rain,Night,12,1,8,Low,Available,3,6,Medium
+SP-0455,Mysterio,Robbery,Queens,Fog,Afternoon,16,3,5,Low,Delayed,9,9,Low
+SP-0776,Green Goblin,Portal Disturbance,Harlem,Clear,Evening,16,9,3,Low,Available,3,6,Medium
+SP-0891,Doctor Octopus,Public Attack,Harlem,Clear,Night,22,4,5,High,Available,8,4,Medium
+SP-1431,Green Goblin,Lab Break-in,Oscorp Labs,Clear,Evening,14,3,10,High,Delayed,9,19,Medium
+SP-0834,Venom,Vehicle Chase,Times Square,Storm,Evening,10,9,9,High,Unavailable,9,20,Medium
+SP-1116,Mysterio,Lab Break-in,Queens,Rain,Afternoon,17,10,8,Low,Available,1,10,Low
+SP-1158,Doctor Octopus,Lab Break-in,Stark Tower,Rain,Afternoon,21,2,4,High,Available,4,8,Medium
+SP-1524,Venom,Public Attack,Stark Tower,Rain,Afternoon,13,9,4,Low,Delayed,9,10,High
+SP-0054,Prowler,Portal Disturbance,Times Square,Clear,Morning,9,4,1,Moderate,Available,9,7,Medium
+SP-1549,The Lizard,Hostage Rescue,Oscorp Labs,Clear,Night,22,4,9,High,Unavailable,2,16,High
+SP-0047,Venom,Vehicle Chase,Manhattan,Clear,Morning,8,2,6,Moderate,Unavailable,1,13,Medium
+SP-1410,Kingpin,Robbery,Brooklyn,Storm,Afternoon,18,9,1,Low,Unavailable,2,13,Medium
+SP-1277,Mysterio,Public Attack,Brooklyn,Storm,Evening,13,2,3,Moderate,Unavailable,4,17,Medium
+SP-1600,Kingpin,Public Attack,Times Square,Rain,Afternoon,20,6,10,High,Available,8,8,Medium
+SP-0464,The Lizard,Public Attack,Times Square,Rain,Night,22,10,1,Low,Available,1,12,Medium
+SP-1579,Mysterio,Public Attack,Oscorp Labs,Storm,Night,13,2,10,High,Delayed,6,15,Medium
+SP-1366,Green Goblin,Robbery,Queens,Storm,Afternoon,18,2,2,High,Available,2,4,Low
+SP-0312,Sandman,Hostage Rescue,Queens,Storm,Night,13,8,3,Low,Unavailable,6,23,High
+SP-1484,The Lizard,Robbery,Manhattan,Clear,Night,19,3,4,High,Available,6,6,Medium
+SP-0116,Prowler,Vehicle Chase,Harlem,Storm,Night,16,10,6,Moderate,Available,4,12,Medium
+SP-0452,Sandman,Robbery,Times Square,Clear,Evening,23,7,9,Moderate,Delayed,4,13,Low
+SP-0761,The Lizard,Portal Disturbance,Harlem,Fog,Evening,18,2,8,Low,Unavailable,5,20,Medium
+SP-1097,The Lizard,Hostage Rescue,Harlem,Storm,Evening,18,10,4,High,Delayed,9,16,High
+SP-0233,Sandman,Robbery,Oscorp Labs,Storm,Evening,18,5,9,Low,Available,8,7,Medium
+SP-1397,Prowler,Reactor Sabotage,Brooklyn,Clear,Evening,23,4,10,Low,Available,2,7,Low
+SP-0546,Doctor Octopus,Hostage Rescue,Stark Tower,Clear,Morning,17,6,4,Low,Delayed,9,9,High
+SP-0439,Mysterio,Public Attack,Manhattan,Rain,Afternoon,21,2,2,High,Available,4,12,Medium
+SP-0721,Mysterio,Robbery,Times Square,Fog,Afternoon,25,10,6,Low,Delayed,2,9,Low
+SP-0908,Doctor Octopus,Lab Break-in,Oscorp Labs,Clear,Afternoon,19,5,8,Low,Unavailable,3,15,Medium
+SP-1045,Kingpin,Hostage Rescue,Oscorp Labs,Storm,Night,17,4,1,High,Delayed,1,12,High
+SP-1145,Doctor Octopus,Hostage Rescue,Oscorp Labs,Rain,Night,17,4,3,Moderate,Delayed,1,2,Medium
+SP-0172,Kingpin,Lab Break-in,Queens,Rain,Night,26,5,6,Moderate,Available,2,2,Low
+SP-0021,Green Goblin,Robbery,Times Square,Storm,Evening,26,8,7,Low,Unavailable,10,13,Medium
+SP-0953,The Lizard,Hostage Rescue,Queens,Rain,Evening,16,3,10,High,Delayed,6,12,Medium
+SP-1409,Green Goblin,Lab Break-in,Stark Tower,Storm,Morning,19,5,1,Low,Available,4,8,Medium
+SP-0251,Doctor Octopus,Robbery,Stark Tower,Clear,Afternoon,24,2,10,Low,Available,3,4,Low
+SP-1301,Sandman,Reactor Sabotage,Oscorp Labs,Storm,Evening,19,4,4,High,Available,1,14,High
+SP-0038,Venom,Lab Break-in,Manhattan,Clear,Night,20,1,1,Low,Available,7,9,Medium
+SP-0918,The Lizard,Robbery,Brooklyn,Storm,Afternoon,14,1,10,Low,Available,2,5,Low
+SP-0768,Kingpin,Hostage Rescue,Oscorp Labs,Rain,Afternoon,8,7,9,Moderate,Available,7,8,Medium
+SP-0505,Doctor Octopus,Vehicle Chase,Brooklyn,Clear,Morning,20,4,1,High,Delayed,8,14,Medium
+SP-1491,Doctor Octopus,Hostage Rescue,Queens,Rain,Afternoon,17,1,4,High,Delayed,7,14,Medium
+SP-1202,Venom,Lab Break-in,Stark Tower,Clear,Night,16,9,7,Low,Available,4,8,Medium
+SP-0816,Kingpin,Vehicle Chase,Oscorp Labs,Rain,Night,24,6,8,Moderate,Delayed,5,13,Medium
+SP-0375,Prowler,Robbery,Harlem,Storm,Morning,19,2,2,Moderate,Available,4,4,Low
+SP-1577,Sandman,Hostage Rescue,Harlem,Rain,Morning,22,6,4,High,Available,8,6,Medium
+SP-0303,Venom,Reactor Sabotage,Manhattan,Storm,Night,12,6,4,High,Delayed,6,13,High
+SP-0988,Doctor Octopus,Portal Disturbance,Oscorp Labs,Rain,Night,19,3,2,Low,Delayed,1,15,Medium
+SP-0389,Sandman,Hostage Rescue,Harlem,Clear,Morning,23,6,7,Moderate,Available,6,5,Medium
+SP-0397,Green Goblin,Lab Break-in,Times Square,Storm,Evening,23,3,9,Low,Available,2,17,Medium
+SP-0831,Mysterio,Hostage Rescue,Stark Tower,Rain,Night,16,7,9,Moderate,Delayed,8,11,Medium
+SP-0592,Kingpin,Robbery,Queens,Clear,Morning,24,5,4,Moderate,Delayed,3,11,Low
+SP-1307,The Lizard,Lab Break-in,Oscorp Labs,Rain,Afternoon,14,10,4,Moderate,Available,10,4,High
+SP-0492,The Lizard,Portal Disturbance,Times Square,Storm,Morning,17,4,8,Low,Delayed,9,11,Medium
+SP-1382,Prowler,Lab Break-in,Times Square,Rain,Afternoon,20,9,3,High,Delayed,5,12,Medium
+SP-0975,Kingpin,Robbery,Manhattan,Rain,Afternoon,24,5,2,Low,Unavailable,8,12,Medium
+SP-0883,The Lizard,Lab Break-in,Harlem,Clear,Night,28,4,10,High,Available,3,7,Medium
+SP-0900,The Lizard,Public Attack,Manhattan,Clear,Afternoon,26,4,8,Low,Delayed,1,13,Medium
+SP-0916,Green Goblin,Robbery,Queens,Storm,Evening,16,8,4,Moderate,Available,2,7,Low
+SP-0308,Sandman,Reactor Sabotage,Oscorp Labs,Clear,Morning,23,5,1,High,Available,2,7,High
+SP-1597,Sandman,Public Attack,Oscorp Labs,Clear,Night,19,2,8,Moderate,Available,5,7,Medium
+SP-0498,Prowler,Vehicle Chase,Stark Tower,Fog,Afternoon,9,5,2,Low,Delayed,6,14,Medium
+SP-0090,Doctor Octopus,Hostage Rescue,Times Square,Storm,Evening,23,2,10,Low,Available,10,5,Medium
+SP-0937,Venom,Hostage Rescue,Times Square,Clear,Afternoon,16,7,4,High,Available,2,9,High
+SP-1574,Mysterio,Portal Disturbance,Brooklyn,Storm,Evening,18,1,7,High,Available,8,6,Medium
+SP-1058,Mysterio,Vehicle Chase,Stark Tower,Clear,Morning,21,7,5,Low,Available,2,9,Medium
+SP-0827,Sandman,Lab Break-in,Queens,Clear,Night,23,9,1,Low,Available,1,11,Medium
+SP-1258,Doctor Octopus,Hostage Rescue,Harlem,Clear,Evening,18,6,5,High,Delayed,5,11,Medium
+SP-1190,Prowler,Hostage Rescue,Manhattan,Clear,Morning,15,1,8,Moderate,Available,9,11,Medium
+SP-0626,Sandman,Hostage Rescue,Times Square,Clear,Morning,22,9,5,High,Delayed,7,12,High
+SP-0088,Doctor Octopus,Public Attack,Times Square,Rain,Afternoon,15,10,3,Low,Delayed,10,11,High
+SP-1394,The Lizard,Reactor Sabotage,Times Square,Clear,Night,23,4,6,Low,Delayed,1,12,Medium
+SP-0489,Prowler,Robbery,Manhattan,Clear,Night,14,6,6,Low,Unavailable,1,17,Low
+SP-0442,Mysterio,Robbery,Brooklyn,Clear,Afternoon,18,9,5,Moderate,Available,10,7,Medium
+SP-1230,Prowler,Vehicle Chase,Brooklyn,Clear,Evening,17,10,5,High,Delayed,3,9,Low
+SP-0236,Venom,Public Attack,Oscorp Labs,Fog,Night,9,3,8,High,Available,4,7,Medium
+SP-0046,Sandman,Portal Disturbance,Queens,Rain,Evening,15,3,8,High,Unavailable,3,16,Medium
+SP-0345,Doctor Octopus,Robbery,Queens,Storm,Afternoon,20,8,1,Low,Delayed,3,14,Medium
+SP-1149,The Lizard,Hostage Rescue,Queens,Clear,Evening,16,3,7,Low,Unavailable,7,20,Medium
+SP-1233,Prowler,Lab Break-in,Brooklyn,Clear,Night,23,3,3,High,Delayed,5,15,Medium
+SP-0534,Green Goblin,Robbery,Oscorp Labs,Clear,Afternoon,23,7,2,Moderate,Delayed,7,13,Medium
+SP-0787,Green Goblin,Hostage Rescue,Brooklyn,Rain,Morning,21,7,4,High,Available,5,7,Medium
+SP-1477,Sandman,Vehicle Chase,Brooklyn,Clear,Night,19,8,7,Moderate,Available,5,7,Medium
+SP-0514,Kingpin,Public Attack,Brooklyn,Clear,Evening,24,1,6,Moderate,Unavailable,5,18,Medium
+SP-0132,Mysterio,Public Attack,Times Square,Clear,Afternoon,15,4,3,High,Available,5,13,Medium
+SP-0321,Sandman,Vehicle Chase,Manhattan,Clear,Evening,20,7,2,Moderate,Unavailable,3,16,Medium
+SP-0863,Doctor Octopus,Hostage Rescue,Oscorp Labs,Storm,Night,25,3,10,Moderate,Unavailable,3,19,Medium
+SP-0655,Venom,Hostage Rescue,Times Square,Rain,Afternoon,24,1,1,High,Available,5,4,Medium
+SP-1047,Kingpin,Public Attack,Stark Tower,Clear,Afternoon,23,7,1,High,Available,9,5,Medium
+SP-0552,Kingpin,Vehicle Chase,Stark Tower,Storm,Night,20,9,2,High,Available,6,7,Medium
+SP-1063,Venom,Portal Disturbance,Queens,Clear,Night,17,7,9,Low,Available,10,8,Medium
+SP-1282,The Lizard,Hostage Rescue,Manhattan,Clear,Night,19,3,4,High,Available,7,8,Medium
+SP-1414,Venom,Portal Disturbance,Queens,Fog,Morning,19,1,5,Low,Available,8,3,Medium
+SP-0450,Green Goblin,Robbery,Harlem,Fog,Afternoon,21,1,8,Low,Available,1,13,Low
+SP-0829,Venom,Lab Break-in,Oscorp Labs,Fog,Night,25,7,10,Low,Delayed,10,10,Medium
+SP-0652,Sandman,Public Attack,Queens,Clear,Night,21,1,3,Low,Available,4,6,Low
+SP-1132,Mysterio,Vehicle Chase,Harlem,Clear,Night,21,5,5,Moderate,Delayed,2,12,Medium
+SP-0656,Green Goblin,Portal Disturbance,Times Square,Clear,Afternoon,20,10,1,Low,Unavailable,1,20,High
+SP-0659,Kingpin,Vehicle Chase,Brooklyn,Clear,Evening,12,2,5,High,Available,2,8,Low
+SP-0078,Kingpin,Robbery,Oscorp Labs,Clear,Night,18,10,4,Moderate,Delayed,7,9,Medium
+SP-0409,Doctor Octopus,Hostage Rescue,Times Square,Clear,Afternoon,22,7,3,Moderate,Delayed,4,10,High
+SP-1043,Mysterio,Public Attack,Oscorp Labs,Clear,Afternoon,16,5,1,Low,Unavailable,4,17,Medium
+SP-1124,The Lizard,Portal Disturbance,Times Square,Clear,Night,13,5,10,High,Available,4,4,Medium
+SP-1198,Green Goblin,Robbery,Harlem,Rain,Afternoon,10,1,8,High,Unavailable,9,18,Medium
+SP-0801,Sandman,Vehicle Chase,Queens,Clear,Morning,15,1,5,Moderate,Available,6,9,Low
+SP-0705,Doctor Octopus,Vehicle Chase,Stark Tower,Clear,Evening,11,10,3,Low,Available,1,5,Medium
+SP-0218,Venom,Hostage Rescue,Harlem,Clear,Night,13,7,9,Low,Available,9,2,Medium
+SP-1139,The Lizard,Robbery,Queens,Clear,Evening,17,5,5,Low,Delayed,9,9,Low
+SP-0680,Venom,Portal Disturbance,Manhattan,Rain,Afternoon,20,1,9,High,Delayed,7,12,Medium
+SP-0667,Prowler,Public Attack,Queens,Clear,Evening,24,6,7,High,Delayed,8,12,Medium
+SP-1006,Sandman,Portal Disturbance,Harlem,Clear,Afternoon,8,8,4,High,Available,2,10,Medium
+SP-1015,Sandman,Public Attack,Queens,Rain,Morning,18,1,1,Moderate,Available,9,11,Medium
+SP-0328,Sandman,Lab Break-in,Manhattan,Fog,Night,17,5,6,Low,Available,5,6,Medium
+SP-0272,Green Goblin,Public Attack,Brooklyn,Clear,Afternoon,17,1,7,Low,Available,8,1,Medium
+SP-0628,Mysterio,Vehicle Chase,Harlem,Clear,Evening,19,6,7,High,Available,3,3,Low
+SP-0950,Doctor Octopus,Lab Break-in,Times Square,Clear,Evening,16,2,8,Moderate,Delayed,4,6,Medium
+SP-0082,Green Goblin,Robbery,Harlem,Rain,Morning,13,9,3,Moderate,Unavailable,5,19,Medium
+SP-0601,Green Goblin,Robbery,Stark Tower,Fog,Afternoon,10,2,9,Moderate,Available,5,9,Low
+SP-0032,Green Goblin,Hostage Rescue,Stark Tower,Clear,Evening,20,3,5,Low,Available,2,2,Medium
+SP-0237,Sandman,Hostage Rescue,Manhattan,Fog,Morning,18,6,10,Low,Unavailable,1,18,Medium
+SP-0965,Sandman,Robbery,Manhattan,Clear,Night,19,6,8,Moderate,Available,2,9,Low
+SP-1347,Sandman,Robbery,Manhattan,Clear,Night,18,10,3,High,Available,4,8,Medium
+SP-1250,Sandman,Lab Break-in,Manhattan,Clear,Afternoon,26,6,9,Moderate,Available,2,7,Low
+SP-0570,Sandman,Public Attack,Brooklyn,Fog,Morning,23,6,1,Low,Available,1,6,Medium
+SP-0904,Mysterio,Reactor Sabotage,Stark Tower,Storm,Afternoon,21,4,7,High,Available,3,7,Medium
+SP-0821,Green Goblin,Vehicle Chase,Stark Tower,Storm,Night,17,6,5,High,Unavailable,1,15,Medium
+SP-0898,Mysterio,Vehicle Chase,Harlem,Storm,Night,13,3,1,Low,Available,8,8,Medium
+SP-0077,Mysterio,Public Attack,Harlem,Clear,Evening,20,5,2,Moderate,Available,7,10,Medium
+SP-0963,The Lizard,Portal Disturbance,Manhattan,Storm,Evening,11,6,7,Low,Delayed,10,12,Medium
+SP-1017,Prowler,Public Attack,Queens,Clear,Evening,17,1,1,Moderate,Available,4,6,Low
+SP-0575,Kingpin,Public Attack,Manhattan,Storm,Evening,19,4,1,Moderate,Unavailable,4,17,Medium
+SP-1384,Doctor Octopus,Portal Disturbance,Oscorp Labs,Fog,Night,23,1,2,High,Available,5,4,Medium
+SP-0689,Sandman,Reactor Sabotage,Brooklyn,Rain,Night,14,8,9,Low,Available,7,3,Medium
+SP-0207,Prowler,Reactor Sabotage,Queens,Fog,Morning,24,6,8,Low,Unavailable,8,22,Medium
+SP-1055,Kingpin,Portal Disturbance,Manhattan,Fog,Afternoon,15,1,9,Low,Available,4,9,Low
+SP-1546,Doctor Octopus,Hostage Rescue,Stark Tower,Rain,Night,19,1,1,High,Available,2,9,High
+SP-0277,Mysterio,Vehicle Chase,Times Square,Clear,Evening,19,5,10,Moderate,Delayed,3,8,Medium
+SP-0758,Mysterio,Lab Break-in,Stark Tower,Clear,Evening,15,2,8,Moderate,Available,7,11,Medium
+SP-0913,Green Goblin,Public Attack,Times Square,Clear,Morning,12,5,9,Low,Unavailable,6,15,Medium
+SP-0881,Kingpin,Vehicle Chase,Harlem,Storm,Morning,16,1,6,High,Available,3,8,Low
+SP-0315,The Lizard,Portal Disturbance,Queens,Clear,Morning,10,4,9,Low,Delayed,6,13,Medium
+SP-0139,Kingpin,Vehicle Chase,Stark Tower,Clear,Morning,13,3,3,Low,Available,4,12,Medium
+SP-1195,Prowler,Lab Break-in,Harlem,Clear,Afternoon,15,5,7,Moderate,Delayed,6,18,Low
+SP-0500,Sandman,Robbery,Brooklyn,Fog,Morning,10,6,5,Moderate,Available,6,6,Low
+SP-1222,Prowler,Public Attack,Manhattan,Rain,Morning,13,9,3,Low,Delayed,3,15,Medium
+SP-1437,The Lizard,Vehicle Chase,Harlem,Fog,Evening,17,1,5,High,Available,2,5,Medium
+SP-0991,Kingpin,Portal Disturbance,Queens,Clear,Evening,16,6,10,High,Delayed,1,12,Medium
+SP-1446,The Lizard,Hostage Rescue,Queens,Rain,Morning,17,9,9,Moderate,Unavailable,3,10,Medium
+SP-0596,Kingpin,Lab Break-in,Stark Tower,Rain,Evening,28,4,4,Low,Available,3,7,Medium
+SP-0903,The Lizard,Hostage Rescue,Manhattan,Clear,Morning,15,2,1,Moderate,Available,2,6,Medium
+SP-0897,The Lizard,Public Attack,Oscorp Labs,Clear,Evening,25,3,4,High,Available,1,4,Medium
+SP-0309,Kingpin,Vehicle Chase,Harlem,Clear,Afternoon,13,4,5,Low,Delayed,2,9,Low
+SP-0917,Prowler,Portal Disturbance,Manhattan,Clear,Morning,15,4,8,High,Delayed,10,11,Medium
+SP-0122,Sandman,Hostage Rescue,Queens,Fog,Evening,13,7,3,Moderate,Available,4,5,Medium
+SP-0091,Mysterio,Vehicle Chase,Manhattan,Clear,Morning,16,8,5,Low,Unavailable,8,15,Medium
+SP-0487,Venom,Lab Break-in,Times Square,Storm,Afternoon,16,10,9,High,Available,4,11,Medium
+SP-0772,Prowler,Lab Break-in,Times Square,Rain,Morning,19,9,10,Moderate,Delayed,4,8,Medium
+SP-0769,The Lizard,Portal Disturbance,Times Square,Clear,Night,19,5,1,Moderate,Available,2,10,High
+SP-0363,Kingpin,Robbery,Harlem,Storm,Evening,16,5,4,Low,Available,6,9,Low
+SP-1292,The Lizard,Hostage Rescue,Times Square,Storm,Night,16,3,7,Moderate,Available,2,7,Medium
+SP-0766,Mysterio,Public Attack,Queens,Rain,Evening,19,3,7,Moderate,Available,10,7,Medium
+SP-1494,Prowler,Public Attack,Manhattan,Rain,Morning,7,8,7,Low,Available,4,8,Low
+SP-1534,Kingpin,Lab Break-in,Queens,Clear,Evening,22,7,10,Moderate,Available,4,4,Low
+SP-0966,Venom,Public Attack,Brooklyn,Rain,Morning,18,7,4,Moderate,Delayed,2,12,Medium
+SP-0630,Prowler,Robbery,Brooklyn,Clear,Night,12,5,4,Low,Unavailable,9,13,Low
+SP-0710,Kingpin,Lab Break-in,Manhattan,Storm,Morning,20,7,1,Low,Available,8,13,Medium
+SP-0524,Prowler,Vehicle Chase,Oscorp Labs,Storm,Afternoon,16,2,2,Moderate,Unavailable,6,21,Medium
+SP-1500,Doctor Octopus,Lab Break-in,Queens,Clear,Afternoon,10,10,1,Low,Delayed,9,9,Medium
+SP-1267,Mysterio,Robbery,Stark Tower,Clear,Morning,23,1,4,High,Delayed,4,14,Low
+SP-0185,Kingpin,Reactor Sabotage,Times Square,Clear,Evening,18,1,4,High,Available,3,9,Medium
+SP-1399,The Lizard,Reactor Sabotage,Manhattan,Rain,Morning,17,6,6,Moderate,Available,5,8,Medium
+SP-1416,Venom,Hostage Rescue,Manhattan,Rain,Morning,24,8,6,High,Unavailable,9,15,High
+SP-0855,Venom,Lab Break-in,Stark Tower,Storm,Evening,18,5,3,Moderate,Available,7,6,Medium
+SP-1365,Doctor Octopus,Reactor Sabotage,Harlem,Rain,Evening,15,5,3,Moderate,Available,6,6,Medium
+SP-0387,Kingpin,Lab Break-in,Brooklyn,Clear,Night,16,4,1,High,Delayed,5,9,Medium
+SP-0540,Sandman,Portal Disturbance,Times Square,Clear,Morning,11,3,5,High,Unavailable,5,14,Medium
+SP-1136,Sandman,Lab Break-in,Manhattan,Clear,Morning,18,10,4,High,Available,4,9,Medium
+SP-1068,Kingpin,Hostage Rescue,Oscorp Labs,Fog,Morning,17,4,7,High,Unavailable,5,15,Medium
+SP-0384,The Lizard,Robbery,Queens,Rain,Night,24,6,3,High,Available,8,6,Medium
+SP-1062,Prowler,Public Attack,Manhattan,Rain,Night,20,6,9,Moderate,Unavailable,7,12,Medium
+SP-1121,Mysterio,Portal Disturbance,Queens,Rain,Afternoon,12,10,4,Low,Unavailable,1,14,Medium
+SP-0256,Mysterio,Reactor Sabotage,Manhattan,Clear,Night,15,10,2,Low,Available,8,11,High
+SP-0393,Prowler,Lab Break-in,Stark Tower,Storm,Afternoon,20,6,5,Low,Available,5,14,Medium
+SP-0512,The Lizard,Robbery,Manhattan,Clear,Afternoon,21,6,1,Moderate,Unavailable,4,17,Medium
+SP-0230,Kingpin,Hostage Rescue,Queens,Clear,Night,16,8,5,Moderate,Delayed,10,7,Medium
+SP-0796,Mysterio,Robbery,Stark Tower,Fog,Night,27,4,2,High,Delayed,6,15,Medium
+SP-1086,The Lizard,Lab Break-in,Brooklyn,Fog,Morning,29,6,9,High,Available,3,4,Medium
+SP-0995,Venom,Reactor Sabotage,Manhattan,Rain,Evening,21,9,4,High,Delayed,9,13,High
+SP-0113,Kingpin,Reactor Sabotage,Brooklyn,Clear,Afternoon,19,6,6,Low,Available,1,7,Medium
+SP-1081,Prowler,Portal Disturbance,Manhattan,Storm,Night,20,4,9,High,Available,1,4,Medium
+SP-0290,Doctor Octopus,Robbery,Manhattan,Fog,Night,16,2,10,Moderate,Available,6,5,Low
+SP-1558,The Lizard,Portal Disturbance,Times Square,Clear,Night,16,2,1,High,Unavailable,9,19,High
+SP-0135,Green Goblin,Vehicle Chase,Queens,Clear,Afternoon,16,3,5,Low,Available,1,8,Low
+SP-1016,Kingpin,Robbery,Oscorp Labs,Clear,Evening,16,1,10,Moderate,Unavailable,3,10,Low
+SP-0785,The Lizard,Lab Break-in,Times Square,Clear,Night,23,2,3,High,Delayed,4,14,Medium
+SP-0371,Green Goblin,Reactor Sabotage,Brooklyn,Clear,Morning,21,1,10,High,Available,3,8,Medium
+SP-0955,Sandman,Public Attack,Brooklyn,Clear,Night,19,2,9,Moderate,Unavailable,10,16,Medium
+SP-0184,Venom,Robbery,Harlem,Clear,Afternoon,21,10,2,Moderate,Available,2,7,Medium
+SP-1224,Kingpin,Robbery,Oscorp Labs,Clear,Night,21,5,1,Moderate,Delayed,9,6,Medium
+SP-1170,The Lizard,Lab Break-in,Queens,Rain,Afternoon,16,3,8,High,Available,6,10,Medium
+SP-0379,Mysterio,Hostage Rescue,Brooklyn,Storm,Night,20,2,6,Low,Available,4,6,Medium
+SP-0599,Venom,Public Attack,Times Square,Fog,Morning,17,1,7,High,Unavailable,4,14,Medium
+SP-0083,The Lizard,Vehicle Chase,Manhattan,Clear,Evening,10,1,6,Low,Delayed,8,8,Low
+SP-1593,Venom,Vehicle Chase,Times Square,Clear,Evening,16,1,4,High,Delayed,4,8,Medium
+SP-1343,Doctor Octopus,Hostage Rescue,Manhattan,Rain,Night,14,7,5,Moderate,Available,7,5,Medium
+SP-0490,Kingpin,Reactor Sabotage,Harlem,Clear,Night,11,1,3,Low,Available,7,1,Medium
+SP-0118,Doctor Octopus,Public Attack,Brooklyn,Clear,Night,13,8,4,Low,Available,4,7,Medium
+SP-0289,Kingpin,Hostage Rescue,Harlem,Storm,Evening,21,3,8,Moderate,Available,7,10,Medium
+SP-1485,Doctor Octopus,Robbery,Brooklyn,Clear,Morning,22,5,7,Moderate,Available,1,6,Low
+SP-0310,Mysterio,Public Attack,Harlem,Fog,Morning,9,10,7,High,Available,8,11,Medium
+SP-0984,Venom,Vehicle Chase,Oscorp Labs,Clear,Afternoon,20,6,9,Moderate,Available,5,7,Medium
+SP-1419,Venom,Vehicle Chase,Harlem,Clear,Evening,23,9,4,Low,Available,9,9,Medium
+SP-1223,Sandman,Portal Disturbance,Times Square,Clear,Morning,15,7,3,Low,Unavailable,1,16,Medium
+SP-1434,The Lizard,Hostage Rescue,Times Square,Clear,Morning,16,5,6,High,Available,6,7,Medium
+SP-0915,The Lizard,Reactor Sabotage,Brooklyn,Clear,Afternoon,18,3,10,Low,Available,10,8,Medium
+SP-0874,The Lizard,Robbery,Times Square,Clear,Evening,19,6,6,High,Available,1,4,Low
+SP-1176,Kingpin,Portal Disturbance,Queens,Clear,Morning,23,7,2,High,Available,9,7,Medium
+SP-0338,Venom,Vehicle Chase,Stark Tower,Rain,Night,22,8,8,Moderate,Available,8,8,High
+SP-1459,The Lizard,Robbery,Manhattan,Rain,Night,22,3,5,High,Available,3,6,Medium
+SP-1596,Prowler,Reactor Sabotage,Oscorp Labs,Clear,Night,17,10,2,Moderate,Available,9,9,High
+SP-1212,Venom,Hostage Rescue,Manhattan,Rain,Night,23,2,6,Low,Unavailable,6,16,High
+SP-0676,Kingpin,Lab Break-in,Harlem,Fog,Afternoon,17,7,8,Low,Available,5,3,Low
+SP-0820,Green Goblin,Portal Disturbance,Queens,Clear,Night,13,7,7,Moderate,Delayed,9,13,Medium
+SP-0115,Green Goblin,Vehicle Chase,Queens,Clear,Morning,15,3,9,Low,Available,1,9,Low
+SP-0521,Venom,Reactor Sabotage,Oscorp Labs,Rain,Night,19,9,7,Moderate,Available,3,6,High
+SP-1309,Mysterio,Hostage Rescue,Stark Tower,Rain,Evening,16,3,6,Moderate,Available,1,5,Medium
+SP-0824,The Lizard,Reactor Sabotage,Harlem,Rain,Night,16,9,6,Low,Available,10,10,Medium
+SP-0216,Mysterio,Robbery,Stark Tower,Clear,Evening,14,6,9,Moderate,Available,7,8,Low
+SP-0866,Green Goblin,Portal Disturbance,Harlem,Fog,Night,19,8,2,Moderate,Unavailable,10,14,High
+SP-1225,Sandman,Vehicle Chase,Brooklyn,Clear,Night,19,9,9,High,Unavailable,8,18,Medium
+SP-0182,Green Goblin,Public Attack,Times Square,Clear,Afternoon,28,4,8,Low,Available,9,3,Medium
+SP-0358,Green Goblin,Hostage Rescue,Manhattan,Clear,Afternoon,13,1,7,Moderate,Available,10,12,Medium
+SP-0215,Green Goblin,Hostage Rescue,Stark Tower,Fog,Night,19,6,5,Moderate,Unavailable,7,17,High
+SP-1061,Sandman,Reactor Sabotage,Times Square,Rain,Evening,20,7,5,High,Delayed,5,10,High
+SP-0280,Prowler,Reactor Sabotage,Brooklyn,Clear,Morning,17,3,1,Low,Unavailable,6,10,Medium
+SP-0293,The Lizard,Reactor Sabotage,Brooklyn,Storm,Afternoon,15,6,7,Low,Available,3,4,Medium
+SP-0158,The Lizard,Portal Disturbance,Stark Tower,Fog,Afternoon,23,10,3,Low,Available,7,7,High
+SP-1178,Mysterio,Portal Disturbance,Stark Tower,Storm,Morning,10,6,2,Low,Delayed,3,11,Medium
+SP-0045,Doctor Octopus,Reactor Sabotage,Stark Tower,Clear,Morning,23,5,5,Moderate,Unavailable,8,17,High
+SP-0740,The Lizard,Vehicle Chase,Manhattan,Clear,Night,19,10,3,Low,Delayed,10,9,Medium
+SP-1228,Mysterio,Lab Break-in,Times Square,Storm,Night,16,10,3,Moderate,Available,5,5,High
+SP-1029,The Lizard,Vehicle Chase,Brooklyn,Rain,Afternoon,17,5,6,Moderate,Unavailable,7,16,Medium
+SP-0873,Prowler,Hostage Rescue,Stark Tower,Storm,Night,18,10,9,High,Delayed,3,12,Medium
+SP-1369,Sandman,Vehicle Chase,Manhattan,Storm,Night,17,6,4,Moderate,Delayed,5,21,High
+SP-0674,Doctor Octopus,Reactor Sabotage,Oscorp Labs,Clear,Evening,19,6,4,High,Delayed,3,12,High
+SP-1079,Mysterio,Vehicle Chase,Harlem,Fog,Night,19,1,7,Moderate,Available,10,10,Low
+SP-1374,Prowler,Portal Disturbance,Times Square,Rain,Morning,16,9,1,Low,Available,1,6,Medium
+SP-0087,Prowler,Hostage Rescue,Harlem,Clear,Afternoon,15,10,10,High,Unavailable,1,17,Medium
+SP-0120,Venom,Lab Break-in,Times Square,Fog,Afternoon,16,4,9,Low,Delayed,3,12,Medium
+SP-0788,Green Goblin,Robbery,Times Square,Clear,Morning,15,10,1,Moderate,Available,8,4,Medium
+SP-0837,Venom,Portal Disturbance,Stark Tower,Clear,Evening,18,2,8,Moderate,Delayed,5,12,Medium
+SP-0030,Prowler,Robbery,Manhattan,Clear,Morning,25,9,4,Low,Delayed,8,11,Low
+SP-1113,Prowler,Vehicle Chase,Brooklyn,Storm,Night,13,7,5,Low,Available,8,7,Low
+SP-0355,Venom,Reactor Sabotage,Oscorp Labs,Rain,Night,20,8,5,High,Available,4,6,High
+SP-1555,Mysterio,Hostage Rescue,Oscorp Labs,Rain,Night,22,5,6,Low,Available,9,4,High
+SP-0602,Mysterio,Portal Disturbance,Oscorp Labs,Storm,Night,22,10,6,Moderate,Available,2,11,High
+SP-1424,The Lizard,Reactor Sabotage,Manhattan,Storm,Morning,13,6,5,Low,Delayed,5,13,High
+SP-0147,Venom,Hostage Rescue,Times Square,Fog,Evening,16,2,8,High,Delayed,3,5,Medium
+SP-1278,Prowler,Reactor Sabotage,Stark Tower,Clear,Afternoon,20,8,7,High,Available,8,12,High
+SP-1022,Venom,Robbery,Queens,Clear,Afternoon,14,10,9,High,Available,10,9,Low
+SP-0641,Prowler,Portal Disturbance,Brooklyn,Storm,Morning,14,9,3,Low,Available,8,11,Medium
+SP-0632,Kingpin,Public Attack,Harlem,Rain,Evening,13,6,4,Moderate,Available,9,9,Medium
+SP-1417,Kingpin,Robbery,Stark Tower,Rain,Night,27,10,9,High,Delayed,3,13,Medium
+SP-0804,Doctor Octopus,Public Attack,Times Square,Fog,Evening,14,1,7,Low,Available,8,6,Medium
+SP-1404,Kingpin,Public Attack,Oscorp Labs,Storm,Night,21,7,2,High,Available,2,10,High
+SP-1165,Kingpin,Vehicle Chase,Oscorp Labs,Storm,Night,14,2,9,Low,Delayed,3,14,Medium
+SP-0714,Kingpin,Portal Disturbance,Manhattan,Fog,Night,11,3,4,Low,Delayed,2,5,Medium
+SP-0922,Sandman,Portal Disturbance,Stark Tower,Clear,Afternoon,21,8,4,Low,Unavailable,1,20,High
+SP-1522,Venom,Lab Break-in,Oscorp Labs,Clear,Night,23,1,6,Moderate,Available,8,2,Medium
+SP-0661,The Lizard,Public Attack,Manhattan,Rain,Morning,25,8,1,Low,Unavailable,8,13,High
+SP-1333,Doctor Octopus,Vehicle Chase,Brooklyn,Rain,Afternoon,16,6,1,Moderate,Delayed,8,11,Medium
+SP-0380,Sandman,Public Attack,Stark Tower,Clear,Evening,15,7,7,Low,Delayed,5,11,Medium
+SP-1163,Kingpin,Lab Break-in,Brooklyn,Fog,Night,22,10,2,High,Delayed,4,6,Medium
+SP-1497,Mysterio,Robbery,Stark Tower,Clear,Evening,15,1,4,High,Available,8,7,Medium
+SP-1302,Green Goblin,Reactor Sabotage,Manhattan,Storm,Morning,10,6,5,Moderate,Available,8,6,Medium
+SP-1053,Mysterio,Lab Break-in,Queens,Clear,Night,17,7,8,Low,Delayed,10,10,Medium
+SP-0179,Venom,Vehicle Chase,Stark Tower,Rain,Evening,14,10,6,Moderate,Available,7,9,Medium
+SP-0932,Venom,Public Attack,Manhattan,Rain,Night,20,1,6,Moderate,Available,10,2,Medium
+SP-1175,Prowler,Public Attack,Stark Tower,Storm,Night,13,5,3,Low,Available,1,9,Medium
+SP-1226,Prowler,Hostage Rescue,Stark Tower,Clear,Morning,31,2,2,Low,Available,10,9,Medium
+SP-0543,Mysterio,Lab Break-in,Manhattan,Clear,Night,14,4,4,Low,Available,2,13,Medium
+SP-1443,Venom,Public Attack,Oscorp Labs,Storm,Night,16,10,1,Moderate,Available,6,10,High
+SP-0557,Mysterio,Public Attack,Harlem,Rain,Morning,21,3,4,Moderate,Available,6,3,Medium
+SP-0846,The Lizard,Hostage Rescue,Brooklyn,Storm,Afternoon,28,8,7,High,Unavailable,3,15,High
+SP-0762,The Lizard,Public Attack,Stark Tower,Clear,Night,20,10,6,Moderate,Unavailable,3,15,Medium
+SP-1594,Prowler,Lab Break-in,Manhattan,Clear,Morning,26,5,2,High,Available,3,12,Medium
+SP-0447,Green Goblin,Lab Break-in,Harlem,Storm,Evening,33,6,9,Low,Available,7,8,Medium
+SP-1569,Mysterio,Public Attack,Oscorp Labs,Clear,Evening,28,7,4,Low,Available,6,10,Medium
+SP-1189,Green Goblin,Lab Break-in,Stark Tower,Rain,Morning,20,10,9,Low,Available,6,8,Medium
+SP-0794,Green Goblin,Lab Break-in,Times Square,Fog,Evening,18,5,5,Low,Unavailable,2,10,Medium
+SP-0798,Prowler,Reactor Sabotage,Brooklyn,Clear,Morning,16,2,3,Moderate,Available,3,10,Medium
+SP-1360,Kingpin,Public Attack,Queens,Clear,Evening,19,5,1,Moderate,Delayed,5,6,Medium
+SP-1123,Mysterio,Public Attack,Times Square,Rain,Afternoon,23,1,10,Moderate,Available,5,9,Low
+SP-0563,Green Goblin,Lab Break-in,Harlem,Fog,Evening,15,5,4,High,Available,3,4,Medium
+SP-1168,Kingpin,Portal Disturbance,Oscorp Labs,Clear,Night,23,10,8,Low,Available,5,6,Medium
+SP-0011,Kingpin,Vehicle Chase,Queens,Storm,Afternoon,18,7,1,High,Delayed,9,15,Medium
+SP-0166,Mysterio,Reactor Sabotage,Stark Tower,Clear,Morning,15,8,3,Moderate,Unavailable,10,17,High
+SP-0231,Green Goblin,Vehicle Chase,Oscorp Labs,Clear,Night,16,4,8,Moderate,Delayed,9,10,High
+SP-0381,Kingpin,Portal Disturbance,Times Square,Clear,Morning,17,7,6,Low,Available,6,10,Medium
+SP-0962,The Lizard,Public Attack,Oscorp Labs,Clear,Afternoon,22,9,1,High,Delayed,6,14,High
+SP-0553,Doctor Octopus,Public Attack,Oscorp Labs,Rain,Night,18,5,5,Moderate,Unavailable,4,15,High
+SP-0171,Sandman,Vehicle Chase,Manhattan,Rain,Evening,24,6,8,High,Available,5,9,Medium
+SP-0111,Prowler,Lab Break-in,Brooklyn,Rain,Afternoon,29,9,7,High,Available,9,14,Medium
+SP-0644,Mysterio,Lab Break-in,Oscorp Labs,Clear,Night,18,6,7,Moderate,Delayed,6,11,Medium
+SP-0716,Venom,Robbery,Queens,Clear,Evening,22,8,7,High,Unavailable,10,20,Medium
+SP-0573,Doctor Octopus,Lab Break-in,Queens,Clear,Afternoon,27,8,2,Moderate,Available,1,5,Medium
+SP-1098,Green Goblin,Portal Disturbance,Harlem,Storm,Morning,24,5,2,Moderate,Available,1,5,Medium
+SP-1335,The Lizard,Portal Disturbance,Queens,Rain,Evening,17,8,6,Moderate,Available,7,7,Medium
+SP-0399,Kingpin,Lab Break-in,Brooklyn,Clear,Night,21,10,9,High,Unavailable,1,19,Medium
+SP-0346,Doctor Octopus,Portal Disturbance,Queens,Clear,Afternoon,21,3,3,High,Delayed,5,14,Medium
+SP-0013,Kingpin,Lab Break-in,Stark Tower,Clear,Evening,18,10,8,Moderate,Available,3,6,Medium
+SP-0765,Mysterio,Vehicle Chase,Stark Tower,Clear,Night,17,3,5,Low,Unavailable,4,21,Medium
+SP-1130,The Lizard,Hostage Rescue,Queens,Clear,Afternoon,14,9,10,Low,Delayed,1,13,Medium
+SP-1438,The Lizard,Robbery,Harlem,Rain,Morning,17,10,9,Moderate,Available,7,4,Low
+SP-1144,Kingpin,Hostage Rescue,Manhattan,Storm,Night,21,3,8,Low,Unavailable,1,14,Medium
+SP-0541,Green Goblin,Reactor Sabotage,Queens,Rain,Morning,25,8,2,Low,Available,4,7,High
+SP-0840,Venom,Robbery,Brooklyn,Rain,Afternoon,10,4,10,High,Unavailable,2,14,Low
+SP-1008,Venom,Reactor Sabotage,Stark Tower,Rain,Afternoon,14,7,7,High,Delayed,1,11,High
+SP-0734,Kingpin,Robbery,Brooklyn,Clear,Afternoon,12,8,9,High,Available,5,9,Low
+SP-0465,Green Goblin,Public Attack,Queens,Clear,Night,22,5,7,Moderate,Delayed,4,15,Medium
+SP-1499,The Lizard,Hostage Rescue,Stark Tower,Clear,Morning,22,1,4,Low,Unavailable,8,16,High
+SP-0912,Sandman,Vehicle Chase,Brooklyn,Rain,Morning,11,3,4,High,Available,9,6,Medium
+SP-1118,The Lizard,Public Attack,Times Square,Storm,Night,22,9,8,Moderate,Unavailable,4,18,High
+SP-0221,Sandman,Vehicle Chase,Harlem,Clear,Afternoon,17,9,3,High,Available,9,3,Medium
+SP-1423,Kingpin,Hostage Rescue,Queens,Clear,Morning,24,2,5,High,Delayed,3,7,Medium
+SP-0108,Doctor Octopus,Robbery,Times Square,Clear,Afternoon,24,2,10,High,Delayed,1,8,Low
+SP-0658,Venom,Portal Disturbance,Harlem,Storm,Afternoon,10,5,2,Moderate,Delayed,2,13,High
+SP-0005,Doctor Octopus,Robbery,Times Square,Storm,Evening,19,9,2,Low,Available,9,8,Medium
+SP-1515,Venom,Reactor Sabotage,Times Square,Fog,Afternoon,20,10,9,Low,Available,1,11,Medium
+SP-0854,Prowler,Robbery,Manhattan,Rain,Evening,18,2,4,Moderate,Delayed,7,17,Low
+SP-1406,Prowler,Public Attack,Times Square,Clear,Evening,17,3,1,Low,Available,6,9,Medium
+SP-0408,Sandman,Public Attack,Manhattan,Clear,Morning,16,10,2,Low,Available,10,5,Medium
+SP-0529,Prowler,Hostage Rescue,Harlem,Clear,Morning,14,3,2,Low,Available,6,6,Medium
+SP-1408,Kingpin,Vehicle Chase,Harlem,Rain,Night,16,10,7,High,Delayed,4,14,Medium
+SP-0002,Green Goblin,Robbery,Queens,Storm,Morning,22,2,10,Moderate,Delayed,5,6,Low
+SP-0805,Doctor Octopus,Vehicle Chase,Stark Tower,Fog,Morning,23,1,5,High,Delayed,6,9,Medium
+SP-1177,The Lizard,Hostage Rescue,Brooklyn,Rain,Night,18,8,10,High,Available,5,4,Medium
+SP-1450,Sandman,Reactor Sabotage,Oscorp Labs,Rain,Morning,12,7,2,Low,Available,7,12,High
+SP-0347,The Lizard,Public Attack,Times Square,Clear,Night,24,1,6,High,Available,9,5,Medium
+SP-0052,Kingpin,Robbery,Oscorp Labs,Fog,Afternoon,21,9,6,Low,Available,7,1,Medium
+SP-1274,Prowler,Vehicle Chase,Harlem,Storm,Evening,23,3,7,High,Available,9,8,Medium
+SP-1273,The Lizard,Lab Break-in,Queens,Storm,Afternoon,12,8,4,Moderate,Available,1,5,Medium
+SP-0436,Green Goblin,Reactor Sabotage,Times Square,Clear,Morning,14,5,3,High,Available,6,6,High
+SP-0128,Doctor Octopus,Reactor Sabotage,Brooklyn,Clear,Morning,26,1,9,Low,Delayed,9,11,Medium
+SP-0101,Green Goblin,Portal Disturbance,Manhattan,Fog,Evening,25,10,8,High,Available,6,11,High
+SP-1457,Sandman,Lab Break-in,Brooklyn,Rain,Afternoon,14,7,2,Moderate,Available,9,9,Medium
+SP-1315,The Lizard,Robbery,Stark Tower,Storm,Evening,20,3,2,High,Unavailable,6,13,Medium
+SP-1449,Prowler,Public Attack,Manhattan,Clear,Afternoon,16,4,10,Moderate,Unavailable,8,14,Medium
+SP-0160,Sandman,Robbery,Times Square,Clear,Morning,15,6,5,Moderate,Unavailable,8,17,Medium
+SP-0201,Sandman,Public Attack,Queens,Rain,Afternoon,17,10,6,Moderate,Delayed,5,12,Medium
+SP-1035,Green Goblin,Portal Disturbance,Oscorp Labs,Storm,Night,13,4,3,Moderate,Available,8,6,High
+SP-0648,Sandman,Hostage Rescue,Oscorp Labs,Clear,Afternoon,20,4,9,Low,Delayed,1,11,Medium
+SP-0145,Prowler,Hostage Rescue,Harlem,Fog,Night,19,1,4,High,Available,2,12,Medium
+SP-0871,Prowler,Vehicle Chase,Stark Tower,Rain,Night,20,4,6,Low,Unavailable,6,20,Medium
+SP-0882,Venom,Vehicle Chase,Stark Tower,Rain,Night,19,9,1,High,Available,1,8,High
+SP-0352,Kingpin,Robbery,Manhattan,Rain,Evening,18,10,2,High,Available,3,10,Medium
+SP-0867,Kingpin,Robbery,Queens,Storm,Evening,17,8,2,Moderate,Available,9,5,Low
+SP-1466,Venom,Portal Disturbance,Manhattan,Clear,Evening,16,7,3,Low,Available,5,6,Medium
+SP-0809,Prowler,Lab Break-in,Stark Tower,Rain,Afternoon,16,5,8,High,Available,5,9,Low
+SP-1490,Green Goblin,Reactor Sabotage,Brooklyn,Clear,Afternoon,15,4,9,Moderate,Available,9,11,Medium
+SP-1536,Prowler,Portal Disturbance,Times Square,Fog,Evening,20,1,8,High,Available,10,4,Medium
+SP-1188,Sandman,Hostage Rescue,Harlem,Clear,Night,21,5,1,Low,Delayed,8,10,Medium
+SP-0531,Mysterio,Public Attack,Queens,Storm,Morning,19,7,10,Moderate,Delayed,3,18,Medium
+SP-1211,Kingpin,Public Attack,Stark Tower,Rain,Afternoon,21,7,5,Moderate,Delayed,2,14,Medium
+SP-0851,Sandman,Portal Disturbance,Queens,Clear,Afternoon,15,4,8,Moderate,Available,9,6,Medium
+SP-1362,Mysterio,Vehicle Chase,Oscorp Labs,Clear,Night,18,5,6,Moderate,Available,2,1,Medium
+SP-0141,Green Goblin,Hostage Rescue,Harlem,Fog,Morning,15,6,4,Low,Available,7,5,Medium
+SP-0137,Prowler,Portal Disturbance,Oscorp Labs,Storm,Evening,13,3,3,High,Delayed,5,13,Medium
+SP-0870,Green Goblin,Robbery,Oscorp Labs,Storm,Evening,21,5,3,Moderate,Delayed,4,11,Medium
+SP-1378,The Lizard,Portal Disturbance,Harlem,Fog,Evening,13,4,5,Moderate,Available,3,5,Medium
+SP-0288,Mysterio,Reactor Sabotage,Brooklyn,Storm,Night,25,4,3,Moderate,Available,10,9,High
+SP-0956,Sandman,Public Attack,Times Square,Rain,Afternoon,24,9,9,High,Available,5,11,Medium
+SP-0033,Venom,Reactor Sabotage,Stark Tower,Clear,Afternoon,21,9,7,Moderate,Delayed,9,14,High
+SP-0114,Kingpin,Lab Break-in,Harlem,Clear,Afternoon,28,4,10,Low,Delayed,1,11,Low
+SP-0556,Doctor Octopus,Public Attack,Queens,Clear,Night,18,5,4,High,Available,3,8,Medium
+SP-1256,Green Goblin,Hostage Rescue,Manhattan,Clear,Morning,13,8,1,Low,Delayed,9,11,High
+SP-0967,The Lizard,Hostage Rescue,Queens,Fog,Evening,12,4,1,Low,Available,5,7,Medium
+SP-1461,Kingpin,Vehicle Chase,Times Square,Rain,Morning,15,5,8,Moderate,Delayed,2,11,Low
+SP-1350,Kingpin,Public Attack,Stark Tower,Clear,Morning,16,10,2,High,Available,5,14,High
+SP-0564,Sandman,Portal Disturbance,Oscorp Labs,Storm,Morning,12,9,6,Low,Available,7,5,High
+SP-1275,The Lizard,Lab Break-in,Oscorp Labs,Clear,Afternoon,18,6,1,Moderate,Delayed,2,11,Medium
+SP-1332,Prowler,Public Attack,Stark Tower,Rain,Evening,17,1,8,Low,Available,5,6,Low
+SP-0422,Prowler,Public Attack,Stark Tower,Rain,Morning,16,3,8,High,Unavailable,7,14,Medium
+SP-1249,Doctor Octopus,Lab Break-in,Brooklyn,Clear,Night,16,3,10,Moderate,Available,4,8,Medium
+SP-1564,Kingpin,Lab Break-in,Harlem,Fog,Evening,15,8,2,Moderate,Available,3,9,Medium
+SP-1181,Sandman,Portal Disturbance,Oscorp Labs,Fog,Afternoon,18,9,6,Moderate,Delayed,6,12,Medium
+SP-1066,Mysterio,Reactor Sabotage,Times Square,Clear,Afternoon,26,2,7,Moderate,Unavailable,10,19,High
+SP-0833,Doctor Octopus,Portal Disturbance,Oscorp Labs,Storm,Evening,21,5,2,Low,Available,5,8,Medium
+SP-1196,Green Goblin,Public Attack,Manhattan,Clear,Morning,20,8,2,Moderate,Available,3,1,Medium
+SP-0299,Doctor Octopus,Vehicle Chase,Queens,Clear,Morning,13,9,9,Moderate,Available,8,5,Medium
+SP-0692,Kingpin,Public Attack,Queens,Rain,Morning,18,5,8,High,Available,5,8,Medium
+SP-1448,Mysterio,Vehicle Chase,Manhattan,Storm,Morning,16,1,7,Moderate,Available,8,9,Low
+SP-0609,Kingpin,Public Attack,Brooklyn,Fog,Afternoon,11,9,4,Low,Delayed,8,12,Medium
+SP-0636,Venom,Vehicle Chase,Manhattan,Clear,Afternoon,18,6,1,Low,Available,2,2,Medium
+SP-1590,Sandman,Public Attack,Times Square,Fog,Morning,27,8,8,Moderate,Available,2,2,Medium
+SP-0981,Mysterio,Reactor Sabotage,Oscorp Labs,Rain,Morning,13,9,2,Low,Available,6,1,Medium
+SP-0413,Sandman,Lab Break-in,Oscorp Labs,Fog,Night,17,3,8,Low,Available,7,6,Medium
+SP-0921,Doctor Octopus,Reactor Sabotage,Harlem,Clear,Morning,13,1,2,Moderate,Available,3,6,Medium
+SP-1314,The Lizard,Lab Break-in,Queens,Clear,Afternoon,22,6,2,Moderate,Available,1,15,Medium
+SP-0624,Venom,Public Attack,Harlem,Storm,Night,23,10,8,Low,Available,4,8,Medium
+SP-1573,Prowler,Hostage Rescue,Manhattan,Clear,Morning,17,9,7,Moderate,Available,2,13,Medium
+SP-1221,Sandman,Lab Break-in,Harlem,Clear,Night,14,3,9,Moderate,Delayed,8,15,Medium
+SP-1080,Kingpin,Portal Disturbance,Queens,Storm,Night,22,1,7,High,Delayed,5,18,Medium
+SP-1070,Kingpin,Hostage Rescue,Manhattan,Clear,Night,21,3,4,Low,Available,8,8,Medium
+SP-1074,The Lizard,Portal Disturbance,Oscorp Labs,Rain,Afternoon,16,3,3,High,Unavailable,6,16,High
+SP-0924,Prowler,Hostage Rescue,Times Square,Clear,Afternoon,16,6,8,Low,Delayed,6,8,Medium
+SP-0687,Kingpin,Public Attack,Times Square,Rain,Evening,19,10,10,Moderate,Available,7,14,Medium
+SP-0142,Green Goblin,Public Attack,Harlem,Clear,Morning,12,10,7,High,Delayed,7,10,Medium
+SP-0999,Mysterio,Public Attack,Times Square,Clear,Afternoon,19,2,2,High,Available,8,12,Medium
+SP-0242,Mysterio,Robbery,Stark Tower,Storm,Night,13,1,3,Low,Available,4,6,Low
+SP-0670,Venom,Public Attack,Queens,Clear,Evening,18,2,3,Low,Delayed,6,10,Medium
+SP-0711,Kingpin,Portal Disturbance,Queens,Clear,Morning,18,2,1,High,Available,1,12,Medium
+SP-1077,The Lizard,Robbery,Brooklyn,Storm,Afternoon,12,9,4,High,Delayed,3,13,Medium
+SP-0438,Venom,Hostage Rescue,Manhattan,Fog,Morning,18,1,2,Moderate,Delayed,7,12,Medium
+SP-0549,Doctor Octopus,Robbery,Manhattan,Rain,Night,25,1,1,Moderate,Unavailable,4,14,Medium
+SP-0188,Venom,Portal Disturbance,Times Square,Rain,Night,23,4,5,Low,Unavailable,6,21,High
+SP-0163,Kingpin,Portal Disturbance,Manhattan,Storm,Afternoon,12,3,9,High,Available,6,11,Medium
+SP-0929,Green Goblin,Hostage Rescue,Manhattan,Clear,Afternoon,15,7,6,High,Available,6,5,Medium
+SP-1161,Venom,Vehicle Chase,Stark Tower,Clear,Morning,18,6,8,Moderate,Delayed,8,11,Medium
+SP-0725,Green Goblin,Portal Disturbance,Manhattan,Rain,Morning,19,10,8,Moderate,Available,2,8,Medium
+SP-1562,The Lizard,Robbery,Manhattan,Storm,Afternoon,19,3,3,High,Available,10,10,Medium
+SP-0619,The Lizard,Reactor Sabotage,Manhattan,Clear,Afternoon,12,9,3,Low,Available,3,4,Medium
+SP-0928,Mysterio,Robbery,Queens,Clear,Afternoon,25,2,3,Moderate,Delayed,9,11,Low
+SP-0034,Prowler,Public Attack,Stark Tower,Clear,Night,12,3,6,Low,Available,7,9,Medium
+SP-0572,Sandman,Portal Disturbance,Brooklyn,Clear,Morning,20,2,2,Low,Available,6,10,Medium
+SP-1060,Mysterio,Portal Disturbance,Brooklyn,Rain,Night,23,5,2,Moderate,Delayed,4,9,Medium
+SP-0581,Venom,Hostage Rescue,Times Square,Rain,Afternoon,17,5,1,Low,Delayed,3,16,Medium
+SP-0405,Mysterio,Vehicle Chase,Stark Tower,Rain,Evening,16,4,9,High,Available,9,4,Medium
+SP-0226,The Lizard,Robbery,Oscorp Labs,Clear,Afternoon,17,6,2,Moderate,Available,2,6,Medium
+SP-0036,Mysterio,Vehicle Chase,Queens,Clear,Night,24,1,6,Moderate,Delayed,2,10,Low
+SP-0130,Green Goblin,Public Attack,Queens,Clear,Morning,11,1,3,Low,Unavailable,8,19,Medium
+SP-0848,Doctor Octopus,Lab Break-in,Times Square,Rain,Night,22,8,6,High,Available,7,5,High
+SP-0850,Sandman,Vehicle Chase,Manhattan,Storm,Night,23,7,6,Moderate,Available,2,6,Medium
+SP-1456,Prowler,Portal Disturbance,Times Square,Rain,Afternoon,16,8,6,Moderate,Available,9,9,Medium
+SP-1572,Kingpin,Hostage Rescue,Brooklyn,Clear,Afternoon,16,5,6,Low,Available,7,6,Medium
+SP-0112,Doctor Octopus,Hostage Rescue,Harlem,Clear,Afternoon,20,1,9,High,Available,10,8,Medium
+SP-0856,Prowler,Public Attack,Brooklyn,Clear,Morning,23,3,2,High,Delayed,2,10,Medium
+SP-0187,The Lizard,Portal Disturbance,Manhattan,Clear,Night,15,4,6,High,Available,9,7,High
+SP-0800,Mysterio,Robbery,Brooklyn,Clear,Afternoon,9,6,3,Low,Unavailable,1,15,Low
+SP-0911,Venom,Portal Disturbance,Times Square,Fog,Evening,15,9,9,Moderate,Available,3,14,Medium
+SP-1246,Venom,Robbery,Queens,Clear,Afternoon,18,10,7,Moderate,Unavailable,4,13,Medium
+SP-0643,Kingpin,Reactor Sabotage,Stark Tower,Clear,Evening,22,2,2,Low,Available,4,6,Medium
+SP-0814,Sandman,Vehicle Chase,Oscorp Labs,Clear,Morning,8,5,1,High,Delayed,2,14,Medium
+SP-0074,Sandman,Vehicle Chase,Stark Tower,Clear,Afternoon,28,5,2,Moderate,Available,8,10,Medium
+SP-1319,Green Goblin,Vehicle Chase,Stark Tower,Rain,Evening,21,4,3,Moderate,Available,9,7,Medium
+SP-0042,Prowler,Public Attack,Oscorp Labs,Clear,Night,18,5,7,Low,Available,8,6,Medium
+SP-0463,Kingpin,Vehicle Chase,Queens,Clear,Morning,12,9,6,Moderate,Available,2,6,Low
+SP-0589,Kingpin,Portal Disturbance,Times Square,Rain,Evening,16,6,4,Low,Delayed,7,11,Medium
+SP-1483,Mysterio,Vehicle Chase,Brooklyn,Rain,Morning,22,4,8,Low,Delayed,8,10,Medium
+SP-0726,Mysterio,Public Attack,Oscorp Labs,Storm,Afternoon,22,2,5,High,Available,10,7,High
+SP-0642,Mysterio,Reactor Sabotage,Manhattan,Clear,Evening,17,1,10,Moderate,Available,1,7,Low
+SP-0892,Green Goblin,Robbery,Manhattan,Clear,Afternoon,17,6,7,Low,Delayed,4,11,Low
+SP-1389,Doctor Octopus,Robbery,Queens,Rain,Evening,17,1,1,High,Delayed,10,15,Medium
+SP-1085,Green Goblin,Portal Disturbance,Brooklyn,Rain,Morning,22,2,3,High,Available,3,13,Medium
+SP-0959,Kingpin,Reactor Sabotage,Manhattan,Rain,Afternoon,22,2,8,High,Available,7,9,Medium
+SP-1078,Mysterio,Public Attack,Brooklyn,Rain,Evening,17,4,3,Moderate,Delayed,1,15,Medium
+SP-0704,Venom,Robbery,Times Square,Clear,Night,10,2,2,Low,Delayed,2,9,Low
+SP-1236,Mysterio,Reactor Sabotage,Stark Tower,Rain,Evening,18,4,7,High,Available,1,11,Medium
+SP-1050,Sandman,Hostage Rescue,Brooklyn,Clear,Night,20,8,9,Low,Available,3,6,Medium
+SP-1310,Venom,Robbery,Queens,Clear,Afternoon,11,5,10,Moderate,Available,3,9,Low
+SP-0745,Venom,Public Attack,Times Square,Rain,Afternoon,16,10,1,High,Unavailable,10,15,High
+SP-1184,Mysterio,Lab Break-in,Manhattan,Clear,Afternoon,25,6,6,Moderate,Available,3,9,Medium
+SP-0401,Mysterio,Portal Disturbance,Times Square,Clear,Evening,24,4,3,Moderate,Delayed,1,8,Medium
+SP-0551,The Lizard,Robbery,Manhattan,Fog,Afternoon,21,4,7,Low,Available,1,5,Low
+SP-0752,Sandman,Hostage Rescue,Manhattan,Storm,Afternoon,13,7,1,Low,Available,1,9,Medium
+SP-1285,Kingpin,Public Attack,Queens,Rain,Night,21,7,2,Moderate,Delayed,2,12,Medium
+SP-1527,Kingpin,Reactor Sabotage,Brooklyn,Clear,Afternoon,20,2,9,High,Available,6,8,Medium
+SP-0121,Green Goblin,Reactor Sabotage,Stark Tower,Fog,Morning,19,7,2,High,Available,7,3,High
+SP-1372,Mysterio,Hostage Rescue,Manhattan,Rain,Evening,23,9,4,Moderate,Unavailable,2,16,High
+SP-0847,Sandman,Robbery,Oscorp Labs,Clear,Evening,19,9,3,High,Delayed,7,9,Medium
+SP-1140,The Lizard,Public Attack,Brooklyn,Rain,Afternoon,15,6,8,Low,Available,1,10,Low
+SP-0737,Doctor Octopus,Portal Disturbance,Harlem,Clear,Night,15,2,6,Low,Delayed,4,10,Medium
+SP-0143,Prowler,Portal Disturbance,Queens,Storm,Afternoon,17,2,2,Moderate,Unavailable,3,21,Medium
+SP-0205,Doctor Octopus,Vehicle Chase,Harlem,Clear,Evening,19,3,1,High,Available,10,5,Medium
+SP-1128,Mysterio,Lab Break-in,Harlem,Rain,Evening,19,1,4,Moderate,Available,4,7,Low
+SP-0590,The Lizard,Lab Break-in,Oscorp Labs,Storm,Night,21,3,6,High,Delayed,9,16,High
+SP-1559,Prowler,Vehicle Chase,Brooklyn,Clear,Afternoon,9,10,5,Low,Unavailable,3,13,Low
+SP-1160,Kingpin,Reactor Sabotage,Manhattan,Fog,Evening,12,1,5,Low,Available,8,8,Medium
+SP-1095,Sandman,Public Attack,Oscorp Labs,Clear,Evening,20,10,3,High,Available,1,9,Medium
+SP-0200,Mysterio,Public Attack,Manhattan,Storm,Afternoon,22,1,4,Moderate,Delayed,1,11,Medium
+SP-0460,Kingpin,Public Attack,Oscorp Labs,Rain,Evening,19,8,7,High,Available,2,6,Medium
+SP-1379,The Lizard,Robbery,Manhattan,Clear,Evening,21,10,2,Moderate,Delayed,4,9,Medium
+SP-0941,Mysterio,Portal Disturbance,Stark Tower,Storm,Night,18,5,7,Low,Unavailable,8,15,High
+SP-0770,Green Goblin,Portal Disturbance,Queens,Clear,Morning,16,5,2,Moderate,Unavailable,8,15,Medium
+SP-0183,Venom,Robbery,Manhattan,Storm,Afternoon,14,1,9,Moderate,Available,10,7,Low
+SP-0515,Sandman,Portal Disturbance,Harlem,Storm,Night,27,7,9,Low,Available,4,10,Medium
+SP-1024,Prowler,Reactor Sabotage,Manhattan,Rain,Afternoon,18,8,9,Low,Available,8,8,Medium
+SP-0605,Sandman,Vehicle Chase,Harlem,Clear,Morning,25,4,8,Low,Available,8,8,Low
+SP-0539,Sandman,Lab Break-in,Queens,Rain,Morning,16,3,5,Moderate,Unavailable,2,17,Medium
+SP-1294,Kingpin,Public Attack,Manhattan,Clear,Morning,21,6,2,Low,Unavailable,6,15,Medium
+SP-0246,The Lizard,Robbery,Manhattan,Storm,Morning,21,5,3,Moderate,Available,7,9,Low
+SP-1090,Venom,Lab Break-in,Oscorp Labs,Fog,Afternoon,16,8,6,Low,Delayed,9,7,Medium

@@ -1,0 +1,43 @@
+,villain,incident_type,location,weather,time_of_day,civilians_at_risk,property_damage_level,web_trap_strength,spider_sense_alert,backup_status,villain_escape_risk,response_delay_minutes,true,predicted
+154,Doctor Octopus,Portal Disturbance,Oscorp Labs,Storm,Night,18,5,6,High,Delayed,1,7,Medium,High
+925,Doctor Octopus,Lab Break-in,Harlem,Clear,Night,12,3,7,Moderate,Available,3,9,Low,Medium
+1598,The Lizard,Robbery,Manhattan,Storm,Morning,21,5,3,Moderate,Available,7,9,Low,Medium
+1423,Green Goblin,Reactor Sabotage,Queens,Rain,Morning,25,8,2,Low,Available,4,7,High,Medium
+1131,Sandman,Robbery,Oscorp Labs,Storm,Evening,18,5,9,Low,Available,8,7,Medium,Low
+133,Kingpin,Reactor Sabotage,Times Square,Clear,Night,15,2,4,High,Unavailable,10,16,Medium,High
+647,Green Goblin,Hostage Rescue,Times Square,Fog,Morning,21,3,1,Low,Unavailable,3,18,High,Medium
+1447,Kingpin,Robbery,Oscorp Labs,Fog,Afternoon,21,9,6,Low,Available,7,1,Medium,Low
+341,Venom,Portal Disturbance,Brooklyn,Clear,Night,20,3,2,Low,Delayed,9,12,Medium,High
+765,Sandman,Portal Disturbance,Harlem,Fog,Afternoon,18,6,10,Low,Delayed,2,9,Medium,Low
+551,Mysterio,Robbery,Stark Tower,Clear,Afternoon,25,3,1,Moderate,Available,1,7,Medium,Low
+940,The Lizard,Portal Disturbance,Stark Tower,Storm,Morning,17,8,9,Moderate,Delayed,3,14,High,Medium
+1138,Doctor Octopus,Hostage Rescue,Oscorp Labs,Rain,Night,17,4,3,Moderate,Delayed,1,2,Medium,High
+465,Venom,Robbery,Stark Tower,Storm,Evening,13,4,9,Moderate,Delayed,5,9,Low,Medium
+841,Sandman,Hostage Rescue,Stark Tower,Storm,Afternoon,21,2,2,Low,Available,10,9,Medium,High
+191,Doctor Octopus,Portal Disturbance,Harlem,Rain,Night,15,5,1,Moderate,Available,10,4,Medium,High
+1375,Sandman,Portal Disturbance,Stark Tower,Clear,Afternoon,21,8,4,Low,Unavailable,1,20,High,Medium
+611,Sandman,Hostage Rescue,Queens,Rain,Night,14,7,1,High,Delayed,10,7,Medium,High
+713,The Lizard,Robbery,Brooklyn,Clear,Evening,14,6,7,Low,Available,8,8,Medium,Low
+1545,The Lizard,Portal Disturbance,Manhattan,Clear,Night,15,4,6,High,Available,9,7,High,Medium
+179,Mysterio,Hostage Rescue,Manhattan,Rain,Morning,14,4,7,Low,Available,1,8,Low,Medium
+1181,Mysterio,Robbery,Brooklyn,Clear,Afternoon,18,9,5,Moderate,Available,10,7,Medium,Low
+197,Prowler,Vehicle Chase,Brooklyn,Clear,Evening,18,9,10,High,Available,9,8,Medium,Low
+1452,Green Goblin,Portal Disturbance,Manhattan,Fog,Evening,25,10,8,High,Available,6,11,High,Medium
+1244,Mysterio,Vehicle Chase,Times Square,Clear,Evening,19,5,10,Moderate,Delayed,3,8,Medium,Low
+254,Prowler,Robbery,Queens,Fog,Evening,23,7,1,Low,Delayed,9,15,Medium,Low
+886,Prowler,Public Attack,Queens,Clear,Night,23,8,5,Moderate,Available,2,9,Low,Medium
+1253,The Lizard,Vehicle Chase,Harlem,Fog,Evening,17,1,5,High,Available,2,5,Medium,Low
+672,Green Goblin,Lab Break-in,Times Square,Rain,Morning,12,5,1,High,Available,9,1,Medium,High
+718,The Lizard,Reactor Sabotage,Times Square,Rain,Afternoon,12,6,7,Moderate,Delayed,6,15,High,Medium
+482,Prowler,Hostage Rescue,Times Square,Clear,Night,20,6,2,High,Available,5,10,High,Medium
+426,Sandman,Vehicle Chase,Brooklyn,Rain,Evening,16,4,8,High,Available,3,9,Medium,Low
+342,Kingpin,Hostage Rescue,Oscorp Labs,Rain,Morning,23,7,7,Low,Delayed,10,7,Medium,High
+305,Sandman,Lab Break-in,Times Square,Rain,Evening,15,2,7,Low,Delayed,2,13,Low,Medium
+1038,Green Goblin,Lab Break-in,Times Square,Clear,Afternoon,21,8,7,Moderate,Delayed,6,14,High,Medium
+667,The Lizard,Portal Disturbance,Times Square,Fog,Night,18,7,6,High,Unavailable,1,14,High,Medium
+1265,The Lizard,Portal Disturbance,Times Square,Clear,Night,19,5,1,Moderate,Available,2,10,High,Medium
+584,Mysterio,Robbery,Stark Tower,Clear,Morning,14,6,2,High,Available,6,5,Low,Medium
+1328,Venom,Hostage Rescue,Manhattan,Rain,Night,23,2,6,Low,Unavailable,6,16,High,Medium
+75,Green Goblin,Hostage Rescue,Harlem,Clear,Morning,24,9,7,Low,Unavailable,8,16,Medium,High
+188,Venom,Vehicle Chase,Times Square,Storm,Evening,19,2,10,Moderate,Available,3,4,Medium,Low
+683,Green Goblin,Lab Break-in,Times Square,Fog,Night,19,6,2,High,Available,2,3,High,Medium

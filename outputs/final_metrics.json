@@ -1,0 +1,12 @@
+{
+  "model": "Logistic Regression (tuned)",
+  "seed": 42,
+  "accuracy": 0.869,
+  "balanced acc": 0.829,
+  "macro precision": 0.819,
+  "macro recall": 0.829,
+  "macro F1": 0.823,
+  "High recall": 0.74,
+  "ROC-AUC (ovr)": 0.96,
+  "triage cost (lower=better)": 0.369
+}
